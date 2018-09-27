@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>PDF Upload | Mind Bytes</title>
+
+    <!-- core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/animate.min.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <link rel="shortcut icon" href="images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.uchicago.edu/favicon.ico">
+    <script src="js/plupload.full.min.js"></script>
+    <!-- debug 
+    <script type="text/javascript" src="js/moxie.js"></script>
+    <script type="text/javascript" src="js/plupload.dev.js"></script>
+    -->
+</head>
+<!--/head-->
+
+<body>
+
+    <header id="header">
+        <div class="top-bar">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 col-xs-4">
+                        <div class="top-number">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-xs-8">
+                        <div class="social">
+                            <ul class="social-share">
+                                <li><a href="https://www.facebook.com/pages/The-University-of-Chicago-Research-Computing-Center/498755713533665"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://twitter.com/intent/tweet?text=Mind+Bytes%3A+Research+Computing+Expo+and+Symposium+%7C+Research+Computing+Center&url=https%3A%2F%2Frcc.uchicago.edu%2Fabout-rcc%2Fmind-bytes-research-computing-expo-and-symposium%23.VT5ZDGCCH8I.twitter&related="><i class="fa fa-twitter"></i></a></li>
+                            </ul>
+                            <div class="search">
+                                <form role="form">
+                                    <input type="text" class="search-form" autocomplete="off" placeholder="Search">
+                                    <i class="fa fa-search"></i>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--/.container-->
+        </div>
+        <!--/.top-bar-->
+
+        <nav class="navbar navbar-inverse" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html"><img src="images/logo_whte.png" alt="logo"></a>
+                </div>
+
+                <div class="collapse navbar-collapse navbar-right">
+                    <ul class="nav navbar-nav">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="registration.html">Registration</a></li>
+                        <li><a href="program.html">Program</a></li>
+                        <li class="active"><a href="posters.html">Call for Posters</a></li>
+                        <li><a href="venue.html">Venue</a></li>
+                        <li><a href="contact-us.html">Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!--/.container-->
+        </nav>
+        <!--/nav-->
+    </header>
+    <!--/header-->
+
+
+    <div class="container">
+        <div class="row">
+
+
+            <body style="font: 13px Verdana; background: #eee; color: #333">
+                <div class="panel panel-default">
+
+                    <div class="panel-body">
+                        <p>A major feature of the Mind Bytes event is the poster session, designed to enable the exchange of ideas across disciplines and reward researchers' work.</p>
+                        <p>The posters should represent research projects that showcase the application of either high-end computing, big data, visualization, or RCC consultants in research and that leveraged RCC's resources. The RCC will print and display these posters in Ida Noyes Hall during the event. Judges will evaluate posters on the researcher's unique implementation of RCC resources. Each poster will be evaluated with respect to its field and the researcher's ability to use HPC in novel ways.</p>
+                        <div class="panel-heading">
+                            <h1 class="panel-title">Mind Bytes Award Categories <i><small>(please click on the title to view the description)</i></small></h1>
+                            <br>
+                            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingOne">
+                                        <h4 class="panel-title">
+                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            The RCC Mind Bytes Award for Visualization in Research
+                            </a>
+                        </h4>
+                                    </div>
+                                    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+                                        <div class="panel-body">
+                                            This award, given in memory of Kathleen A. Zar, acknowledges the research team whose poster offers the most compelling data visualization of scientific research that utilize RCC resources. Contestants will be evaluated on the novelty of the technology that they implement; the level of difficulty of their visualization; and the technical use of RCC resources to produce the visualization.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingTwo">
+                                        <h4 class="panel-title">
+                             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                             The RCC Mind Bytes Award for Performance and Scalability
+                            </a>
+                         </h4>
+                                    </div>
+                                    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                                        <div class="panel-body">
+                                            The performance and scalability prize will be awarded to a researcher whose poster demonstrates the best implementation and performance of RCC's Midway compute cluster. Performance tuning and parallelization of codes are becoming increasingly important in order to effectively use modern hardware and implement complex algorithms. The judges are not just interested in code that runs on the greatest number of cores but the code that are best tuned to the existing hardware and/or demonstrates the greatest performance speed-up when scaled.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingThree">
+                                        <h4 class="panel-title">
+                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            The RCC Mind Bytes Award for Big-Data Research
+                            </a>
+                        </h4>
+                                    </div>
+                                    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                                        <div class="panel-body">
+                                            The big-data prize will be given to the poster that shows research that fulfills the four Vs of big-data research: volume, velocity, veracity, and variety relative to the field of study. The judges will evaluate not just the size and scope of researchers' data but also the novelty of how they extract knowledge from the data and the efficiency and innovation with which it is processed on the RCC Midway compute resources.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingFour">
+                                        <h4 class="panel-title">
+                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                            The RCC Mind Bytes Attendees' Choice Award
+                            </a>
+                        </h4>
+                                    </div>
+                                    <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+                                        <div class="panel-body">
+                                            Throughout the afternoon Mind Bytes attendees will have several opportunities to browse the poster gallery. Guests will be able to cast votes for their favorite posters using voting stations set up at the event.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingFive">
+                                        <h4 class="panel-title">
+                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                            The RCC Mind Bytes Judges' Choice Award
+                            </a>
+                        </h4>
+                                    </div>
+                                    <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+                                        <div class="panel-body">
+                                            The Judges will select a poster that is not selected for the other categories, but is deserving of an award.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <p>Poster submissions are now <b>CLOSED</b>.</p>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+    <section id="bottom">
+        <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                    <div class="widget">
+                        <h3>Mind Bytes:</h3>
+                        <p><i>Research Computing Expo and Symposium</i></p>
+                        <ul>
+                            <li><a href="https://maps.uchicago.edu/?location=Ida+Noyes+Hall">Ida Noyes Hall</a></li>
+                            <li><a href="https://maps.uchicago.edu/?location=Ida+Noyes+Hall">1212 E. 59th Street</a></li>
+                            <li><a href="https://maps.uchicago.edu/?location=Ida+Noyes+Hall">Chicago, IL 60637</a></li>
+                            <li><a href="https://maps.uchicago.edu/?location=Ida+Noyes+Hall">United States</a></li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!--/.col-md-3-->
+
+                <div class="col-md-3 col-sm-6">
+                    <div class="widget">
+                        <h3>&nbsp;</h3>
+                        <ul>
+                            <li><a href="registration.html">Register</a></li>
+                            <li><a href="program.html">Program</a></li>
+                            <li><a href="posters.html">Call For Posters</a></li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!--/.col-md-3-->
+
+                <div class="col-md-3 col-sm-6">
+                    <div class="widget">
+                        <h3>&nbsp;</h3>
+                        <ul>
+                            <li><a href="venue.html">Venue</a></li>
+                            <li><a href="contact-us.html">Contact Us</a></li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!--/.col-md-3-->
+
+                <div class="col-md-3 col-sm-6">
+                    <div class="widget">
+                        <h3>&nbsp;</h3>
+                        <ul>
+                            <li>
+                                <a href="https://rcc.uchicago.edu"><img src="../images/footer/logo_white.png"></a>
+                            </li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                            <li>
+                                <a href="#"></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!--/.col-md-3-->
+            </div>
+        </div>
+    </section>
+    <!--/#bottom-->
+
+    <footer id="footer" class="midnight-blue">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    &copy; 2015 <a target="_blank" href="http://www.uchicago.edu" title="The University of Chicago">The University of Chicago</a>
+                </div>
+                <div class="col-sm-6">
+                    <ul class="pull-right">
+                        <li>
+                            <a href="#"></a>
+                        </li>
+                        <li>
+                            <a href="#"></a>
+                        </li>
+                        <li>
+                            <a href="#"></a>
+                        </li>
+                        <li>
+                            <a href="#"></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+    <!--/#footer-->
+
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script src="js/jquery.isotope.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/wow.min.js"></script>
+
+
+    </body>
+
+</html>
