@@ -9682,3 +9682,98 @@ form.submission_form label.error {
 	cursor: pointer;
 	pointer-events: auto;	
 }
+
+.home-promise {
+    position: relative;
+    overflow: hidden
+}
+@media only screen and (max-width: 40em) {
+    .home-promise: before {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        height: 4px;
+        background: rgba(0, 0, 0, .1);
+        z-index: 1
+    }
+}
+.promise-language {
+    position: relative;
+    opacity: 0;
+    transition: opacity .75s 0
+}
+
+.home-promise.animate .promise-language {
+    opacity: 1;
+    transition: all 1s 1s
+}
+
+.promise-trident {
+    text-align: center;
+    position: absolute;
+    height: 100%;
+    left: 50%;
+    top: 0;
+    transform: translate3d(-50%, 0, 0);
+    transition: all 1s;
+    will-change: transform
+}
+.promise-trident object {
+    height: 1000%;
+    transform: scale3d(.1, .1, 1);
+    -ms-transform-origin: 50% 0;
+    transform-origin: 50% 0;
+    transition: all 1s;
+    will-change: transform
+}
+@media only screen and (max-width: 600px) {
+    .home-promise.animate .promise-trident {
+        transform: translate3d(-77%, -660%, 0)
+    }
+    .home-promise.animate .promise-trident object {
+        transform: scale3d(1, 1, 1)
+    }
+}
+@media only screen and (min-width: 641px) {
+    .home-promise.animate .promise-trident {
+        transform: translate3d(-68%, -660%, 0)
+    }
+    .home-promise.animate .promise-trident object {
+        transform: scale3d(1, 1, 1)
+    }
+}
+@media only screen and (min-width: 900px) {
+    .home-promise.animate .promise-trident {
+        transform: translate3d(-67%, -660%, 0)
+    }
+}
+@media only screen and (min-width: 1025px) {
+    .home-promise.animate .promise-trident {
+        transform: translate3d(-67%, -660%, 0)
+    }
+}
+@media only screen and (min-width: 1160px) {
+    .home-promise.animate .promise-trident {
+        transform: translate3d(-64%, -660%, 0)
+    }
+}
+@media only screen and (min-width: 1275px) {
+    .home-promise.animate .promise-trident {
+        transform: translate3d(-60%, -660%, 0)
+    }
+}
+@media only screen and (min-width: 1450px) {
+    .home-promise.animate .promise-trident {
+        transform: translate3d(-55%, -660%, 0)
+    }
+}
+@media only screen and (min-width: 1680px) {
+    .home-promise.animate .promise-trident {
+        transform: translate3d(-56%, -790%, 0)
+    }
+    .home-promise.animate .promise-trident object {
+        transform: scale3d(1.2, 1.2, 1)
+    }
+}

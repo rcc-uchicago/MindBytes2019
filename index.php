@@ -1369,16 +1369,20 @@
                 </div>
             </div>
         </section>
-
+        
         <!-- Section: Sponsors -->
-        <section id="sponsors">
+        <section id="sponsors" class="home-promise collapsed section no-content">
             <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
                 <div class="container pt-50 pb-50">
                     <div class="section-title">
                         <div class="row">
                             <div class="col-md-6 col-md-offset-3 text-center">
-                                <h2 class="title text-white mb-0">Sponsors</h2>
-                            </div>
+                                <div class="promise-trident">
+                                    <object class="iu-trident" type="image/svg+xml" data="images/shield.svg"></object>
+                                </div>
+                                <div class="promise-language">
+                                    <h2 class="title text-theme-colored mb-0">Sponsors</h2></div>                                
+                                </div>
                         </div>
                     </div>
                 </div>
@@ -1456,6 +1460,8 @@
 <!-- Footer Scripts -->
 <!-- JS | Custom script for all pages -->
 <script src="js/custom.js"></script>
+
+<script src="js/site.js"></script>
 
 <!-- PAGE SCRIPT  -->
 <script type="text/javascript">
