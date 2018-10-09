@@ -158,7 +158,7 @@
                                                  data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                  data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                  style="z-index: 8; white-space: nowrap; font-size: 30px; line-height: 40px; font-weight: 500; color: rgba(255,255,255,1);font-family:Poppins;">
-                                                Research Computing Center
+                                                 Research Computing Expo and Symposium
                                             </div>
 
                                             <div class="tp-caption tp-resizeme" id="slide-1-layer-2"
@@ -178,7 +178,7 @@
                                                  data-paddingright="[0,0,40,40]" data-paddingbottom="[0,0,0,0]"
                                                  data-paddingleft="[0,0,40,40]"
                                                  style="z-index: 9; white-space: nowrap; font-size: 110px; line-height: 100px; font-weight: 600; color: rgba(255,255,255,1); display: inline-block;font-family:Poppins;letter-spacing:-5px;">
-                                                Mind Bytes <span class="thin">2019</span></div>
+                                                Mind Bytes <span class="thin">'19</span></div>
 
                                             <div class="tp-caption tp-resizeme Newspaper-Subtitle" id="slide-1-layer-3"
                                                  data-x="['left','left','center','center']"
@@ -196,7 +196,7 @@
                                                  data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                  data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                  style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">
-                                                May 2019, The University of Chicago
+                                                May 2019
                                             </div>
 
                                             <!-- LAYER NR. 4 -->
@@ -347,7 +347,7 @@
                                                  data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                  data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                  style="z-index: 8; white-space: nowrap; font-size: 30px; line-height: 40px; font-weight: 500; color: rgba(255,255,255,1);font-family:Poppins;">
-                                                Research Computing Center
+                                                 Research Computing Expo and Symposium
                                             </div>
 
                                             <div class="tp-caption tp-resizeme" id="slide-2-layer-2"
@@ -369,7 +369,7 @@
                                                  data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,40,40]"
                                                  data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,40,40]"
                                                  style="z-index: 8; white-space: nowrap; font-size: 110px; line-height: 100px; font-weight: 600; color: rgba(255,255,255,1); display: inline-block;font-family:Poppins;letter-spacing:0px;">
-                                                Mind Bytes <span class="thin">2019</span></div>
+                                                Mind Bytes <span class="thin">'19</span></div>
 
                                             <!--<div class="tp-caption tp-resizeme Newspaper-Subtitle" id="slide-2-layer-3" data-x="['left','left','center','center']" data-hoffset="['0','50','0','0']" data-y="['top','top','top','top']" data-voffset="['0','430','460','290']" data-fontsize="['40','40','50','35']"
                                                 data-lineheight="['50','50','60','40']" data-width="['none','100%','100%','100%']" data-height="none" data-whitespace="normal" data-type="text" data-basealign="slide" data-responsive_offset="on" data-frames='[{"delay":"+500","split":"chars","splitdelay":0.03,"speed":300,"frame":"0","from":"sX:2;sY:2;opacity:0;fb:5px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},{"delay":"wait","speed":1000,"frame":"999","to":"opacity:0;fb:10px;","ease":"Power4.easeOut"}]'
@@ -411,7 +411,7 @@
                                                  data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                  data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                  style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">
-                                                May 2019, The University of Chicago
+                                                 May 2019
                                             </div>
 
                                         </div>
@@ -510,7 +510,7 @@
                                                  data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                  data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                  style="z-index: 8; white-space: nowrap; font-size: 30px; font-weight: 500; color: rgba(255,255,255,1);font-family:Poppins;">
-                                                Research Computing Center
+                                                 Research Computing Expo and Symposium
                                             </div>
 
                                             <div class="tp-caption tp-resizeme" id="slide-3-layer-2"
@@ -530,7 +530,7 @@
                                                  data-paddingright="[0,0,40,40]" data-paddingbottom="[0,0,0,0]"
                                                  data-paddingleft="[0,0,40,40]"
                                                  style="z-index: 9; white-space: nowrap; font-size: 110px; line-height: 100px; font-weight: 600; color: rgba(255,255,255,1); display: inline-block;font-family:Poppins;letter-spacing:-5px;">
-                                                Mind Bytes <span class="thin">2019</span></div>
+                                                Mind Bytes <span class="thin">'19</span></div>
 
                                             <!--<div class="tp-caption tp-resizeme Newspaper-Subtitle" id="slide-3-layer-3"
                                                  data-x="['left','left','center','center']"
@@ -548,7 +548,7 @@
                                                  data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                  data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                  style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">
-                                                May 2019, The University of Chicago
+                                                May 2019
                                             </div>-->
 
                                             <!--<div class="tp-caption tp-resizeme" id="slide-3-layer-3"
@@ -714,7 +714,7 @@
                                         grab: {distance: 400, line_linked: {opacity: 0.5}},
                                         bubble: {
                                             distance: 400,
-                                            size: 100,
+                                            size: 20,
                                             "duration": 2,
                                             "opacity": 8,
                                             "speed": 3,
@@ -819,17 +819,13 @@
                             5th Annual Mind Bytes!</h3>
                         <div class="sec-line wow fadeInUp"></div>
                         <div class="wow bounceInDown" data-wow-delay="0.5s">
-                            <p class="mb-20 text-justify">The <a href="https://rcc.uchicago.edu" target="_blank">Research
+                            <!--<p class="mb-20 text-justify">The <a href="https://rcc.uchicago.edu" target="_blank">Research
                                 Computing Center (RCC)</a> at the University of Chicago is pleased to announce its fifth
-                                annual research computing symposium and exposition, Mind Bytes 2019.
+                                annual research computing symposium and exposition, Mind Bytes 2019. -->
                                 <!-- This event will be held on <b>Wednesday, May 8th, 2019</b> in Ida Noyes Hall at the University of Chicago's Hyde Park campus.-->
-                            </p>
-                            <p class="text-justify"><b>Mind Bytes</b> is a celebration of scholarship and research
-                                computing and a unique event that brings together faculty, staff, and students from
-                                every corner of the University who share an interest in high-end computing, data,
-                                scientific visualization, and the use of computation and data to advance the state of
-                                the art of their fields in new ways. The theme for discussion for this year's event is:
-                                <b>Data Science: Complexity of Connections</b></p>
+                            <!-- </p> -->
+                            <p class="text-justify"><b>Mind Bytes</b> is a celebration of scholarship and research computing. It is a unique event that brings together faculty, staff, and students from every corner of the University who share an interest in high-end computing, data, scientific visualization, and the use of computation and data to advance what is considered state of the art in their fields. The theme for discussion for this year's event is:
+                                <b>Data Science: The Complexity of Connections</b></p>
                             <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase smooth-scroll font-13 mt-10"
                                href="program.php"><i class="fa fa-eye" aria-hidden="true"></i> See Event Schedule</a>
                             <!--<a class="btn btn-dark-light btn-lg text-uppercase smooth-scroll font-13 mt-10" href="registration.php" target="_self">Register Now <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a>-->
@@ -872,60 +868,54 @@
                 <div class="row mb-20">
                     <div class="col-md-4 mb-sm-20">
                         <div class="about-icon icon-box iconbox-theme-colored wow bounceInLeft">
-                            <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded"
-                               href="#" target="_self">
-                                <i class="pe-7s-gleam font-48"></i></a>
-                            <h4 class="title"><a href="#" target="_self">Lightning Talks</a></h4>
+                            <span class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded">
+                                <i class="pe-7s-gleam font-48"></i></span>
+                            <h4 class="title">Lightning Talks</h4>
                             <p>University of Chicago faculty present fast-paced summaries of their research.</p>
                         </div>
                     </div>
                     <div class="col-md-4 mb-sm-20">
                         <div class="about-icon icon-box iconbox-border iconbox-theme-colored wow flipInX center">
-                            <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded"
-                               href="#speakers" target="_self">
+                            <span class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded">
                                 <i class="pe-7s-micro font-48"></i>
-                            </a>
-                            <h4 class="title"><a href="#speakers" target="_self">Speakers</a></h4>
+                            </span>
+                            <h4 class="title">Speakers</h4>
                             <p>Distinguished experts, from a range of fields, speak about their experiences, work, and
                                 research.</p>
                         </div>
                     </div>
                     <div class="col-md-4 mb-sm-20">
                         <div class="about-icon icon-box iconbox-border iconbox-theme-colored wow bounceInRight">
-                            <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded"
-                               href="#" target="_self">
-                                <i class="pe-7s-display2 font-48"></i></a>
-                            <h4 class="title"><a href="#" target="_self">Poster Competition</a></h4>
-                            <p>Four awards was given to the best research posters presented at Mind Bytes.</p>
+                            <span class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded">
+                                <i class="pe-7s-display2 font-48"></i></span>
+                            <h4 class="title">Poster Competition</h4>
+                            <p>Four awards will be given to the best research posters presented at Mind Bytes.</p>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4 mb-sm-20">
                         <div class="about-icon icon-box iconbox-theme-colored wow rollIn" data-wow-delay="0.5s">
-                            <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded"
-                               href="#" target="_self">
-                                <i class="pe-7s-target font-48"></i></a>
-                            <h4 class="title"><a href="#" target="_self">Resource Fair</a></h4>
+                            <span class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded">
+                                <i class="pe-7s-target font-48"></i></span>
+                            <h4 class="title">Resource Fair</h4>
                             <p>Learn how RCC and other resources can transform your research.</p>
                         </div>
                     </div>
                     <div class="col-md-4 mb-sm-20">
                         <div class="about-icon icon-box iconbox-theme-colored wow bounceInDown center"
                              data-wow-delay="0.5s">
-                            <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded"
-                               href="#" target="_self">
-                                <i class="pe-7s-config font-48"></i></a>
-                            <h4 class="title"><a href="#" target="_self">Technical Demonstrations</a></h4>
+                            <span class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded">
+                                <i class="pe-7s-config font-48"></i></span>
+                            <h4 class="title">Technical Demonstrations</h4>
                             <p>Discover new technologies and concepts to benefit your scholarship.</p>
                         </div>
                     </div>
                     <div class="col-md-4 mb-sm-20">
                         <div class="about-icon icon-box iconbox-theme-colored wow lightSpeedIn" data-wow-delay="0.5s">
-                            <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded"
-                               href="networking.php" target="_self">
-                                <i class="pe-7s-network font-48"></i></a>
-                            <h4 class="title"><a href="networking.php" target="_self">Networking Opportunities</a></h4>
+                            <span class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded">
+                                <i class="pe-7s-network font-48"></i></span>
+                            <h4 class="title">Networking Opportunities</h4>
                             <p>Meet your peers from across disciplines working on similar problems.</p>
                         </div>
                     </div>
@@ -1194,7 +1184,8 @@
             <div class="container">
                 <div class="row wow bounceInUp center" data-wow-delay="0.5s">
                     <div class="col-md-12 text-center">
-                        <h2 class="text-white mt-0">We look forward to seeing you this year!</h2>
+                        <!--<h2 class="text-white mt-0">We look forward to seeing you this year!</h2>-->
+                        <h2 class="text-white mt-0">Here’s What Happened in Previous Years:</h2>
                         <!--<h3 class="text-gray-darkgray mt-0">Registration is still open.</h3>-->
                         <!--<h3 class="text-gray-darkgray mt-0">Registration opens on Feb 19, 2018.</h3>-->
                     </div>
@@ -1215,13 +1206,13 @@
         <section id="gallery" class="divider parallax layer-overlay overlay-deep" data-stellar-background-ratio="0.5"
                  data-bg-img="images/bg/mindbytes.jpg">
             <div class="container-fluid pt-20 pb-20">
-                <div class="section-title">
+                <!--<div class="section-title">
                     <div class="row">
                         <div class="col-md-12 col-md-offset-0 text-center">
                             <h3 class="title text-theme-colored">Here’s What Happened in Previous Years:</h3>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <div class="schedule-tab center wow fadeInDown" data-wow-delay="0.5s">
                     <ul class="nav nav-tabs" style="margin-bottom: 20px;">
                         <li class=""><a href="http://mindbytes.uchicago.edu/2018"
@@ -1287,9 +1278,7 @@
                                     </div>
                                     <div class="overlay">
                                         <div class="content text-center">
-                                            <h6 class="title font-14 mt-30 mb-0">Assistant Vice President for Research
-                                                Computing, Director of the Research Computing Center, welcomes the
-                                                attendees.</h6>
+                                            <h6 class="title font-14 mt-30 mb-0">Birali Runesha, Assistant Vice President for Research Computing, Director of the Research Computing Center, welcomes the attendees.</h6>
                                         </div>
                                     </div>
                                 </div>
@@ -1302,8 +1291,7 @@
                                     </div>
                                     <div class="overlay">
                                         <div class="content text-center">
-                                            <h6 class="title font-14 mt-30 mb-0">Eric Isaacs gives the opening
-                                                remarks.</h6>
+                                            <h6 class="title font-14 mt-30 mb-0">Former Executive Vice President for Research and National Labs, Eric Isaacs, gives the opening remarks.</h6>
                                         </div>
                                     </div>
                                 </div>
@@ -1371,7 +1359,7 @@
         </section>
         
         <!-- Section: Sponsors -->
-        <section id="sponsors" class="home-promise collapsed section no-content">
+        <!--<section id="sponsors" class="home-promise collapsed section no-content">
             <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
                 <div class="container pt-50 pb-50">
                     <div class="section-title">
@@ -1386,25 +1374,45 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <!-- divider: what makes us different -->
-            <section class="divider parallax layer-overlay overlay-light" data-stellar-background-ratio="0.5"
-                     data-bg-img="images/bg/rise_hands.png">
+            </div>-->
+
+            <section id="sponsors" class="divider parallax layer-overlay overlay-darkblue">
                 <div class="container">
-                    <div class="section-content text-center">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <h3 class="mt-0">Are you interested in sponsoring Mind Bytes?</h3>
-                                <h2>Call at <span class="text-theme-colored">773.795.2667</span><br>Email us at <a
-                                        class="text-theme-colored"
-                                        href="mailto:events@rcc.uchicago.edu?Subject=Question%20regarding%20Sponsoring%20Mind%20Bytes%202019"
-                                        target="_top">events@rcc.uchicago.edu</a></h2>
+                    <div class="row wow bounceInUp center" data-wow-delay="0.5s">
+                        <div class="col-md-12 text-center">
+                            <h2 class="text-white mt-0">Are you interested in sponsoring Mind Bytes?</h2>
+                        </div>
+
+                <!--<div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
+                    <div class="container pt-50 pb-50">
+                        <div class="section-title">
+                            <div class="row">
+                                <div class="col-md-6 col-md-offset-3 text-center">
+                                    <h2 class="title text-white mb-0">Sponsors</h2>
+                                    <h3 class="mt-0"></h3>
+                                </div>
+                            </div>
+                        </div>-->
+                    </div>
+                </div>
+
+                <!-- divider: what makes us different -->
+                <section class="divider parallax layer-overlay overlay-light" data-stellar-background-ratio="0.5"
+                        data-bg-img="images/bg/rise_hands.png">
+                    <div class="container">
+                        <div class="section-content text-center">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <!--<h3 class="mt-0">Are you interested in sponsoring Mind Bytes?</h3>-->
+                                    <h2>Call at <span class="text-theme-colored">773.795.2667</span><br>Email us at <a
+                                            class="text-theme-colored"
+                                            href="mailto:events@rcc.uchicago.edu?Subject=Question%20regarding%20Sponsoring%20Mind%20Bytes%202019"
+                                            target="_top">events@rcc.uchicago.edu</a></h2>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </section>
-
+                </section>
 
             <!--<div class="parallax layer-overlay overlay-light bg-white-light" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg_sponsor.png">
                 <div class="container pb-80 pt-80">
@@ -1461,7 +1469,7 @@
 <!-- JS | Custom script for all pages -->
 <script src="js/custom.js"></script>
 
-<script src="js/site.js"></script>
+<!--<script src="js/site.js"></script>-->
 
 <!-- PAGE SCRIPT  -->
 <script type="text/javascript">

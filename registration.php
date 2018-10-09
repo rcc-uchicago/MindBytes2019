@@ -142,7 +142,7 @@
                                     <div class="col-md-12">
                                         <div class="schedule-tab">
                                             <div class="alert alert-danger wow zoomIn" data-wow-duration="1s" data-wow-offset="100" style="visibility: visible; animation-duration: 1s; animation-name: zoomIn;">
-                                                <h3 class="text-justify"><b>There is no cost for attending Mind Bytes, and the event is open to all faculty, students, staffs and university affiliates.</b></h3>
+                                                <h3 class="text-justify"><b>There is no cost for attending Mind Bytes, and the event is open to all faculty, students, staff, and university affiliates.</b></h3>
                                             </div>
                                         </div>
                                         <!--<div class="schedule-box mb-30" data-bg-color="#f5f5f5">-->
