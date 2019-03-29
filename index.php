@@ -196,7 +196,7 @@
                                                  data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                  data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                  style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">
-                                                May 2019
+                                                Fall 2019
                                             </div>
 
                                             <!-- LAYER NR. 4 -->
@@ -411,7 +411,7 @@
                                                  data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                  data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                  style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">
-                                                 May 2019
+                                                 Fall 2019
                                             </div>
 
                                         </div>
@@ -824,7 +824,7 @@
                                 annual research computing symposium and exposition, Mind Bytes 2019. -->
                                 <!-- This event will be held on <b>Wednesday, May 8th, 2019</b> in Ida Noyes Hall at the University of Chicago's Hyde Park campus.-->
                             <!-- </p> -->
-                            <p class="text-justify"><b>Mind Bytes</b> is a celebration of scholarship and research computing. It is a unique event that brings together faculty, staff, and students from every corner of the University who share an interest in high-end computing, data, scientific visualization, and the use of computation and data to advance what is considered state of the art in their fields. The theme for discussion for this year's event is:
+                            <p class="text-justify"><b>Mind Bytes</b> is a celebration of scholarship and research computing. It is a unique event that brings together faculty, staff, and students from every corner of the University who share an interest in high-end computing, data, scientific visualization, and the use of computation and data to advance what is considered state of the art in their fields. The theme for discussion for this year's event is
                                 <b>Data Science: The Complexity of Connections</b></p>
                             <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase smooth-scroll font-13 mt-10"
                                href="program.php"><i class="fa fa-eye" aria-hidden="true"></i> See Event Schedule</a>

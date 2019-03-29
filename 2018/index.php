@@ -208,13 +208,13 @@
                                                     data-margintop="[80,80,80,80]" data-marginright="[0,0,0,0]" data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]" data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                     data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">We look forward to seeing you</div>-->
 
-                                                <div class="tp-caption tp-resizeme" id="slide-2-layer-4" data-x="['left','left','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['140']" data-fontsize="['110','90','100','70']" data-lineheight="['100','90','100','70']"
+                                                <!--<div class="tp-caption tp-resizeme" id="slide-2-layer-4" data-x="['left','left','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['140']" data-fontsize="['110','90','100','70']" data-lineheight="['100','90','100','70']"
                                                     data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
                                                     data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="2200" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-responsive="on"
                                                     data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":1250,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
                                                     style="z-index: 9; white-space: nowrap; text-transform:left; font-size: 110px; line-height: 100px; font-weight: 600; color: rgba(255,255,255,1); font-family:Poppins; letter-spacing:1px;">
-                                                    <div class="front-clock countdown-timer timer-box timer-deep-bg timer-responsive" data-endingdate="2019/05/08 12:00:00"></div>
-                                                </div>
+                                                    <div class="front-clock countdown-timer timer-box timer-deep-bg timer-responsive" data-endingdate="2018/05/08 12:00:00"></div>
+                                                </div>-->
 
                                                 <div class="tp-caption tp-resizeme Newspaper-Subtitle" id="slide-2-layer-5" data-x="['left','left','center','center']" data-hoffset="['0','50','0','0']" data-y="['top','top','top','top']" data-voffset="['0','430','460','290']" data-fontsize="['40','40','50','35']"
                                                     data-lineheight="['50','50','60','40']" data-width="['none','100%','100%','100%']" data-height="none" data-whitespace="normal" data-type="text" data-basealign="slide" data-responsive_offset="on" data-frames='[{"delay":"+890","split":"chars","splitdelay":0.03,"speed":300,"frame":"0","from":"sX:2;sY:2;opacity:0;fb:5px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},{"delay":"wait","speed":1000,"frame":"999","to":"opacity:0;fb:10px;","ease":"Power4.easeOut"}]'
@@ -755,7 +755,7 @@
                 <div class="container">
                     <div class="row wow bounceInUp center" data-wow-delay="0.5s">
                         <div class="col-md-8 text-center">
-                            <h2 class="text-white mt-0">We look forward to seeing you this year!</h2>
+                            <h2 class="text-white mt-0">We look forward to seeing you next year next year!</h2>
                             <!--<h3 class="text-gray-darkgray mt-0">Registration is still open.</h3>-->
                             <!--<h3 class="text-gray-darkgray mt-0">Registration opens on Feb 19, 2018.</h3>-->
                         </div>

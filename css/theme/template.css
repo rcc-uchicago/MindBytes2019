@@ -1017,14 +1017,18 @@ fieldset[disabled] .btn-theme-colored.focus {
 }
 
 .icon-box.iconbox-theme-colored .icon.icon-gray.icon-bordered {
-    border-color: #eeeeee;
-}
-
-.icon-box.iconbox-theme-colored .icon.icon-gray.icon-bordered:hover {
+    _border-color: #eeeeee;
+    /* REMOVE THIS */
     background-color: #800000;
     border-color: #800000;
     color: #fff;
 }
+
+/* .icon-box.iconbox-theme-colored .icon.icon-gray.icon-bordered:hover {
+    background-color: #800000;
+    border-color: #800000;
+    color: #fff;
+} */
 
 .icon-box.iconbox-theme-colored .icon.icon-dark {
     background-color: #800000;
