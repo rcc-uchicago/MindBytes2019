@@ -196,7 +196,7 @@
                                                  data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                  data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                  style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">
-                                                Fall 2019
+                                                October 29, 2019
                                             </div>
 
                                             <!-- LAYER NR. 4 -->
@@ -411,7 +411,7 @@
                                                  data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                  data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                  style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">
-                                                 Fall 2019
+                                                 October 29, 2019
                                             </div>
 
                                         </div>
