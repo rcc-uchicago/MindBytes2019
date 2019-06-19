@@ -868,27 +868,26 @@
                 <div class="row mb-20">
                     <div class="col-md-4 mb-sm-20">
                         <div class="about-icon icon-box iconbox-theme-colored wow bounceInLeft">
-                            <span class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded">
-                                <i class="pe-7s-gleam font-48"></i></span>
-                            <h4 class="title">Lightning Talks</h4>
+                            <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded" href="lightningtalks.php" target="_self">
+                                <i class="pe-7s-gleam font-48"></i></a>
+                            <h4 class="title"><a href="lightningtalks.php" target="_self">Lightning Talks</a></h4>
                             <p>University of Chicago faculty present fast-paced summaries of their research.</p>
                         </div>
                     </div>
                     <div class="col-md-4 mb-sm-20">
                         <div class="about-icon icon-box iconbox-border iconbox-theme-colored wow flipInX center">
-                            <span class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded">
-                                <i class="pe-7s-micro font-48"></i>
-                            </span>
-                            <h4 class="title">Speakers</h4>
+                            <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded" href="speakers.php" target="_self">
+                                <i class="pe-7s-micro font-48"></i></a>
+                            <h4 class="title"><a href="speakers.php" target="_self">Speakers</a></h4>
                             <p>Distinguished experts, from a range of fields, speak about their experiences, work, and
                                 research.</p>
                         </div>
                     </div>
                     <div class="col-md-4 mb-sm-20">
                         <div class="about-icon icon-box iconbox-border iconbox-theme-colored wow bounceInRight">
-                            <span class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded">
-                                <i class="pe-7s-display2 font-48"></i></span>
-                            <h4 class="title">Poster Competition</h4>
+                            <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded" href="callforposters.php" target="_self">
+                                <i class="pe-7s-display2 font-48"></i></a>
+                            <h4 class="title"><a href="callforposters.php" target="_self">Poster Competition</a></h4>
                             <p>Four awards will be given to the best research posters presented at Mind Bytes.</p>
                         </div>
                     </div>
@@ -896,26 +895,26 @@
                 <div class="row">
                     <div class="col-md-4 mb-sm-20">
                         <div class="about-icon icon-box iconbox-theme-colored wow rollIn" data-wow-delay="0.5s">
-                            <span class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded">
-                                <i class="pe-7s-target font-48"></i></span>
-                            <h4 class="title">Resource Fair</h4>
+                            <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded" href="fair.php" target="_self">
+                                <i class="pe-7s-target font-48"></i></a>
+                            <h4 class="title"><a href="fair.php" target="_self">Resource Fair</a></h4>
                             <p>Learn how RCC and other resources can transform your research.</p>
                         </div>
                     </div>
                     <div class="col-md-4 mb-sm-20">
                         <div class="about-icon icon-box iconbox-theme-colored wow bounceInDown center"
                              data-wow-delay="0.5s">
-                            <span class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded">
-                                <i class="pe-7s-config font-48"></i></span>
-                            <h4 class="title">Technical Demonstrations</h4>
+                            <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded" href="demos.php" target="_self">
+                                <i class="pe-7s-config font-48"></i></a>
+                            <h4 class="title"><a href="demos.php" target="_self">Technical Demonstrations</a></h4>
                             <p>Discover new technologies and concepts to benefit your scholarship.</p>
                         </div>
                     </div>
                     <div class="col-md-4 mb-sm-20">
                         <div class="about-icon icon-box iconbox-theme-colored wow lightSpeedIn" data-wow-delay="0.5s">
-                            <span class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded">
-                                <i class="pe-7s-network font-48"></i></span>
-                            <h4 class="title">Networking Opportunities</h4>
+                            <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded" href="networking.php" target="_self">
+                                <i class="pe-7s-network font-48"></i></a>
+                            <h4 class="title"><a href="networking.php" target="_self">Networking Opportunities</a></h4>
                             <p>Meet your peers from across disciplines working on similar problems.</p>
                         </div>
                     </div>

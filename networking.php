@@ -113,6 +113,7 @@
                                             <!-- Works Filter -->
                                             <div class="portfolio-filter font-alt align-center wow bounceInRight">
                                                 <a href="#" class="active bg-theme-colored" data-filter="*">All</a>
+                                                <a href="#2018" class="bg-theme-colored" data-filter=".2018">2018</a>
                                                 <a href="#2017" class="bg-theme-colored" data-filter=".2017">2017</a>
                                                 <a href="#2015" class="bg-theme-colored" data-filter=".2015">2015</a>
                                                 <a href="#2014" class="bg-theme-colored" data-filter=".2014">2014</a>

@@ -112,7 +112,7 @@
                         </div>
                     </div>
 
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-md-8 col-xs-12 wow bounceInRight" data-wow-delay="0.5s">
                             <div class="horizontal-tab">
                                 <ul class="nav nav-tabs">
@@ -126,7 +126,7 @@
                                             class="pe-7s-albums"></i>Award Categories</a></li>
                                     <li class=""><a href="#tab7" data-toggle="tab" aria-expanded="true"><i
                                             class="fa fa-star-o" aria-hidden="true"></i>Prizes</a></li>
-                                    <!--<li class=""><a href="#tab8" data-toggle="tab" aria-expanded="true"><i class="fa fa-trophy" aria-hidden="true"></i>Winners</a></li>-->
+                                    <li class=""><a href="#tab8" data-toggle="tab" aria-expanded="true"><i class="fa fa-trophy" aria-hidden="true"></i>Winners</a></li>
                                 </ul>
                             </div>
 
@@ -171,7 +171,7 @@
                                                    class="btn btn-border btn-theme-colored btn-lg text-uppercase font-13 mt-20 hvr-glow">Mind
                                                     Bytes 2014 poster submissions <i
                                                             class="fa fa-file-archive-o"></i></a>
-                                                <!--<a href="gallery.php" class="btn btn-colored btn-theme-colored btn-lg text-uppercase font-13 mt-20 hvr-glow">Mind Bytes 2018 poster submissions <i class="fa fa-file-archive-o"></i></a>-->
+                                                <a href="gallery.php" class="btn btn-colored btn-theme-colored btn-lg text-uppercase font-13 mt-20 hvr-glow">Mind Bytes 2018 poster submissions <i class="fa fa-file-archive-o"></i></a>
                                             </p>
                                         </div>
                                     </div>
@@ -189,14 +189,13 @@
                                             </p>
                                             <p class="text-justify"><b>Poster submission due date:</b> April 23, 2018
                                                 5PM CST.</p>
-                                            <!--<p class="text-justify">Click <a href="submission.php" class="text-theme-colored text-uppercase"><u>Here</u></a> to submit.</p>-->
+                                            <p class="text-justify">Click <a href="submission.php" class="text-theme-colored text-uppercase"><u>Here</u></a> to submit.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="tab6">
                                     <div class="row">
                                         <div class="col-md-12 pl-20 pt-10">
-                                            <!--<img class="pull-left pr-20" width="300" src="http://placehold.it/155x90" alt="Award Categories">-->
                                             <p class="text-justify"><b>Data Science</b>
                                                 <br> The Data Science award is given to the research team that shows
                                                 scientific methods, processes, and systems used in their data-driven
@@ -204,7 +203,7 @@
                                                 data, the novelty of how they extracted knowledge or insights from the
                                                 data, and the efficiency and innovation with which it was processed on
                                                 the RCC's Midway compute resources.</p>
-                                            <!--<p class="text-justify">The Winner is: <a href="posters/04212017131719_poster[BEIRIGER][042117].pdf"><b>Reconstructing the developmental origins and migratory trajectories of the pioneer neurons</b></a></p>-->
+                                            <p class="text-justify">The Winner is: <a href="posters/04212017131719_poster[BEIRIGER][042117].pdf"><b>Reconstructing the developmental origins and migratory trajectories of the pioneer neurons</b></a></p>
 
                                             <p class="text-justify"><b>Computing</b>
                                                 <br> The Computing prize will be awarded to a researcher whose poster
@@ -215,7 +214,7 @@
                                                 code that runs on the greatest number of cores, the code that is best
                                                 tuned to the existing hardware, and/or demonstrates the greatest
                                                 performance speed-up when scaled.</p>
-                                            <!--<p class="text-justify">The Winner is: <a href="posters/04212017093636_MindBytes_2017_v2.pdf"><b>High Performance Machine Learning and Evolutionary Computing to Develop Personalized Therapeutics</b></a></p>-->
+                                            <p class="text-justify">The Winner is: <a href="posters/04212017093636_MindBytes_2017_v2.pdf"><b>High Performance Machine Learning and Evolutionary Computing to Develop Personalized Therapeutics</b></a></p>
 
                                             <p class="text-justify"><b>Visualization</b>
                                                 <br> The Visualization prize will be given to the researcher whose
@@ -224,12 +223,12 @@
                                                 evaluated on the novelty of the technology that they implement, the
                                                 level of difficulty of their visualization, and the technical use of RCC
                                                 resources to produce the visualization.</p>
-                                            <!--<p class="text-justify">The Winner is: <a href="posters/04242017110702_posterzhu042417.pdf"><b>Large-Scale Genome-Wide Enrichment Analysis of 31 Human Phenotypes</b></a></p>-->
+                                            <p class="text-justify">The Winner is: <a href="posters/04242017110702_posterzhu042417.pdf"><b>Large-Scale Genome-Wide Enrichment Analysis of 31 Human Phenotypes</b></a></p>
 
                                             <p class="text-justify"><b>The RCC Mind Bytes Judges' Choice Award</b>
                                                 <br> The judges will select a poster that is not selected for the other
                                                 categories but is deserving of an award.</p>
-                                            <!--<p class="text-justify">The Winner is: <a href="posters/04262017100520_posterJia042617.pdf"><b>New Wine in Old Bottles - Ideological Transformation and Rhetorical Creation of Market in China’s People’s Daily, 1946 - 2003</b></a></p>-->
+                                            <p class="text-justify">The Winner is: <a href="posters/04262017100520_posterJia042617.pdf"><b>New Wine in Old Bottles - Ideological Transformation and Rhetorical Creation of Market in China’s People’s Daily, 1946 - 2003</b></a></p>
 
                                         </div>
                                     </div>
@@ -277,15 +276,31 @@
                                 </div>
                             </div>
 
-                            <!--<div class="row mb-15">
+                            <div class="row mb-15">
                                 <div class="hero-buttonwrapper">
                                     <a class="hero-btn" href="submission.php"><span>Submit your Poster <i class="fa fa-file-pdf-o"></i></span></a>
                                 </div>
-                            </div>-->
+                            </div>
 
                         </div>
-                    </div>
+                    </div> -->
                 </div>
+
+                <div class="parallax layer-overlay overlay-deep" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg_event.png">
+                        <div class="container pt-20 pb-20">
+                            <div class="section-content">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="schedule-tab">
+                                            <div class="alert alert-info wow zoomIn" data-wow-duration="1s" data-wow-offset="100" style="visibility: visible; animation-duration: 1s; animation-name: zoomIn;">
+                                                <h3 class="text-justify"><b>The official program for Mind Bytes will be announced soon. It will include, faculty lightning talks, panel discussions, and a keynote address.</b></h3>
+                                            </div> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
         </div>
 

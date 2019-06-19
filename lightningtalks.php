@@ -95,7 +95,23 @@
                         </div>
                     </div>
 
-                    <div class="bg-white-light">
+                    <div class="parallax layer-overlay overlay-deep" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg_event.png">
+                        <div class="container pt-20 pb-20">
+                            <div class="section-content">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="schedule-tab">
+                                            <div class="alert alert-warning wow zoomIn" data-wow-duration="1s" data-wow-offset="100" style="visibility: visible; animation-duration: 1s; animation-name: zoomIn;">
+                                                <h3 class="text-justify"><b>The official program for Mind Bytes will be announced soon. It will include, faculty lightning talks, panel discussions, and a keynote address.</b></h3>
+                                            </div> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- <div class="bg-white-light">
                         <div class="container pt-30 pb-0">
                             <div class="section-content">
 
@@ -191,8 +207,23 @@
 
                             </div>
                         </div>
+                    </div> -->
+                </section>
+
+                <!-- divider: contact us -->
+                <section class="divider parallax layer-overlay overlay-light" data-stellar-background-ratio="0.5" data-bg-img="images/bg/rise_hands.png">
+                    <div class="container">
+                        <div class="section-content text-center">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h3 class="mt-0">Still have questions?</h3>
+                                    <h2>Call at <span class="text-theme-colored">773.795.2667</span><br>Email us at <a class="text-theme-colored" href="mailto:events@rcc.uchicago.edu?Subject=Question%20regarding%20Mind%20Bytes%202019" target="_top">events@rcc.uchicago.edu</a></h2>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </section>
+
             </div>
         </div>
         <!-- end main-content -->

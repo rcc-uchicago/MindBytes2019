@@ -96,6 +96,22 @@
                         </div>
                     </div>
 
+                    <div class="parallax layer-overlay overlay-deep" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg_event.png">
+                        <div class="container pt-20 pb-20">
+                            <div class="section-content">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="schedule-tab">
+                                            <div class="alert alert-danger wow zoomIn" data-wow-duration="1s" data-wow-offset="100" style="visibility: visible; animation-duration: 1s; animation-name: zoomIn;">
+                                                <h3 class="text-justify"><b>The official program for Mind Bytes will be announced soon. It will include, faculty lightning talks, panel discussions, and a keynote address.</b></h3>
+                                            </div> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                     <!--<div class="container p-0">
                         <div class="row equal-height" id="keynote">
                             <div class="col-sm-8 col-md-8">
@@ -134,7 +150,7 @@
                         </div>
                     </div> -->
 
-                    <div class="container p-0">
+                    <!-- <div class="container p-0">
                         <div class="divider">
                             <div class="container pt-0 pb-0">
                                 <div class="section-title">
@@ -147,7 +163,7 @@
                             </div>
                         </div>
 
-                        <!-- <div class="row equal-height" id="Benoit">
+                        <div class="row equal-height" id="Benoit">
                             <div class="col-sm-8 col-md-8 pull-right flip xs-pull-none">
                                 <div class="pt-10 pb-10 pl-20 pr-20 p-md-10">
                                     <h4 class="m-0 text-gray-darkgray">Panelist</h4>
@@ -189,15 +205,15 @@
                             <div class="col-sm-4 col-md-4 p-0 bg-img-cover">
                                 <img src="images/speakers/LizMoyer.jpg" alt="Elisabeth Moyer">
                             </div>
-                        </div> -->
+                        </div>
 
-                        <!--<div class="row mb-10">
-                                <div class="text-center">
-                                    <a href="submission.php" class="btn btn-colored btn-theme-colored btn-lg text-uppercase hvr-float-shadow">Submit your Poster <i class="fa fa-file-pdf-o"></i></a>
-                                    <a href="https://universityevents.wufoo.com/forms/wyppvmp1d4j82n/" class="btn btn-border btn-theme-colored btn-lg text-uppercase">Register Now</a>
-                                </div>
-                            </div>-->
-                    </div>
+                        <div class="row mb-10">
+                            <div class="text-center">
+                                <a href="submission.php" class="btn btn-colored btn-theme-colored btn-lg text-uppercase hvr-float-shadow">Submit your Poster <i class="fa fa-file-pdf-o"></i></a>
+                                <a href="https://universityevents.wufoo.com/forms/wyppvmp1d4j82n/" class="btn btn-border btn-theme-colored btn-lg text-uppercase">Register Now</a>
+                            </div>
+                        </div>
+                    </div> -->
                 </section>
 
                 <!-- divider: what makes us different -->
