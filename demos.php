@@ -102,7 +102,8 @@
                                     <div class="col-md-12">
                                         <div class="schedule-tab">
                                             <div class="alert alert-warning wow zoomIn" data-wow-duration="1s" data-wow-offset="100" style="visibility: visible; animation-duration: 1s; animation-name: zoomIn;">
-                                                <h3 class="text-justify"><b>At the technical demonstrations section of Mind Bytes, you can see heart simulations, virtual reality demonstrations, and other exciting attractions.</b></h3>
+                                                <h5 class="text-justify">The Research Computing Center uses cutting edge technologies and software. The technical demonstration part of Mind Bytes will give visitors the chance to see some of these in a hand on environment. Experts will be available to talk you through the use of these technologies and answer any questions you have.</h5>
+                                                <h5>Details of the demonstrations will appear here soon.</h5>
                                             </div> 
                                         </div>
                                     </div>

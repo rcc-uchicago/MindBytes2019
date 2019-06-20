@@ -102,7 +102,8 @@
                                     <div class="col-md-12">
                                         <div class="schedule-tab">
                                             <div class="alert alert-warning wow zoomIn" data-wow-duration="1s" data-wow-offset="100" style="visibility: visible; animation-duration: 1s; animation-name: zoomIn;">
-                                                <h3 class="text-justify"><b>The official program for Mind Bytes will be announced soon. It will include, faculty lightning talks, panel discussions, and a keynote address.</b></h3>
+                                                <h5 class="text-justify">In the Lightning Talks part of the program, faculty from the University of Chicago are invited to give short “Lightning Talks” about the research they are conducting. Faculty from a range of divisions are represented.</h5>
+                                                <h5>Details of the talks will appear below soon.</h5>
                                             </div> 
                                         </div>
                                     </div>

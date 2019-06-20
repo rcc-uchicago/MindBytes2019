@@ -99,8 +99,7 @@
                         <div class="divider">
                             <div class="container pt-10 pb-5">
                                 <div class="row wow bounceInLeft">
-                                    <h5 class="title text-gray text-justify">Come network with your peers at the University of Chicago during Mind Bytes. Attendees will be served lunch at noon, coffee at midafternoon, and beverages at 5PM. Use the occasion to exchange ideas with other faculty
-                                        and students, ask questions of Research Computing Center staff, or chat with the creators of research posters.</h5>
+                                    <h5 class="title text-gray text-justify">Come network with your peers at the University of Chicago during Mind Bytes. Attendees will be served lunch at noon, coffee at midafternoon, and beverages at 5PM. Use the occasion to exchange ideas with other faculty and students, ask questions of Research Computing Center staff, chat with the creators of research posters, or discuss the theme of Mind Bytes with our speakers.</h5>
                                 </div>
                             </div>
                         </div>

@@ -112,8 +112,8 @@
                         </div>
                     </div>
 
-                    <!-- <div class="row">
-                        <div class="col-md-8 col-xs-12 wow bounceInRight" data-wow-delay="0.5s">
+                    <div class="row">
+                        <div class="col-md-12 col-xs-12 wow bounceInRight" data-wow-delay="0.5s">
                             <div class="horizontal-tab">
                                 <ul class="nav nav-tabs">
                                     <li class="active"><a href="#tab3" data-toggle="tab" aria-expanded="false"><i
@@ -126,7 +126,7 @@
                                             class="pe-7s-albums"></i>Award Categories</a></li>
                                     <li class=""><a href="#tab7" data-toggle="tab" aria-expanded="true"><i
                                             class="fa fa-star-o" aria-hidden="true"></i>Prizes</a></li>
-                                    <li class=""><a href="#tab8" data-toggle="tab" aria-expanded="true"><i class="fa fa-trophy" aria-hidden="true"></i>Winners</a></li>
+                                    <!-- <li class=""><a href="#tab8" data-toggle="tab" aria-expanded="true"><i class="fa fa-trophy" aria-hidden="true"></i>Winners</a></li> -->
                                 </ul>
                             </div>
 
@@ -136,17 +136,9 @@
                                         <div class="col-md-12 pl-20 pt-10">
                                             <img class="pull-left pr-20" width="400" src="images/posters/item1.jpg"
                                                  alt="Eligibility">
-                                            <p class="text-justify">A major feature of Mind Bytes is the poster session
-                                                which is designed to enable the exchange of ideas across disciplines and
-                                                reward researchers' work. Any researchers at the University of Chicago
-                                                are eligible to submit their work.</p>
-                                            <p class="text-justify">The posters should represent research projects that
-                                                leveraged the RCC's resources and that showcase the application of
-                                                either high-end computing, data science or visualization in their
-                                                research.</p>
-                                            <p class="text-justify">Did you submit a poster at last year's Mind Bytes?
-                                                That's <b>OK</b>. Update your poster with your new findings/data and
-                                                participate again.</p>
+                                            <p class="text-justify">A major feature of Mind Bytes is the poster session which is designed to enable the exchange of ideas across disciplines and reward researchers' work. Any researchers at the University of Chicago are eligible to submit their work.</p>
+                                            <p class="text-justify">The posters should represent research projects that leveraged the RCC's resources and that showcase the application of either high-end computing, data science or visualization in their research.</p>
+                                            <p class="text-justify">Did you submit a poster at last year's Mind Bytes? That's <b>OK</b>. Update your poster with your new findings/data and participate again.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -159,19 +151,20 @@
                                                 wide x 35” high</i> (landscape) and with a pixel density of <i>200
                                                 dpi</i>. To view previous years’ posters, browse below:</p>
                                             <p class="text-center">
+                                                <a href="gallery_2018.php" 
+                                                    class="btn btn-colored btn-theme-colored btn-lg text-uppercase font-13 mt-20 hvr-glow">Mind Bytes 2018 poster submissions <i class="fa fa-file-archive-o"></i></a>
                                                 <a href="gallery_2017.php"
-                                                   class="btn btn-colored btn-theme-colored btn-lg text-uppercase font-13 mt-20 hvr-glow">Mind
+                                                   class="btn btn-dark-light btn-lg text-uppercase font-13 mt-20 hvr-glow">Mind
                                                     Bytes 2017 poster submissions <i
                                                             class="fa fa-file-archive-o"></i></a>
                                                 <a href="gallery_2015.php" target="_blank"
-                                                   class="btn btn-dark-light btn-lg text-uppercase smooth-scroll font-13 mt-20 hvr-glow">Mind
+                                                   class="btn btn-border btn-colored btn-lg text-uppercase smooth-scroll font-13 mt-20 hvr-glow">Mind
                                                     Bytes 2015 poster submissions <i
                                                             class="fa fa-file-archive-o"></i></a>
                                                 <a href="gallery_2014.php" target="_blank"
                                                    class="btn btn-border btn-theme-colored btn-lg text-uppercase font-13 mt-20 hvr-glow">Mind
                                                     Bytes 2014 poster submissions <i
-                                                            class="fa fa-file-archive-o"></i></a>
-                                                <a href="gallery.php" class="btn btn-colored btn-theme-colored btn-lg text-uppercase font-13 mt-20 hvr-glow">Mind Bytes 2018 poster submissions <i class="fa fa-file-archive-o"></i></a>
+                                                            class="fa fa-file-archive-o"></i></a>     
                                             </p>
                                         </div>
                                     </div>
@@ -185,11 +178,12 @@
                                                 Ida Noyes Hall during the event. Please note the RCC will print only one
                                                 copy. If you make changes and resubmit a poster you may be responsible
                                                 for printing the new copy.</p>
-                                            <p class="text-justify"><b>Poster submission begins:</b> December 5, 2017.
+                                            <p class="text-justify"><b>Poster submissions will open soon.</b></p>
+                                            <!-- <p class="text-justify"><b>Poster submission begins:</b> December 5, 2017.
                                             </p>
                                             <p class="text-justify"><b>Poster submission due date:</b> April 23, 2018
                                                 5PM CST.</p>
-                                            <p class="text-justify">Click <a href="submission.php" class="text-theme-colored text-uppercase"><u>Here</u></a> to submit.</p>
+                                            <p class="text-justify">Click <a href="submission.php" class="text-theme-colored text-uppercase"><u>Here</u></a> to submit.</p> -->
                                         </div>
                                     </div>
                                 </div>
@@ -203,7 +197,7 @@
                                                 data, the novelty of how they extracted knowledge or insights from the
                                                 data, and the efficiency and innovation with which it was processed on
                                                 the RCC's Midway compute resources.</p>
-                                            <p class="text-justify">The Winner is: <a href="posters/04212017131719_poster[BEIRIGER][042117].pdf"><b>Reconstructing the developmental origins and migratory trajectories of the pioneer neurons</b></a></p>
+                                            <!-- <p class="text-justify">The Winner is: <a href="posters/04212017131719_poster[BEIRIGER][042117].pdf"><b>Reconstructing the developmental origins and migratory trajectories of the pioneer neurons</b></a></p> -->
 
                                             <p class="text-justify"><b>Computing</b>
                                                 <br> The Computing prize will be awarded to a researcher whose poster
@@ -214,7 +208,7 @@
                                                 code that runs on the greatest number of cores, the code that is best
                                                 tuned to the existing hardware, and/or demonstrates the greatest
                                                 performance speed-up when scaled.</p>
-                                            <p class="text-justify">The Winner is: <a href="posters/04212017093636_MindBytes_2017_v2.pdf"><b>High Performance Machine Learning and Evolutionary Computing to Develop Personalized Therapeutics</b></a></p>
+                                            <!-- <p class="text-justify">The Winner is: <a href="posters/04212017093636_MindBytes_2017_v2.pdf"><b>High Performance Machine Learning and Evolutionary Computing to Develop Personalized Therapeutics</b></a></p> -->
 
                                             <p class="text-justify"><b>Visualization</b>
                                                 <br> The Visualization prize will be given to the researcher whose
@@ -223,12 +217,12 @@
                                                 evaluated on the novelty of the technology that they implement, the
                                                 level of difficulty of their visualization, and the technical use of RCC
                                                 resources to produce the visualization.</p>
-                                            <p class="text-justify">The Winner is: <a href="posters/04242017110702_posterzhu042417.pdf"><b>Large-Scale Genome-Wide Enrichment Analysis of 31 Human Phenotypes</b></a></p>
+                                            <!-- <p class="text-justify">The Winner is: <a href="posters/04242017110702_posterzhu042417.pdf"><b>Large-Scale Genome-Wide Enrichment Analysis of 31 Human Phenotypes</b></a></p> -->
 
-                                            <p class="text-justify"><b>The RCC Mind Bytes Judges' Choice Award</b>
+                                            <!-- <p class="text-justify"><b>The RCC Mind Bytes Judges' Choice Award</b>
                                                 <br> The judges will select a poster that is not selected for the other
-                                                categories but is deserving of an award.</p>
-                                            <p class="text-justify">The Winner is: <a href="posters/04262017100520_posterJia042617.pdf"><b>New Wine in Old Bottles - Ideological Transformation and Rhetorical Creation of Market in China’s People’s Daily, 1946 - 2003</b></a></p>
+                                                categories but is deserving of an award.</p> -->
+                                            <!-- <p class="text-justify">The Winner is: <a href="posters/04262017100520_posterJia042617.pdf"><b>New Wine in Old Bottles - Ideological Transformation and Rhetorical Creation of Market in China’s People’s Daily, 1946 - 2003</b></a></p> -->
 
                                         </div>
                                     </div>
@@ -239,15 +233,16 @@
                                             <p class="text-justify">Judges will evaluate each poster with respect to its
                                                 field and the researcher's unique ability to use RCC computational
                                                 resources in novel ways.</p>
-                                            <p class="text-justify">Poster prizes: <b>iPad</b>, <b>Amazon Echo</b>, and
-                                                <b>External Hard Drives</b></p>
+                                            <!-- <p class="text-justify">Poster prizes: <b>iPad</b>, <b>Amazon Echo</b>, and
+                                                <b>External Hard Drives</b></p> -->
+                                                <p class="text-justify"><b>Prizes will be announced soon.</b></p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="col-md-4 col-xs-12 col-sm-4 wow fadeInDown">
+                        <!-- <div class="col-md-4 col-xs-12 col-sm-4 wow fadeInDown">
                             <div class="row">
                                 <div class="list-group">
                                     <a href="#" class="list-group-item active">
@@ -282,26 +277,9 @@
                                 </div>
                             </div>
 
-                        </div>
-                    </div> -->
-                </div>
-
-                <div class="parallax layer-overlay overlay-deep" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg_event.png">
-                        <div class="container pt-20 pb-20">
-                            <div class="section-content">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="schedule-tab">
-                                            <div class="alert alert-info wow zoomIn" data-wow-duration="1s" data-wow-offset="100" style="visibility: visible; animation-duration: 1s; animation-name: zoomIn;">
-                                                <h3 class="text-justify"><b>The official program for Mind Bytes will be announced soon. It will include, faculty lightning talks, panel discussions, and a keynote address.</b></h3>
-                                            </div> 
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        </div> -->
                     </div>
-
+                </div>
         </div>
 
         <!--<div class="container wow fadeInRight">
@@ -373,9 +351,9 @@
 <script src="js/custom.js "></script>
 
 <!-- PAGE SCRIPT  -->
-<script type="text/javascript">
+<!-- <script type="text/javascript">
     $("ul.menuzord-menu li:nth-child(4)").addClass("active");
-</script>
+</script> -->
 
 </body>
 

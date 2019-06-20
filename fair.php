@@ -101,7 +101,8 @@
                                     <div class="col-md-12">
                                         <div class="schedule-tab">
                                             <div class="alert alert-success wow zoomIn" data-wow-duration="1s" data-wow-offset="100" style="visibility: visible; animation-duration: 1s; animation-name: zoomIn;">
-                                                <h3 class="text-justify"><b>The official program for Mind Bytes will be announced soon. It will include, faculty lightning talks, panel discussions, and a keynote address.</b></h3>
+                                                <h5 class="text-justify">The resource fair is a way for different departments and centers around the University of Chicago to show off the services and resources they offer. Representatives of each department or center will be on hand to discuss their services.</h5>
+                                                <h5>More information will be available soon.</h5>
                                             </div> 
                                         </div>
                                     </div>

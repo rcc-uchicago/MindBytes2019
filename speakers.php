@@ -103,7 +103,9 @@
                                     <div class="col-md-12">
                                         <div class="schedule-tab">
                                             <div class="alert alert-danger wow zoomIn" data-wow-duration="1s" data-wow-offset="100" style="visibility: visible; animation-duration: 1s; animation-name: zoomIn;">
-                                                <h3 class="text-justify"><b>The official program for Mind Bytes will be announced soon. It will include, faculty lightning talks, panel discussions, and a keynote address.</b></h3>
+                                                <h5 class="text-justify">The Research Computing Center invites speakers from academia and industry to speak at Mind Bytes. Speakers take part in Lightning Talks, Panel Discussion, and a Keynote address.</h5> 
+                                                <h5>This year they will be speaking on the topic of <span class="text-highlight">Data Science: The Complexity of Connections</span>.</h5>
+                                                <h5>Details of the speakers  will appear below soon.</h5>
                                             </div> 
                                         </div>
                                     </div>
