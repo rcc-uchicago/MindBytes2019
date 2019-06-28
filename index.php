@@ -64,7 +64,7 @@
     <script src="js/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
     <script src="js/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
 
-    <script src="js/revolution-slider/js/addons/revolution.addon.particles.js"></script>
+    <!-- <script src="js/revolution-slider/js/addons/revolution.addon.particles.js"></script> -->
 
     <!-- Social Sharing Plugin -->
     <script type="text/javascript"
@@ -100,16 +100,15 @@
                             <li data-index="rs-1" data-transition="fade" data-slotamount="default"
                                 data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default"
                                 data-easeout="default" data-masterspeed="2000" data-thumb="images/bg/DSC_3394.jpg"
-                                data-rotate="0" data-fstransition="fade"
-                                data-fsmasterspeed="1000" data-fsslotamount="7" data-saveperformance="off"
+                                data-rotate="0" data-saveperformance="off"
                                 data-title="One" data-description="">
 
                                 <img src="images/bg/DSC_3394.jpg" alt="" title="Mind Bytes 2019"
                                      data-bgposition="center center" data-kenburns="on" data-duration="20000"
                                      data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100"
                                      data-rotatestart="0" data-rotateend="0" data-blurstart="0"
-                                     data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="6"
-                                     class="rev-slidebg" data-no-retina>
+                                     data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" 
+									 data-bgparallax="6" class="rev-slidebg" data-no-retina>
 
                                 <div id="rrzm_1" class="rev_row_zone rev_row_zone_middle" style="z-index: 6;">
 
@@ -189,7 +188,7 @@
                                                  data-width="['none','100%','100%','100%']" data-height="none"
                                                  data-whitespace="normal" data-type="text" data-basealign="slide"
                                                  data-responsive_offset="on"
-                                                 data-frames='[{"delay":"+1390","split":"chars","splitdelay":0.03,"speed":300,"frame":"0","from":"sX:2;sY:2;opacity:0;fb:5px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},{"delay":"wait","speed":1000,"frame":"999","to":"opacity:0;fb:10px;","ease":"Power4.easeOut"}]'
+                                                 data-frames='[{"delay":"+1000","split":"chars","splitdelay":0.03,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                                  data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]"
                                                  data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]"
                                                  data-textAlign="['inherit','inherit','center','center']"
@@ -289,15 +288,14 @@
 
                             <li data-index="rs-2" data-transition="fade" data-slotamount="default"
                                 data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default"
-                                data-easeout="default" data-masterspeed="2000"
-                                data-thumb="images/bg/mindbytes_2018_v3.png" data-rotate="0"
-                                data-saveperformance="off" data-title="Two" data-description="">
+                                data-easeout="default" data-masterspeed="2000" data-thumb="images/bg/mindbytes_2018_v3.png" 
+								data-rotate="0" data-saveperformance="off" data-title="Two" data-description="">
 
                                 <img src="images/bg/mindbytes_2018_v3.png" alt="" title="Mind Bytes 2019"
                                      data-bgposition="center center" data-kenburns="on" data-duration="20000"
                                      data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100"
-                                     data-rotatestart="0" data-rotateend="0"
-                                     data-blurstart="0" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0"
+                                     data-rotatestart="0" data-rotateend="0" data-blurstart="0" 
+									 data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0"
                                      data-bgparallax="6" class="rev-slidebg" data-no-retina>
 
                                 <div id="rrzm_2" class="rev_row_zone rev_row_zone_middle" style="z-index: 6;">
@@ -460,8 +458,8 @@
                                      data-bgposition="center center" data-kenburns="on" data-duration="20000"
                                      data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100"
                                      data-rotatestart="0" data-rotateend="0" data-blurstart="0"
-                                     data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="6"
-                                     class="rev-slidebg" data-no-retina>
+                                     data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" 
+									 data-bgparallax="6" class="rev-slidebg" data-no-retina>
 
                                 <div id="rrzm_3" class="rev_row_zone rev_row_zone_middle" style="z-index: 6;">
 
@@ -505,7 +503,7 @@
                                                  data-whitespace="['nowrap','nowrap','normal','normal']"
                                                  data-type="text" data-responsive_offset="off"
                                                  data-responsive="on"
-                                                 data-frames='[{"from":"y:[-100%];z:0;rZ:35deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1000,"split":"chars","splitdelay":0.05,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
+                                                 data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                                  data-textAlign="['center','center','center','center']"
                                                  data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                  data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
@@ -668,62 +666,62 @@
                             sliderLayout: "fullscreen",
                             dottedOverlay: "none",
                             delay: 5000,
-                            particles: {
-                                startSlide: "first", endSlide: "last", zIndex: "1",
-                                particles: {
-                                    number: {value: 80}, color: {value: "#ffffff"},
-                                    shape: {
-                                        type: "circle", stroke: {width: 0, color: "#000000", opacity: 1},
-                                        image: {src: ""}
-                                    },
-                                    opacity: {
-                                        value: 0.3,
-                                        random: false,
-                                        min: 0.25,
-                                        anim: {enable: false, speed: 3, opacity_min: 0, sync: false}
-                                    },
-                                    size: {
-                                        value: 10,
-                                        random: true,
-                                        min: 1,
-                                        anim: {enable: false, speed: 40, size_min: 1, sync: false}
-                                    },
-                                    line_linked: {
-                                        enable: true,
-                                        distance: 200,
-                                        color: "#ffffff",
-                                        opacity: 0.4,
-                                        width: 1
-                                    },
-                                    move: {
-                                        enable: true,
-                                        speed: 3,
-                                        direction: "none",
-                                        random: true,
-                                        min_speed: 3,
-                                        straight: false,
-                                        out_mode: "out"
-                                    }
-                                },
-                                interactivity: {
-                                    events: {
-                                        onhover: {enable: true, mode: "bubble"},
-                                        onclick: {enable: false, mode: "repulse"}
-                                    },
-                                    modes: {
-                                        grab: {distance: 400, line_linked: {opacity: 0.5}},
-                                        bubble: {
-                                            distance: 400,
-                                            size: 20,
-                                            "duration": 2,
-                                            "opacity": 8,
-                                            "speed": 3,
-                                            opacity: 1
-                                        },
-                                        repulse: {distance: 200}
-                                    }
-                                }
-                            },
+                            // particles: {
+                            //     startSlide: "first", endSlide: "last", zIndex: "1",
+                            //     particles: {
+                            //         number: {value: 80}, color: {value: "#ffffff"},
+                            //         shape: {
+                            //             type: "circle", stroke: {width: 0, color: "#000000", opacity: 1},
+                            //             image: {src: ""}
+                            //         },
+                            //         opacity: {
+                            //             value: 0.3,
+                            //             random: false,
+                            //             min: 0.25,
+                            //             anim: {enable: false, speed: 3, opacity_min: 0, sync: false}
+                            //         },
+                            //         size: {
+                            //             value: 10,
+                            //             random: true,
+                            //             min: 1,
+                            //             anim: {enable: false, speed: 40, size_min: 1, sync: false}
+                            //         },
+                            //         line_linked: {
+                            //             enable: true,
+                            //             distance: 200,
+                            //             color: "#ffffff",
+                            //             opacity: 0.4,
+                            //             width: 1
+                            //         },
+                            //         move: {
+                            //             enable: true,
+                            //             speed: 3,
+                            //             direction: "none",
+                            //             random: true,
+                            //             min_speed: 3,
+                            //             straight: false,
+                            //             out_mode: "out"
+                            //         }
+                            //     },
+                            //     interactivity: {
+                            //         events: {
+                            //             onhover: {enable: true, mode: "bubble"},
+                            //             onclick: {enable: false, mode: "repulse"}
+                            //         },
+                            //         modes: {
+                            //             grab: {distance: 400, line_linked: {opacity: 0.5}},
+                            //             bubble: {
+                            //                 distance: 400,
+                            //                 size: 20,
+                            //                 "duration": 2,
+                            //                 "opacity": 8,
+                            //                 "speed": 3,
+                            //                 opacity: 1
+                            //             },
+                            //             repulse: {distance: 200}
+                            //         }
+                            //     }
+                            // },
                             navigation: {
                                 keyboardNavigation: "off",
                                 keyboard_direction: "horizontal",
@@ -802,7 +800,7 @@
                             }
                         });
 
-                        RsParticlesAddOn(revapi);
+                        //RsParticlesAddOn(revapi);
                     });
                 </script>
                 <!-- Slider Revolution Ends -->
