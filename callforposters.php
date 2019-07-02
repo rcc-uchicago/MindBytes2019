@@ -101,7 +101,7 @@
                     </div>
                 </div>
 
-                <div class="container pt-20 pb-0">
+                <div class="container pt-20 pb-40">
                     <div class="row contact-wrap wow bounceInUp center pt-30">
                         <div class="col-sm-9">
                             <div class="col-sm-offset-4 alert alert-danger wow zoomIn" data-wow-duration="1s"
@@ -119,11 +119,11 @@
                                     <li class="active"><a href="#tab3" data-toggle="tab" aria-expanded="false"><i
                                             class="pe-7s-science"></i>Eligibility</a></li>
                                     <li class=""><a href="#tab4" data-toggle="tab" aria-expanded="false"><i
-                                            class="pe-7s-rocket"></i>Specifications</a></li>
+                                            class="fa fa-flask"></i>Specifications</a></li>
                                     <li class=""><a href="#tab5" data-toggle="tab" aria-expanded="false"><i
-                                            class="pe-7s-medal"></i>Submission</a></li>
+                                            class="pe-7s-hourglass"></i>Submission</a></li>
                                     <li class=""><a href="#tab6" data-toggle="tab" aria-expanded="true"><i
-                                            class="pe-7s-albums"></i>Award Categories</a></li>
+                                            class="pe-7s-medal"></i>Award Categories</a></li>
                                     <li class=""><a href="#tab7" data-toggle="tab" aria-expanded="true"><i
                                             class="fa fa-star-o" aria-hidden="true"></i>Prizes</a></li>
                                     <!-- <li class=""><a href="#tab8" data-toggle="tab" aria-expanded="true"><i class="fa fa-trophy" aria-hidden="true"></i>Winners</a></li> -->
@@ -351,9 +351,9 @@
 <script src="js/custom.js "></script>
 
 <!-- PAGE SCRIPT  -->
-<!-- <script type="text/javascript">
+<script type="text/javascript">
     $("ul.menuzord-menu li:nth-child(4)").addClass("active");
-</script> -->
+</script>
 
 </body>
 

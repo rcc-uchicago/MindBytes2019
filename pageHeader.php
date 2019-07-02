@@ -19,11 +19,11 @@
                     <li><a href="registration.php">Register</a></li>
                     <li><a href="program.php">Program</a>
                         <!--<ul class="dropdown">
-<li><a href="program.php">Schedule</a></li>
-<li><a href="speakers.php">Speakers</a></li>
-</ul>-->
+                        <li><a href="program.php">Schedule</a></li>
+                        <li><a href="speakers.php">Speakers</a></li>
+                        </ul>-->
                     </li>
-                    <!--<li><a href="callforposters.php">Call for Posters</a></li>-->
+                    <li><a href="callforposters.php">Call for Posters</a></li>
                     <li><a href="travelinfo.php">Travel</a></li>
                     <li><a href="contact.php">Contact Us</a></li>
                 </ul>

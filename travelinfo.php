@@ -181,7 +181,7 @@
 
     <!-- PAGE SCRIPT  -->
     <script type="text/javascript">
-        $("ul.menuzord-menu li:nth-child(4)").addClass("active");
+        $("ul.menuzord-menu li:nth-child(5)").addClass("active");
     </script>
 
 </body>
