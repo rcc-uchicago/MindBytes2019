@@ -199,7 +199,7 @@
                                             </div>
 
                                             <!-- LAYER NR. 4 -->
-                                            <div class="tp-caption tp-resizeme" id="slide-1-layer-4"
+                                            <!--<div class="tp-caption tp-resizeme" id="slide-1-layer-4"
                                                  data-x="['left','left','center','center']"
                                                  data-hoffset="['0','50','0','0']" data-y="['top','top','top','top']"
                                                  data-voffset="['100','430','460','290']"
@@ -216,13 +216,32 @@
                                                 <a class="btn btn-default btn-lg mr-10" href="contact.php">Contact
                                                     Us</a> <a class="btn btn-colored btn-lg btn-theme-colored"
                                                               href="#about">View Details</a>
+                                            </div>-->
+
+                                            <div class="tp-caption tp-resizeme" id="slide-1-layer-4"
+                                                 data-x="['left','left','center','center']"
+                                                 data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']"
+                                                 data-voffset="['140']" data-fontsize="['110','90','100','70']"
+                                                 data-lineheight="['100','90','100','70']"
+                                                 data-width="none" data-height="none" data-whitespace="nowrap"
+                                                 data-transform_idle="o:1;s:500"
+                                                 data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                                                 data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                                                 data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                                                 data-start="2200" data-splitin="none" data-splitout="none"
+                                                 data-responsive_offset="on" data-responsive="on"
+                                                 data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":1250,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
+                                                 style="z-index: 9; white-space: nowrap; text-transform:left; font-size: 110px; line-height: 100px; font-weight: 600; color: rgba(255,255,255,1); font-family:Poppins; letter-spacing:1px;">
+                                                <div class="front-clock countdown-timer timer-box timer-deep-bg timer-responsive wow slideUp"
+                                                     data-endingdate="2019/11/05 12:00:00" data-wow-delay="2s"></div>
                                             </div>
                                         </div>
 
-                                        <!--<div class="tp-caption Newspaper-Button rev-btn" id="slide-1-layer-16" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="none" data-height="none"
+                                        <!-- <div class="tp-caption Newspaper-Button rev-btn" id="slide-1-layer-16" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="none" data-height="none"
                                             data-whitespace="nowrap" data-type="button" data-actions='[{"event":"click","action":"scrollbelow","offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]' data-responsive_offset="on" data-responsive="on"
                                             data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:50px;opacity:0;","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:rgba(255,255,255,1);bw:1px 1px 1px 1px;"}]'
-                                            data-textAlign="['left','left','left','left']" data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" style="z-index: 11; white-space: nowrap;text-transform:left;border-color:rgba(255,255,255,0.75);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">SAVE THE DATE </div>-->
+                                            data-textAlign="['left','left','left','left']" data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" style="z-index: 11; white-space: nowrap;text-transform:left;border-color:rgba(255,255,255,0.75);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">SAVE THE DATE </div> -->
 
                                     </div>
                                 </div>
@@ -374,7 +393,7 @@
                                                 data-margintop="[80,80,80,80]" data-marginright="[0,0,0,0]" data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]" data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                 data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">We look forward to seeing you</div>-->
 
-                                            <!--<div class="tp-caption tp-resizeme" id="slide-2-layer-4"
+                                            <div class="tp-caption tp-resizeme" id="slide-2-layer-4"
                                                  data-x="['left','left','center','center']"
                                                  data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']"
                                                  data-voffset="['140']" data-fontsize="['110','90','100','70']"
@@ -390,8 +409,8 @@
                                                  data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":1250,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
                                                  style="z-index: 9; white-space: nowrap; text-transform:left; font-size: 110px; line-height: 100px; font-weight: 600; color: rgba(255,255,255,1); font-family:Poppins; letter-spacing:1px;">
                                                 <div class="front-clock countdown-timer timer-box timer-deep-bg timer-responsive wow flipInY"
-                                                     data-endingdate="2019/05/08 12:00:00" data-wow-delay="2s"></div>
-                                            </div>-->
+                                                     data-endingdate="2019/11/05 12:00:00" data-wow-delay="2s"></div>
+                                            </div>
 
                                             <div class="tp-caption tp-resizeme Newspaper-Subtitle" id="slide-2-layer-5"
                                                  data-x="['left','left','center','center']"
@@ -549,7 +568,7 @@
                                                 May 2019
                                             </div>-->
 
-                                            <!--<div class="tp-caption tp-resizeme" id="slide-3-layer-3"
+                                            <div class="tp-caption tp-resizeme" id="slide-3-layer-3"
                                                  data-x="['center','center','center','center']"
                                                  data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']"
                                                  data-voffset="['140']" data-fontsize="['110','90','100','70']"
@@ -565,18 +584,8 @@
                                                  data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":1250,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
                                                  style="z-index: 9; white-space: nowrap; text-transform:left; font-size: 110px; line-height: 100px; font-weight: 600; color: rgba(255,255,255,1); font-family:Poppins; letter-spacing:1px;">
                                                 <div class="front-clock countdown-timer timer-box timer-deep-bg timer-responsive"
-                                                     data-endingdate="2019/05/08 12:00:00"></div>
-                                            </div>-->
-
-                                            <!--data-countdown="2019/05/08 17:00:00"-->
-                                            <!--<div class="container">
-                                                <div class="row">
-                                                    <div class="col-md-12 text-center">
-                                                        <div id="finalCountFront" class="clock col-md-offset-3"></div>
-                                                    </div>
-                                                </div>
-                                            </div>-->
-
+                                                     data-endingdate="2019/11/05 12:00:00"></div>
+                                            </div>
 
                                             <div class="tp-caption tp-resizeme Newspaper-Subtitle" id="slide-3-layer-4"
                                                  data-x="['left','left','center','center']"
