@@ -130,7 +130,7 @@
                                 </ul>
                             </div>
 
-                            <div class="tab-content pb-10" style="border: 1px solid #eeeeee; padding: 8px;">
+                            <div class="tab-content pb-0" style="border: 1px solid #eeeeee; padding: 8px;">
                                 <div class="tab-pane fade active in" id="tab3">
                                     <div class="row">
                                         <div class="col-md-12 pl-20 pt-10">
@@ -138,7 +138,7 @@
                                                  alt="Eligibility">
                                             <p class="text-justify">A major feature of Mind Bytes is the poster session which is designed to enable the exchange of ideas across disciplines and reward researchers' work. Any researchers at the University of Chicago are eligible to submit their work.</p>
                                             <p class="text-justify">The posters should represent research projects that leveraged the RCC's resources and that showcase the application of either high-end computing, data science or visualization in their research.</p>
-                                            <p class="text-justify">Did you submit a poster at last year's Mind Bytes? That's <b>OK</b>. Update your poster with your new findings/data and participate again.</p>
+                                            <p class="text-justify"><i class="fa fa-info-circle fa-lg"></i> Did you submit a poster at last year's Mind Bytes? That's <b>OK</b>. Update your poster with your new findings/data and participate again.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -178,7 +178,7 @@
                                                 Ida Noyes Hall during the event. Please note the RCC will print only one
                                                 copy. If you make changes and resubmit a poster you may be responsible
                                                 for printing the new copy.</p>
-                                            <p class="text-justify"><b>Poster submissions will open soon.</b></p>
+                                            <p class="text-justify"><b><i class="pe-7s-target fa-lg"></i> Poster submissions will open soon.</b></p>
                                             <!-- <p class="text-justify"><b>Poster submission begins:</b> December 5, 2017.
                                             </p>
                                             <p class="text-justify"><b>Poster submission due date:</b> April 23, 2018
@@ -190,16 +190,27 @@
                                 <div class="tab-pane fade" id="tab6">
                                     <div class="row">
                                         <div class="col-md-12 pl-20 pt-10">
-                                            <p class="text-justify"><b>Data Science</b>
-                                                <br> The Data Science award is given to the research team that shows
+                                            <div class="panel panel-primary">
+                                                <div class="panel-heading">
+                                                <h3 class="panel-title"><i class="fa fa-database"></i> Data Science</h3>
+                                                </div>
+                                                <div class="panel-body"> 
+                                                    <p class="text-justify">The Data Science award is given to the research team that shows
                                                 scientific methods, processes, and systems used in their data-driven
                                                 research. The judges will evaluate the size and scope of researchers'
                                                 data, the novelty of how they extracted knowledge or insights from the
                                                 data, and the efficiency and innovation with which it was processed on
                                                 the RCC's Midway compute resources.</p>
-                                            <!-- <p class="text-justify">The Winner is: <a href="posters/04212017131719_poster[BEIRIGER][042117].pdf"><b>Reconstructing the developmental origins and migratory trajectories of the pioneer neurons</b></a></p> -->
+                                                <!-- <p class="text-justify">The Winner is: <a href="posters/04212017131719_poster[BEIRIGER][042117].pdf"><b>Reconstructing the developmental origins and migratory trajectories of the pioneer neurons</b></a></p> -->
 
-                                            <p class="text-justify"><b>Computing</b>
+                                                </div>
+                                            </div>
+                                            <div class="panel panel-success">
+                                                <div class="panel-heading">
+                                                <h3 class="panel-title"><i class="fa fa-terminal"></i> Computing</h3>
+                                                </div>
+                                                <div class="panel-body">
+                                                <p class="text-justify">
                                                 <br> The Computing prize will be awarded to a researcher whose poster
                                                 demonstrates the best implementation and performance of the RCC's Midway
                                                 compute cluster. Performance tuning and parallelization of codes are
@@ -209,9 +220,14 @@
                                                 tuned to the existing hardware, and/or demonstrates the greatest
                                                 performance speed-up when scaled.</p>
                                             <!-- <p class="text-justify">The Winner is: <a href="posters/04212017093636_MindBytes_2017_v2.pdf"><b>High Performance Machine Learning and Evolutionary Computing to Develop Personalized Therapeutics</b></a></p> -->
-
-                                            <p class="text-justify"><b>Visualization</b>
-                                                <br> The Visualization prize will be given to the researcher whose
+                                            </div>
+                                            </div>
+                                            <div class="panel panel-warning">
+                                                <div class="panel-heading">
+                                                <h3 class="panel-title"><i class="fa fa-bar-chart"></i> Visualization</h3>
+                                                </div>
+                                                <div class="panel-body">
+                                                <p class="text-justify">The Visualization prize will be given to the researcher whose
                                                 poster offers the most compelling data visualization of scientific
                                                 research that utilizes the RCC's resources. Contestants will be
                                                 evaluated on the novelty of the technology that they implement, the
@@ -219,12 +235,21 @@
                                                 resources to produce the visualization.</p>
                                             <!-- <p class="text-justify">The Winner is: <a href="posters/04242017110702_posterzhu042417.pdf"><b>Large-Scale Genome-Wide Enrichment Analysis of 31 Human Phenotypes</b></a></p> -->
 
-                                            <!-- <p class="text-justify"><b>The RCC Mind Bytes Judges' Choice Award</b>
-                                                <br> The judges will select a poster that is not selected for the other
-                                                categories but is deserving of an award.</p> -->
-                                            <!-- <p class="text-justify">The Winner is: <a href="posters/04262017100520_posterJia042617.pdf"><b>New Wine in Old Bottles - Ideological Transformation and Rhetorical Creation of Market in China’s People’s Daily, 1946 - 2003</b></a></p> -->
+                                                </div>
+                                            </div>
+                                            <!-- <div class="panel panel-info">
+                                                <div class="panel-heading">
+                                                    <h3 class="panel-title"><i class="fa fa-bullseye"></i> The RCC Mind Bytes Judges' Choice Award</h3>
+                                                </div>
+                                                <div class="panel-body">
+                                                    <p class="text-justify"><b></b>
+                                                    <br> The judges will select a poster that is not selected for the other
+                                                    categories but is deserving of an award.</p>
+                                                <p class="text-justify">The Winner <i class="fa fa-gift"></i> is: <a href="posters/04262017100520_posterJia042617.pdf"><b>New Wine in Old Bottles - Ideological Transformation and Rhetorical Creation of Market in China’s People’s Daily, 1946 - 2003</b></a></p>
 
-                                        </div>
+                                                </div>
+                                            </div> -->
+</div>
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="tab7">
@@ -235,7 +260,7 @@
                                                 resources in novel ways.</p>
                                             <!-- <p class="text-justify">Poster prizes: <b>iPad</b>, <b>Amazon Echo</b>, and
                                                 <b>External Hard Drives</b></p> -->
-                                                <p class="text-justify"><b>Prizes will be announced soon.</b></p>
+                                                <p class="text-justify"><b><i class="pe-7s-target fa-lg"></i> Prizes will be announced soon.</b></p>
                                         </div>
                                     </div>
                                 </div>
