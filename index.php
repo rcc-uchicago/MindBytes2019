@@ -96,6 +96,9 @@
                 <div class="rev_slider_wrapper">
                     <div class="rev_slider" data-version="5.4.6" style="display:none;">
                         <ul>
+                            <!– *********************** –>
+                            <!– Slides to be added here –>
+                            <!– *********************** –>
 
                             <li data-index="rs-1" data-transition="fade" data-slotamount="default"
                                 data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default"
@@ -169,7 +172,7 @@
                                                  data-width="['none','none','697','399']" data-height="none"
                                                  data-whitespace="['nowrap','nowrap','normal','normal']"
                                                  data-type="text" data-basealign="slide" data-responsive_offset="on"
-                                                 data-frames='[{"delay":"+290","split":"chars","splitdelay":0.05,"speed":750,"frame":"0","from":"y:40px;sX:1.5;sY:1.5;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},{"delay":"wait","speed":1000,"frame":"999","to":"sX:1;sY:1;opacity:0;fb:10px;","ease":"Power4.easeOut"}]'
+                                                 data-frames='[{"delay":"+290","speed":750,"frame":"0","from":"y:40px;sX:1.5;sY:1.5;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},{"delay":"wait","speed":1000,"frame":"999","to":"sX:1;sY:1;opacity:0;fb:10px;","ease":"Power4.easeOut"}]'
                                                  data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]"
                                                  data-marginbottom="[30,20,30,30]" data-marginleft="[0,0,0,0]"
                                                  data-textAlign="['inherit','inherit','center','center']"
@@ -188,7 +191,7 @@
                                                  data-width="['none','100%','100%','100%']" data-height="none"
                                                  data-whitespace="normal" data-type="text" data-basealign="slide"
                                                  data-responsive_offset="on"
-                                                 data-frames='[{"delay":"+1000","split":"chars","splitdelay":0.03,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                                                 data-frames='[{"delay":"+1000","speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                                  data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]"
                                                  data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]"
                                                  data-textAlign="['inherit','inherit','center','center']"
@@ -393,7 +396,7 @@
                                                 data-margintop="[80,80,80,80]" data-marginright="[0,0,0,0]" data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]" data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                 data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">We look forward to seeing you</div>-->
 
-                                            <div class="tp-caption tp-resizeme" id="slide-2-layer-4"
+                                            <!-- <div class="tp-caption tp-resizeme" id="slide-2-layer-4"
                                                  data-x="['left','left','center','center']"
                                                  data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']"
                                                  data-voffset="['140']" data-fontsize="['110','90','100','70']"
@@ -410,7 +413,7 @@
                                                  style="z-index: 9; white-space: nowrap; text-transform:left; font-size: 110px; line-height: 100px; font-weight: 600; color: rgba(255,255,255,1); font-family:Poppins; letter-spacing:1px;">
                                                 <div class="front-clock countdown-timer timer-box timer-deep-bg timer-responsive wow flipInY"
                                                      data-endingdate="2019/11/05 12:00:00" data-wow-delay="2s"></div>
-                                            </div>
+                                            </div> -->
 
                                             <div class="tp-caption tp-resizeme Newspaper-Subtitle" id="slide-2-layer-5"
                                                  data-x="['left','left','center','center']"
@@ -568,7 +571,7 @@
                                                 May 2019
                                             </div>-->
 
-                                            <div class="tp-caption tp-resizeme" id="slide-3-layer-3"
+                                            <!-- <div class="tp-caption tp-resizeme" id="slide-3-layer-3"
                                                  data-x="['center','center','center','center']"
                                                  data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']"
                                                  data-voffset="['140']" data-fontsize="['110','90','100','70']"
@@ -585,18 +588,36 @@
                                                  style="z-index: 9; white-space: nowrap; text-transform:left; font-size: 110px; line-height: 100px; font-weight: 600; color: rgba(255,255,255,1); font-family:Poppins; letter-spacing:1px;">
                                                 <div class="front-clock countdown-timer timer-box timer-deep-bg timer-responsive"
                                                      data-endingdate="2019/11/05 12:00:00"></div>
-                                            </div>
+                                            </div> -->
 
-                                            <div class="tp-caption tp-resizeme Newspaper-Subtitle" id="slide-3-layer-4"
-                                                 data-x="['left','left','center','center']"
-                                                 data-hoffset="['0','50','0','0']" data-y="['top','top','top','top']"
-                                                 data-voffset="['0','430','460','290']"
-                                                 data-fontsize="['40','40','50','35']"
-                                                 data-lineheight="['50','50','60','40']"
+                                            <div class="tp-caption tp-resizeme Newspaper-Subtitle" id="slide-3-layer-3"
+                                                 data-x="['center','center','center','center']"
+                                                 data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']"
+                                                 data-voffset="['140']" data-fontsize="['40','40','50','35']"
+                                                 data-lineheight="['100','90','100','70']"                                                 
                                                  data-width="['none','100%','100%','100%']" data-height="none"
                                                  data-whitespace="normal" data-type="text" data-basealign="slide"
                                                  data-responsive_offset="on"
-                                                 data-frames='[{"delay":"+1390","split":"chars","splitdelay":0.03,"speed":300,"frame":"0","from":"sX:2;sY:2;opacity:0;fb:5px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},{"delay":"wait","speed":1000,"frame":"999","to":"opacity:0;fb:10px;","ease":"Power4.easeOut"}]'
+                                                 data-frames='[{"delay":"+1000","speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                                                 data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]"
+                                                 data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]"
+                                                 data-textAlign="['inherit','inherit','center','center']"
+                                                 data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
+                                                 data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                                                 style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">
+                                                November 5<sup>th</sup>, 2019
+                                            </div>
+
+                                            <div class="tp-caption tp-resizeme Newspaper-Subtitle thin" id="slide-3-layer-4"
+                                                 data-x="['left','left','center','center']"
+                                                 data-hoffset="['0','50','0','0']" data-y="['top','top','top','top']"
+                                                 data-voffset="['0','430','460','290']"
+                                                 data-fontsize="['50','50','60','40']"
+                                                 data-lineheight="['60','60','70','45']"
+                                                 data-width="['none','100%','100%','100%']" data-height="none"
+                                                 data-whitespace="normal" data-type="text" data-basealign="slide"
+                                                 data-responsive_offset="on"
+                                                 data-frames='[{"delay":"+1590","split":"chars","splitdelay":0.03,"speed":300,"frame":"0","from":"sX:2;sY:2;opacity:0;fb:5px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},{"delay":"wait","speed":1000,"frame":"999","to":"opacity:0;fb:10px;","ease":"Power4.easeOut"}]'
                                                  data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]"
                                                  data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]"
                                                  data-textAlign="['inherit','inherit','center','center']"

@@ -95,7 +95,7 @@
                         </div>
                     </div>
 
-                    <div class="parallax layer-overlay overlay-deep" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg_event.png">
+                    <!-- <div class="parallax layer-overlay overlay-deep" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg_event.png">
                         <div class="container pt-20 pb-20">
                             <div class="section-content">
                                 <div class="row">
@@ -110,23 +110,24 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <!-- <div class="bg-white-light">
+                    <div class="bg-white-light">
                         <div class="container pt-30 pb-0">
                             <div class="section-content">
 
-                                <div class="row equal-height pt-20 pb-0" id="Sarah">
+                                <div class="row equal-height pt-20 pb-0" id="Lars">
                                     <div class="col-md-4">
                                         <div class="thumbnail">
-                                            <img src="images/speakers/Sarah_Cobey.jpg" alt="Sarah Cobey">
+                                            <img src="images/speakers/Lars_Hansen.jpg" alt="Lars Hansen">
                                         </div>
                                     </div>                                  
                                     <div class="col-md-8">
-                                        <h3 class="title">Managing the Evolution of influenza</h3>
-                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Sarah Cobey</h3>
-                                        <h6 class="text-gray mt-0">Assistant Professor, Department of Ecology and Evolution</h6>
-                                        <p class="text-justify">Sarah joined the Ecology &amp; Evolution Department at the University of Chicago as an assistant professor in July 2013. Her research investigates the coevolution of hosts and pathogens, especially the ways in which immune-mediated competition drives pathogen evolution, and the ways in which infection and vaccination shape the specificity of the host response. She received the NIH New Innovator Award and the Complex Systems Scholar Award from the James S. McDonnell Foundation to support her work on the coevolution of adaptive immune system and influenza. Before Chicago, Sarah spent three years as a NIH Ruth Kirschstein Fellow in the Center for Communicable Disease Dynamics at the Harvard School of Public Health. Sarah received her PhD from the Ecology &amp; Evolutionary Biology Department at the University of Michigan in 2009.</p>
+                                        <h3 class="title">Solving and Analyzing Economic Models with Climate Change</h3>
+                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Lars Hansen</h3>
+                                        <h6 class="text-gray mt-0">David Rockefeller Distinguished Service Professor</h6>
+                                        <p class="text-justify">Lars Peter Hansen is a leading expert in economic dynamics who works at the forefront of economic thinking and modeling, drawing approaches from macroeconomics, finance, and statistics. He is a recipient of the 2013 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel.</p>
+                                        <p class="text-justify">Hansen has made fundamental advances in our understanding of how economic agents cope with changing and risky environments. He has contributed to the development of statistical methods designed to explore the interconnections between macroeconomic indicators and assets in financial markets. These methods are widely used in empirical research in financial economics today.</p>
                                     </div>                                    
                                 </div>
 
@@ -134,16 +135,16 @@
                                     <i class="fa fa-cog fa-spin"></i>
                                 </div>
 
-                                <div class="row equal-height pt-20 pb-0" id="Aaron">
+                                <div class="row equal-height pt-20 pb-0" id="Stephanie">
                                     <div class="col-md-8">
-                                        <h3 class="title">Learning Mechanisms of Cellular Dynamics by Combining Simulations and Image Analysis</h3>
-                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Aaron Dinner</h3>
-                                        <h6 class="text-gray mt-0">Professor of Chemistry and Director of the James Franck Institute</h6>
-                                        <p class="text-justify">Aaron Dinner is a Professor of Chemistry and the Director of the James Franck Institute at the University of Chicago.  His work combines physical simulation, image analysis, statistics, and machine learning to understand complex biological dynamics, with present focuses on circadian rhythms, cytoskeletal dynamics, and algorithms for observing and interpreting rare events far from equilibrium.   He obtained his undergraduate (AB in Biochemical Sciences, 1994) and graduate (PhD in Biophysics, 1999) degrees at Harvard University, where he worked with Martin Karplus on Monte Carlo methods and their application to protein folding. Subsequently, he pursued postdoctoral studies at the University of Oxford (1999-2001), where he used hybrid quantum-mechanical/molecular-mechanical (QM/MM) methods to elucidate mechanisms of DNA repair, and the University of California, Berkeley (2001-2003), where he worked with David Chandler on transition path sampling and Arup Chakraborty on models of T lymphocyte signaling.  He joined the faculty at the University of Chicago in 2003.</p>
+                                        <h3 class="title">Analyzing our Chicago Motion Database to Create New Stimuli for Neuroscience Experiments</h3>
+                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Stephanie Palmer</h3>
+                                        <h6 class="text-gray mt-0">Assistant Professor</h6>
+                                        <p class="text-justify">Stephanie studies how populations of neurons collectively encode information present in their inputs and how they perform computations on these signals. The brain performs several classes of computation including signal comparison, prediction, error correction, and learning. To investigate these phenomena, she work with experimentalists on a variety of systems: predictive coding in the retina and visual cortex of the rodent, motion coding in area MT, and temporal coding in the zebra finch song system. From these studies, several general principles have emerged, which guide Stephanie’s current research: the hypothesis that neurons are optimized to predict their future inputs, that information in neural populations is represented combinatorially, and that coding in sensori-motor systems is highly dynamic and behaviorally dependent. By working closely with experimentalists, they constrain and test these theories of neural population coding with detailed measurements.</p>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="thumbnail">
-                                            <img src="images/speakers/Aaron_Dinner.jpg" alt="Aaron Dinner">
+                                            <img src="images/speakers/Stephanie_Palmer.png" alt="Stephanie Palmer">
                                         </div>
                                     </div>                           
                                 </div>
@@ -152,18 +153,18 @@
                                     <i class="fa fa-cog fa-spin"></i>
                                 </div>
 
-                                <div class="row equal-height pt-20 pb-0" id="Elisabeth">
+                                <div class="row equal-height pt-20 pb-0" id="Matthew">
                                     <div class="col-md-4">
                                         <div class="thumbnail">
-                                            <img src="images/speakers/LizMoyer.jpg" alt="Elisabeth Moyer">
+                                            <img src="images/speakers/Matthew_Stephens.jpg" alt="Matthew Stephens">
                                         </div>
                                     </div>
                                     <div class="col-md-8">
-                                        <h3 class="title">Climate Science in the Era of Large Computing</h3>
-                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Elisabeth Moyer</h3>
-                                        <h6 class="text-gray mt-0">Associate Professor, Atmospheric Chemistry</h6>
-                                        <p class="text-justify">Elisabeth Moyer is an Associate Professor in the Department of the Geophysical Sciences and the director of the Center for Robust Decision-making on Climate and Energy Policy, an NSF-funded interdisciplinary center focused on open-source tools to support decisionmaking. She also leads a new NSF NRT (research traineeship) program aimed at transforming interdisciplinary graduate education, with a focus on computation: <b>"Computational data science to advance research at the energy-environment nexus"</b>.</p>
-                                        <p class="text-justify">Moyer's research spans atmospheric science, climate statistics, and energy and climate policy analysis. Her climate research focuses on the statistics of evolving climate states; her atmospheric science research focuses on the processes that control the distribution of water vapor and formation of cirrus clouds in the upper troposphere and stratosphere.</p>
+                                        <h3 class="title">Get Organized and Share Nicely</h3>
+                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Matthew Stephens</h3>
+                                        <h6 class="text-gray mt-0">Professor</h6>
+                                        <p class="text-justify">Matthew Stephens’ lab works on a wide variety of problems at the interface of Statistics and Genetics. They often tackle problems where novel statistical methods are required, or can learn something new compared with existing approaches. Thus, much of their research involves developing new statistical methodology, many of which have a non-trivial computational component. People in his lab tend to come from a quantitative background (e.g., Math, Statistics, Computer Science), with varying levels of formal or informal Biology training.</p>
+                                        <p class="text-justify">His lab is located in the department of Human Genetics, in recently-renovated computational space shared with the labs of John Novembre and Xin He. The groups interact with one another continuously, with students and postdocs from different groups sharing offices. They think this is a great place to go and do research, and are very proud of what they have going on.</p>
                                     </div>
                                 </div>
 
@@ -171,17 +172,16 @@
                                     <i class="fa fa-cog fa-spin"></i>
                                 </div>
 
-                                <div class="row equal-height pt-20 pb-0" id="Benoit">                                    
+                                <div class="row equal-height pt-20 pb-0" id="Diane">                                    
                                     <div class="col-md-8">
-                                        <h3 class="title">Predicting the Conformational Variability of Abl Tyrosine Kinase using Molecular Dynamics Simulations and Markov State Models</h3>
-                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Benoit Roux</h3>
-                                        <h6 class="text-gray mt-0">Amgen Professor of Biochemistry and Molecular Biology</h6>
-                                        <p class="text-justify">Benoit Roux was born in the city of Montreal, Canada, in 1958. In 1981, he received a B.Sc. in Physics from the University of Montreal, followed by a M.Sc. in Biophysics in 1985 under the supervision of Remy Sauve.  In 1990, he obtained a Ph.D. in Biophysics from Harvard University under the direction of Martin Karplus. He has held positions at the University of Montreal, and the Weill Medical College of Cornell University.</p>
-                                        <p class="text-justify">He has been at the University of Chicago since 2005, where he is the Amgen Professor in the Department of Biochemistry and Molecular Biology and holds a joint appointment in the Chemistry Department as well as Argonne National Laboratory. Using theoretical techniques such as classical molecular dynamics to understand the functioning of biological systems at the molecular level, he has investigated the mechanism of biological macromolecular systems such as ion channels, receptors, and protein kinases.</p>
+                                        <h3 class="title"></h3>
+                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Diane Brentari</h3>
+                                        <h6 class="text-gray mt-0">Mary K. Werkman Professor</h6>
+                                        <p class="text-justify">Diane Brentari’s broad interests address issues in sign language grammars, particularly problems at the intersection of morphology, phonology, and prosody. Her work has primarily focused on sign language phonology as a way to understand the effects of communication mode (or modality) on language, as well as the flexibility of the human language capacity in constructing spoken and signed languages. Her current research involves language variation among sign languages, and how the mental lexicon emerges in historical time, which includes the relationship between gesture, homesign systems, and well-established sign languages. She is one of three Directors of the Center for Gesture, Sign and Language.</p>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="thumbnail">
-                                        <img src="images/speakers/Benoit_Roux.jpg" alt="Benoit Roux">
+                                        <img src="images/speakers/diane_brentari.jpg" alt="Diane Brentari">
                                         </div>
                                     </div>
                                 </div>
@@ -190,25 +190,25 @@
                                     <i class="fa fa-cog fa-spin"></i>
                                 </div>
 
-                                <div class="row equal-height pt-20 pb-0" id="Dacheng">
+                                <div class="row equal-height pt-20 pb-0" id="Tobin">
                                     <div class="col-md-4">
                                         <div class="thumbnail">
-                                            <img src="images/speakers/xiu.jpg" alt="Dacheng Xiu">
+                                            <img src="images/speakers/Tobin_Sosnick.jpg" alt="Tobin Sosnick">
                                         </div>
                                     </div>
                                     <div class="col-md-8">
-                                        <h3 class="title">Empirical Asset Pricing via Machine Learning</h3>
-                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Dacheng Xiu</h3>
-                                        <h6 class="text-gray mt-0">Associate Professor of Econometrics and Statistics, Booth School of Business</h6>
-                                        <p class="text-justify">Xiu earned his PhD and MA in applied mathematics from Princeton University, where he was also a researcher at the Bendheim Center for Finance. Prior to his graduate studies, he obtained a BS in mathematics from the University of Science and Technology of China.</p>
-                                        <p class="text-justify">Dacheng Xiu’s research interests include developing statistical methodologies and applying them to financial data, while exploring their economic implications. His earlier research involved risk measurement and portfolio management with high-frequency data and econometric modeling of derivatives. His current work focuses on developing machine learning solutions to big-data problems in empirical asset pricing.</p>
-                                        <p class="text-justify">Xiu’s work has appeared in Econometrica, the Journal of Econometrics, the Journal of the American Statistical Association, and the Annals of Statistics. Additionally, he was invited to publish in the Journal of Business and Economic Statistics. He is an Associate Editor for the Journal of Econometrics and Statistica Sinica, and also referees for several journals in the fields of econometrics, statistics, and finance. He has received several recognitions for his research, including the Dennis J. Aigner 2017 Honorable Mention for the best paper in empirical econometrics published by the Journal of Econometrics in 2015 or 2016, and the Best Conference Paper Prize at the 2017 Annual Meeting of the European Finance Association. In 2017, Xiu launched a website that provides up-to-date realized volatilities of individual stocks. These daily volatilities are calculated from the stocks’ intraday transactions and the methodologies are based on his research of high-frequency data.</p>
+                                        <h3 class="title"></h3>
+                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Tobin Sosnick</h3>
+                                        <h6 class="text-gray mt-0">Department Chair and Professor</h6>
+                                        <p class="text-justify">Tobin R. Sosnick, Chair of the Dept. of Biochemistry & Molecular Biology, would be at home in either a chemistry or physics department, having received his PhD in low-temperature physics from Harvard University in 1988. His shift into biological research occurred during his post-doctoral training with W. Englander (protein chemistry, NAS, UPenn) and J. Trewhella (biophysics, Los Alamos). Prof. Sosnick is a founding member of the Institute for Biophysical Dynamics, serving as its Director from 2009 to 2011, as well as a Senior Fellow in the Computation Institute. He has led the development and design of the Graduate Program in Biophysical Sciences.</p>
+                                        <p class="text-justify">Prof. Sosnick’s research program involves synergistic studies of protein and RNA folding, function and design, with both experimental and computational approaches. The research is based on the premise that rigorous and innovative studies of basic processes have broad implications in many areas of biological research. Research areas include delineating protein and RNA folding pathways and denatured states, ab initio protein folding pathway and structure prediction, design of light-triggered allosteric proteins, and protein-RNA interactions.</p.>
+                                        <p class="text-justify">His lab employs a range of experimental and theoretical methods including NMR, small-angle X-ray scattering, hydrogen exchange, rapid mixing methods, molecular dynamics and coarse-grain folding simulations.</p>
                                     </div>                                    
                                 </div>                                
 
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                 </section>
 
                 <!-- divider: contact us -->
