@@ -115,22 +115,21 @@
                             </div>-->
 
                             <div class="row equal-height" id="remarks">
-                                <div class="col-sm-4 col-md-4 p-0 bg-img-cover">
+                                <!-- <div class="col-sm-4 col-md-4 p-0 bg-img-cover">
                                     <img src="images/speakers/Eric_Isaacs.jpg" alt="Eric Isaacs">
-                                </div>
-                                <div class="col-sm-4 col-md-4">
+                                </div> -->
+                                <div class="col-sm-8 col-md-8">
                                     <div class="pt-10 pb-10 pl-20 pr-20 p-md-10">
-                                        <h2 class="title text-gray mt-0">Eric Isaacs</h2>
+                                        <!-- <h2 class="title text-gray mt-0">Eric Isaacs</h2>
                                         <h6 class="text-gray">Executive Vice President for Research, Innovation and National Laboratories, The University of Chicago</h6>
                                         <p class="text-justify mb-20">Eric D. Isaacs is the Executive Vice President for Research, Innovation and National Laboratories at the University of Chicago, serves as CEO of UChicago Argonne, LLC, Vice-Chairman of the Board of Governors for Argonne National Laboratory and is a member of the Boards for Fermi National Accelerator Laboratory and the Marine Biological Laboratory.</p>
-                                        <!--<p class="text-justify mb-20">Isaacs provides direct oversight of Argonne and Fermilab for the U.S. Department of Energy’s Office of Science, the MBL affiliation, and the University’s founding-partner relationship with the Giant Magellan Telescope project.  He also oversees University research administration, safety, and computing; technology development and new ventures; and numerous endeavors in science and innovation that cut across divisions, schools, and institutes.  His responsibilities include furthering the University’s efforts in computation, data science, and innovation in Hyde Park, including the Polsky Center for Entrepreneurship and Innovation and the Chicago Innovation Exchange.</p>-->
-                                        
-                                        <div class="heading-border mb-50"></div>
+                                                                                
+                                        <div class="heading-border mb-50"></div> -->
 
                                         <h2 class="title text-gray mt-0">H. Birali Runesha</h2>
                                         <h6 class="text-gray">Assistant Vice President for Research Computing, Director of the Research Computing Center (RCC)</h6>
                                         <p class="text-justify mb-20">As Director of Research Computing for the University of Chicago, Hakizumwami Birali Runesha provides leadership and vision for advancing all aspects of research computing strategies at the University. He is responsible for the design, configuration, and administration of centrally managed High-Performance Computing (HPC) systems and related services across the University. In addition, he provides access to advanced technical expertise, user support, advice and training, and access to the University’s HPC facility to the research community.</p>
-                                        <!--<p class="text-justify mb-20">Runesha is a seasoned professional who brings to the University of Chicago HPC management leadership and more than 17 years of experience in high performance computing and scientific software development. In addition to overseeing strategic planning of HPC resources and leading annual procurement of supercomputing resources at MSI, Runesha created the MSI Application software development group and the MSI Scientific Data Management Laboratory to meet the evolving data management and database development needs of university researchers.</p>-->
+                                        <p class="text-justify mb-20">Runesha is a seasoned professional who brings to the University of Chicago HPC management leadership and more than 17 years of experience in high performance computing and scientific software development. In addition to overseeing strategic planning of HPC resources and leading annual procurement of supercomputing resources at MSI, Runesha created the MSI Application software development group and the MSI Scientific Data Management Laboratory to meet the evolving data management and database development needs of university researchers.</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-4 col-md-4 p-0 bg-img-cover pull-right flip xs-pull-none">

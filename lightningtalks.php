@@ -174,10 +174,10 @@
 
                                 <div class="row equal-height pt-20 pb-0" id="Diane">                                    
                                     <div class="col-md-8">
-                                        <h3 class="title"></h3>
+                                        <h3 class="title">The SAGA Project: Making sign language and gesture research more accessible.</h3>
                                         <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Diane Brentari</h3>
                                         <h6 class="text-gray mt-0">Mary K. Werkman Professor</h6>
-                                        <p class="text-justify">Diane Brentari’s broad interests address issues in sign language grammars, particularly problems at the intersection of morphology, phonology, and prosody. Her work has primarily focused on sign language phonology as a way to understand the effects of communication mode (or modality) on language, as well as the flexibility of the human language capacity in constructing spoken and signed languages. Her current research involves language variation among sign languages, and how the mental lexicon emerges in historical time, which includes the relationship between gesture, homesign systems, and well-established sign languages. She is one of three Directors of the Center for Gesture, Sign and Language.</p>
+                                        <p class="text-justify">Brentari's work has primarily focused on sign language phonology as a way to understand the effects of communication mode (or modality) on language, as well as the flexibility of the human language capacity in constructing spoken, signed, and protactile languages. Her current research involves language variation among sign languages, and how the mental lexicon emerges in historical time, which includes the relationship between gesture, emerging sign languages systems, and well-established sign languages.  She is one of three Directors of the Center for Gesture, Sign and Language.</p>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="thumbnail">
@@ -193,16 +193,14 @@
                                 <div class="row equal-height pt-20 pb-0" id="Tobin">
                                     <div class="col-md-4">
                                         <div class="thumbnail">
-                                            <img src="images/speakers/Tobin_Sosnick.jpg" alt="Tobin Sosnick">
+                                            <img src="images/speakers/Tobin_Sosnick.png" alt="Tobin Sosnick">
                                         </div>
                                     </div>
                                     <div class="col-md-8">
                                         <h3 class="title"></h3>
                                         <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Tobin Sosnick</h3>
                                         <h6 class="text-gray mt-0">Department Chair and Professor</h6>
-                                        <p class="text-justify">Tobin R. Sosnick, Chair of the Dept. of Biochemistry & Molecular Biology, would be at home in either a chemistry or physics department, having received his PhD in low-temperature physics from Harvard University in 1988. His shift into biological research occurred during his post-doctoral training with W. Englander (protein chemistry, NAS, UPenn) and J. Trewhella (biophysics, Los Alamos). Prof. Sosnick is a founding member of the Institute for Biophysical Dynamics, serving as its Director from 2009 to 2011, as well as a Senior Fellow in the Computation Institute. He has led the development and design of the Graduate Program in Biophysical Sciences.</p>
-                                        <p class="text-justify">Prof. Sosnick’s research program involves synergistic studies of protein and RNA folding, function and design, with both experimental and computational approaches. The research is based on the premise that rigorous and innovative studies of basic processes have broad implications in many areas of biological research. Research areas include delineating protein and RNA folding pathways and denatured states, ab initio protein folding pathway and structure prediction, design of light-triggered allosteric proteins, and protein-RNA interactions.</p.>
-                                        <p class="text-justify">His lab employs a range of experimental and theoretical methods including NMR, small-angle X-ray scattering, hydrogen exchange, rapid mixing methods, molecular dynamics and coarse-grain folding simulations.</p>
+                                        <p class="text-justify">Prof. Sosnick received his Ph.D. in low-temperature physics from Harvard University in 1989. He transitioned to biophysics during his post-doctoral training with SW Englander (UPENN) and J Trewhella (Los Alamos National Lab) where he applied hydrogen exchange, NMR and small-angle X-ray scattering methods to study protein folding. During his 23 years at the University of Chicago, his lab has conducted experimental and computational studies of protein and RNA folding, as well as protein design using light-sensitive proteins (optogenetics). He is a strong believer in collaboration, having co-mentored over 25 trainees. Recent collaborations have focused on the folding of membrane proteins, protein phase separation under cellular stress, properties of denatured states, simulations of force-induced unfolding, the design of light-controlled motor proteins, and mechanisms underlying phosphorylation-based signaling. For the past 8 years, Prof. Sosnick has been chair of the Department of Biochemistry and Molecular Biology. In addition, he is the co-founder and co-director of the Graduate Program in Biophysical Sciences, a unique dual-mentored graduate training program involving faculty from both the Biological and Physical Science Divisions.</p>
                                     </div>                                    
                                 </div>                                
 
