@@ -118,9 +118,9 @@
                     </div>
 
                     <div class="divider">
-                        <div class="container pt-10 pb-5">
-                            <div class="row pl-5 pr-5">
-                                <h6 class="title text-gray text-justify font-14">A major feature of the Mind Bytes event
+                        <div class="container pt-0 pb-5">
+                            <div class="row">
+                                <h6 class="call-to-action border-1px bg-lighter text-justify font-14">A major feature of the Mind Bytes event
                                     is the poster session, designed to enable the exchange of ideas across disciplines
                                     and reward researchers' work. The posters should represent research projects that
                                     showcase the application
