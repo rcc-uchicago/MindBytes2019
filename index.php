@@ -439,24 +439,28 @@
                                                 data-margintop="[80,80,80,80]" data-marginright="[0,0,0,0]" data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]" data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                 data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">We look forward to seeing you</div>-->
 
-                                                           <div class="tp-caption tp-resizeme" id="slide-2-layer-4"
-                                                 data-x="['left','left','center','center']"
-                                                 data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']"
-                                                 data-voffset="['140']" data-fontsize="['110','90','100','70']"
-                                                 data-lineheight="['100','90','100','70']"
-                                                 data-width="none" data-height="none" data-whitespace="nowrap"
-                                                 data-transform_idle="o:1;s:500"
-                                                 data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
-                                                 data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
-                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
-                                                 data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
-                                                 data-start="2200" data-splitin="none" data-splitout="none"
-                                                 data-responsive_offset="on" data-responsive="on"
-                                                 data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":1250,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
-                                                 style="z-index: 9; white-space: nowrap; text-transform:left; font-size: 110px; line-height: 100px; font-weight: 600; color: rgba(255,255,255,1); font-family:Poppins; letter-spacing:1px;">
-                                                <div class="front-clock countdown-timer timer-box timer-deep-bg timer-responsive wow flipInY"
-                                                     data-endingdate="2019/11/05 12:00:00" data-wow-delay="2s"></div>
-                                            </div> 
+                                                            <div class="tp-caption tp-resizeme" id="slide-2-layer-4"
+                                                                data-x="['left','left','center','center']"
+                                                                data-hoffset="['0','0','0','0']"
+                                                                data-y="['top','top','top','top']"
+                                                                data-voffset="['140']"
+                                                                data-fontsize="['110','90','100','70']"
+                                                                data-lineheight="['100','90','100','70']"
+                                                                data-width="none" data-height="none"
+                                                                data-whitespace="nowrap" data-transform_idle="o:1;s:500"
+                                                                data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                                                                data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                                                                data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                                                                data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                                                                data-start="2200" data-splitin="none"
+                                                                data-splitout="none" data-responsive_offset="on"
+                                                                data-responsive="on"
+                                                                data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":1250,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
+                                                                style="z-index: 9; white-space: nowrap; text-transform:left; font-size: 110px; line-height: 100px; font-weight: 600; color: rgba(255,255,255,1); font-family:Poppins; letter-spacing:1px;">
+                                                                <div class="front-clock countdown-timer timer-box timer-deep-bg timer-responsive wow flipInY"
+                                                                    data-endingdate="2019/11/05 12:00:00"
+                                                                    data-wow-delay="2s"></div>
+                                                            </div>
 
                                                             <div class="tp-caption tp-resizeme Newspaper-Subtitle"
                                                                 id="slide-2-layer-5"
@@ -490,17 +494,18 @@
 
                                                 <a href="#" target="_self" class="tp-caption Newspaper-Button rev-btn"
                                                     id="slide-2-layer-16" data-x="['center','center','center','center']"
-                                                    data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']"
-                                                    data-voffset="['50','50','50','50']"
-                                                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
+                                                    data-hoffset="['0','0','0','0']"
+                                                    data-y="['bottom','bottom','bottom','bottom']"
+                                                    data-voffset="['50','50','50','50']" data-width="none"
+                                                    data-height="none" data-whitespace="nowrap" data-type="button"
                                                     data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]'
                                                     data-responsive_offset="on" data-responsive="on"
                                                     data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:50px;opacity:0;","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:rgba(255,255,255,1);bw:1px 1px 1px 1px;"}]'
-                                                    data-textAlign="['left','left','left','left']" data-paddingtop="[12,12,12,12]"
-                                                    data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]"
-                                                    data-paddingleft="[35,35,35,35]"
+                                                    data-textAlign="['left','left','left','left']"
+                                                    data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]"
+                                                    data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]"
                                                     style="z-index: 11; white-space: nowrap;text-transform:left;border-color:rgba(255,255,255,0.75);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">CALL
-                                                        FOR POSTERS</a>
+                                                    FOR POSTERS</a>
 
                                                 <!--<a href="https://universityevents.wufoo.com/forms/p1crrdnc1e7usus/" target="_blank" class="tp-caption Newspaper-Button rev-btn" id="slide-2-layer-16" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']" data-voffset="['50','50','50','50']"
                                     data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]' data-responsive_offset="on" data-responsive="on" data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:50px;opacity:0;","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:rgba(255,255,255,1);bw:1px 1px 1px 1px;"}]'
@@ -947,7 +952,9 @@
                                     href="program.php"><i class="fa fa-eye" aria-hidden="true"></i> See Event
                                     Schedule</a>
                                 <!--<a class="btn btn-dark-light btn-lg text-uppercase smooth-scroll font-13 mt-10" href="registration.php" target="_self">Register Now <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a>-->
-                                <a href="submission.php" class="btn btn-dark-light btn-lg text-uppercase smooth-scroll font-13 mt-10">Submit your Poster <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+                                <a href="submission.php"
+                                    class="btn btn-dark-light btn-lg text-uppercase smooth-scroll font-13 mt-10">Submit
+                                    your Poster <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
                             </div>
                         </div>
 
@@ -1117,7 +1124,9 @@
                                             <div class="content text-center">
                                                 <h4 class="author mb-0"><a href="keyspeakers.php#remarks">H. Birali
                                                         Runesha</a></h4>
-                                                <h6 class="title text-gray font-14 mt-5 mb-15">Assistant Vice President for Research Computing, Director of the Research Computing Center (RCC)</h6>
+                                                <h6 class="title text-gray font-14 mt-5 mb-15">Assistant Vice President
+                                                    for Research Computing, Director of the Research Computing Center
+                                                    (RCC)</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -1126,16 +1135,19 @@
                                 <!-- Lightning Talks Speakers -->
                                 <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
-                                        <div class="team-thumb"><img alt="Lars Hansen" 
+                                        <div class="team-thumb"><img alt="Lars Hansen"
                                                 src="images/speakers/slider/Lars_Hansen.jpg" class="img-fullwidth">
                                         </div>
                                         <div class="overlay">
                                             <div class="content text-center">
-                                                <h4 class="author mb-0"><a href="lightningtalks.php">Lars Hansen</a></h4>
-                                                <h6 class="title text-gray font-14 mt-5 mb-15">David Rockefeller Distinguished Service Professor</h6>
+                                                <h4 class="author mb-0"><a href="lightningtalks.php">Lars Hansen</a>
+                                                </h4>
+                                                <h6 class="title text-gray font-14 mt-5 mb-15">David Rockefeller
+                                                    Distinguished Service Professor</h6>
                                                 <blockquote>
                                                     <p>
-                                                        <h5 class="title">Solving and Analyzing Economic Models with Climate Change</h5>
+                                                        <h5 class="title">Solving and Analyzing Economic Models with
+                                                            Climate Change</h5>
                                                     </p>
                                                 </blockquote>
                                             </div>
@@ -1150,11 +1162,13 @@
                                         </div>
                                         <div class="overlay">
                                             <div class="content text-center">
-                                                <h4 class="author mb-0"><a href="lightningtalks.php#Stephanie">Stephanie Palmer</a></h4>
+                                                <h4 class="author mb-0"><a href="lightningtalks.php#Stephanie">Stephanie
+                                                        Palmer</a></h4>
                                                 <h6 class="title text-gray font-14 mt-5 mb-15">Assistant Professor</h6>
                                                 <blockquote>
                                                     <p>
-                                                        <h5 class="title">Analyzing our Chicago Motion Database to Create New Stimuli for Neuroscience Experiments</h5>
+                                                        <h5 class="title">Analyzing our Chicago Motion Database to
+                                                            Create New Stimuli for Neuroscience Experiments</h5>
                                                     </p>
                                                 </blockquote>
                                             </div>
@@ -1164,10 +1178,12 @@
                                 <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
                                         <div class="team-thumb"><img alt="Matthew Stephens"
-                                                src="images/speakers/slider/Matthew_Stephens.jpg" class="img-fullwidth"></div>
+                                                src="images/speakers/slider/Matthew_Stephens.jpg" class="img-fullwidth">
+                                        </div>
                                         <div class="overlay">
                                             <div class="content text-center">
-                                                <h4 class="author mb-0"><a href="lightningtalks.php#Matthew">Matthew Stephens</a></h4>
+                                                <h4 class="author mb-0"><a href="lightningtalks.php#Matthew">Matthew
+                                                        Stephens</a></h4>
                                                 <h6 class="title text-gray font-14 mt-5 mb-15">Professor</h6>
                                                 <blockquote>
                                                     <p>
@@ -1185,11 +1201,14 @@
                                         </div>
                                         <div class="overlay">
                                             <div class="content text-center">
-                                                <h4 class="author mb-0"><a href="lightningtalks.php#Diane">Diane Brentari</a></h4>
-                                                <h6 class="title text-gray font-14 mt-5 mb-15">Mary K. Werkman Professor</h6>
+                                                <h4 class="author mb-0"><a href="lightningtalks.php#Diane">Diane
+                                                        Brentari</a></h4>
+                                                <h6 class="title text-gray font-14 mt-5 mb-15">Mary K. Werkman Professor
+                                                </h6>
                                                 <blockquote>
                                                     <p>
-                                                        <h5 class="title">The SAGA Project: Making sign language and gesture research more accessible.</h5>
+                                                        <h5 class="title">The SAGA Project: Making sign language and
+                                                            gesture research more accessible.</h5>
                                                     </p>
                                                 </blockquote>
                                             </div>
@@ -1199,11 +1218,14 @@
                                 <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
                                         <div class="team-thumb"><img alt="Tobin Sosnick"
-                                                src="images/speakers/slider/Tobin_Sosnick.png" class="img-fullwidth"></div>
+                                                src="images/speakers/slider/Tobin_Sosnick.png" class="img-fullwidth">
+                                        </div>
                                         <div class="overlay">
                                             <div class="content text-center">
-                                                <h4 class="author mb-0"><a href="lightningtalks.php#Tobin">Tobin Sosnick</a></h4>
-                                                <h6 class="title text-gray font-14 mt-5 mb-15">Department Chair and Professor</h6>
+                                                <h4 class="author mb-0"><a href="lightningtalks.php#Tobin">Tobin
+                                                        Sosnick</a></h4>
+                                                <h6 class="title text-gray font-14 mt-5 mb-15">Department Chair and
+                                                    Professor</h6>
                                                 <blockquote>
                                                     <p>
                                                         <h5 class="title"></h5>
