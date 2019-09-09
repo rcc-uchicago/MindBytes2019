@@ -2,7 +2,7 @@
 
 header('Content-type: application/json; charset=utf-8');
 
-$output_dir = '../posters/2018/';
+$output_dir = '../posters/2019/';
 if(isset($_FILES["myfile"]))
 {
 	$ret = array();

@@ -3,7 +3,7 @@
 header('Content-type: application/json');
 require 'PHPMailerAutoload.php';
 
-$output_dir = '../posters/2018/';
+$output_dir = '../posters/2019/';
 
 // SQL server connection information
 require('config.php');
@@ -60,7 +60,7 @@ for($i = 0; $i < count($files_upload); $i++) {
 		$filename = $output_dir.$value;
 		
 		if (file_exists($filename)) {
-			$uploadFiles .= "<br><a href=\"" . $url . '/posters/2018/' . $value . '" target="_blank">' .  $value ."</a>";
+			$uploadFiles .= "<br><a href=\"" . $url . '/posters/2019/' . $value . '" target="_blank">' .  $value ."</a>";
 			$all_file_name .= $value . ', ';
 			//$mail->addAttachment($filename);         // Add attachments
 			//$mail->addAttachment($filename, $value);    // Optional name
@@ -103,7 +103,7 @@ $title_of_poster = mysqli_real_escape_string($conn, $title_of_poster);
 $project_abstract = mysqli_real_escape_string($conn, $project_abstract);
 //$award_category =  mysqli_real_escape_string($conn, $award_category);	
 $all_file_name = mysqli_real_escape_string($conn, rtrim($all_file_name, ', '));
-$year = '2018'; //date("Y");
+$year = '2019'; //date("Y");
 
 $sql = "INSERT INTO tbl_poster (files_upload, is_public, fullname, email, academic_title, division, department, rcc_resources, principal_investigator, title_of_poster, project_abstract, year) 
 	VALUES ('$all_file_name', $is_public, '$fullname', '$email', '$academic_title', '$division', '$department', '$rcc_resources', '$principal_investigator', '$title_of_poster', '$project_abstract', '$year')";
