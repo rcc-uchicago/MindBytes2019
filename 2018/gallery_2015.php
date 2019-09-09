@@ -184,7 +184,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal1" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/MindBytesPoster-2015.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/MindBytesPoster-2015.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -199,7 +199,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal2" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/RCC_2015.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/RCC_2015.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -213,7 +213,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal3" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/bhuynh_mbposter.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/bhuynh_mbposter.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -227,7 +227,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal4" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/main.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/main.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -238,7 +238,7 @@
                                         <!---SECOND SET START-->
                                         <div class="item">
                                             <div class="row">
-                                                <!---WILL MCFADDEN  		  <div class="col-md-3"> 				<div class="thumbnail"> <a href="#" class="thumbnail"><img class="img-responsive" src='images/posters/2015/power_poster.jpg'></a> 				  <div class="caption"> <p><b>#5 </b>Conserving Energy in Heterogensous Clusters</p> <p><a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal5" role="button">Abstract</a>&nbsp;    <a href="2015/posters/power_poster.pdf" class="btn btn-primary" role="button">View PDF</a></p> 				  </div> 				</div>  		  </div>
+                                                <!---WILL MCFADDEN  		  <div class="col-md-3"> 				<div class="thumbnail"> <a href="#" class="thumbnail"><img class="img-responsive" src='images/posters/2015/power_poster.jpg'></a> 				  <div class="caption"> <p><b>#5 </b>Conserving Energy in Heterogensous Clusters</p> <p><a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal5" role="button">Abstract</a>&nbsp;    <a href="/2015/posters/power_poster.pdf" class="btn btn-primary" role="button">View PDF</a></p> 				  </div> 				</div>  		  </div>
  		  <div class="modal fade" id="myModal5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 			<div class="modal-dialog modal-lg"> 			  <div class="modal-content"> 				<div class="modal-header"> 				  <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button> 				  <h4 class="modal-title" id="myModalLabel">Conserving Energy in Heterogensous Clusters</h4> 				</div> 				<div class="modal-body"> 				 We've collected and analyzed the power and CPU usage data from the University of Chicago's Midway cluster to see if we can reduce our energy footprint.  We've found that the cluster is often underutilized with many processors idling.  We simulate the energy savings of shutting off idle machines. 				</div> 				<div class="modal-footer"> 				  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 				</div> 			  </div> 			</div> 		  </div> 		-->
                                                 <div class="col-md-3">
                                                     <div class="thumbnail">
@@ -249,12 +249,12 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal6" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/Scenes_poster.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/Scenes_poster.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <!--GLOBUS POSTER 		  <div class="col-md-3"> 				<div class="thumbnail"> <a href="#" class="thumbnail"><img class="img-responsive" src='images/posters/2015/150928_Globus_RCC_Poster.jpg'></a> 				  <div class="caption"> <p><b>#6 </b>Research Data Management-as-a-Service</p> <p><a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal7" role="button">Abstract</a>&nbsp;    <a href="2015/posters/150928_Globus_RCC_Poster.pdf" class="btn btn-primary" role="button">View PDF</a></p> 				  </div> 				</div>  		  </div>
+                                                <!--GLOBUS POSTER 		  <div class="col-md-3"> 				<div class="thumbnail"> <a href="#" class="thumbnail"><img class="img-responsive" src='images/posters/2015/150928_Globus_RCC_Poster.jpg'></a> 				  <div class="caption"> <p><b>#6 </b>Research Data Management-as-a-Service</p> <p><a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal7" role="button">Abstract</a>&nbsp;    <a href="/2015/posters/150928_Globus_RCC_Poster.pdf" class="btn btn-primary" role="button">View PDF</a></p> 				  </div> 				</div>  		  </div>
  		  <div class="modal fade" id="myModal7" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 			<div class="modal-dialog modal-lg"> 			  <div class="modal-content"> 				<div class="modal-header"> 				  <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button> 				  <h4 class="modal-title" id="myModalLabel">Research Data Management-as-a-Service</h4> 				</div> 				<div class="modal-body"> 				Globus is software-as-a-service for managing the secure transfer, sharing, and publication of large datasets. It is the recommended file transfer and sharing service for UChicago RCC, NCSA, XSEDE, NERSC, and many other cyberinfrastructure providers nationwide.                               				</div> 				<div class="modal-footer"> 				  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 				</div> 			  </div> 			</div> 		  </div> 		-->
                                                 <div class="col-md-3">
                                                     <div class="thumbnail">
@@ -265,7 +265,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal8" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/poster_mk2015_info48_35.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/poster_mk2015_info48_35.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -279,7 +279,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal9" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/Vadim_Semenov_poster.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/Vadim_Semenov_poster.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -293,7 +293,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal10" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/MindBytes 2015_v6.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/MindBytes 2015_v6.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -313,7 +313,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal11" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/RCCposter_submission_gidmark.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/RCCposter_submission_gidmark.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -327,7 +327,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal12" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/SLee_MindBytes2015.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/SLee_MindBytes2015.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -341,7 +341,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal13" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/MurphyEtAl_MindBytes.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/MurphyEtAl_MindBytes.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -355,7 +355,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal14" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/mansfield-poster.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/mansfield-poster.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -375,7 +375,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal15" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/poster.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/poster.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -389,7 +389,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal18" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/poster_draft_1v2.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/poster_draft_1v2.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -403,7 +403,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal19" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/rcc2015-poster.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/rcc2015-poster.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -417,7 +417,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal20" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/landscape.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/landscape.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -437,7 +437,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal21" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/MVO_Poster_Team_BBH_MindBytes_2015.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/MVO_Poster_Team_BBH_MindBytes_2015.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -451,7 +451,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal22" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/Poster_.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/Poster_.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -465,7 +465,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal23" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/2015_RCC_HAVI_updated.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/2015_RCC_HAVI_updated.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -479,7 +479,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal24" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/Mind_the_bytes_2015.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/Mind_the_bytes_2015.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -498,7 +498,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal25" role="button">Abstract</a>&nbsp;
-                                                                <a href="2015/posters/2015MindBytes.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2015/posters/2015MindBytes.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>

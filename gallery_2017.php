@@ -46,7 +46,7 @@
     <!-- CSS | Responsive media queries -->
     <link href="css/responsive.css" rel="stylesheet" type="text/css">
     <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
-    <!-- <link href="css/style.css" rel="stylesheet" type="text/css"> -->
+    <link href="css/style.css" rel="stylesheet" type="text/css">
 
     <!-- external javascripts -->
     <script type="text/javascript" src="js/jquery-2.2.0.min.js"></script>
@@ -137,13 +137,14 @@
                         }
 
                         htmlText += "<div class=\"poster-thumb\">";
-                        htmlText += "<a rel=\"prettyPhoto\" href='" + year + "/posters/images/fullscreen/" + fileName.substring(0, fileName.length - 3) +
-                            "jpg' class=\"thumbnail\"><img class=\"img-fullwidth\" src='" + year + "/posters/images/" + fileName.substring(0, fileName.length - 3) + "jpg' alt='" + element.title_of_poster + "'></a></div>";
+                        htmlText += "<a rel=\"prettyPhoto[Posters]\" href='/" + year + "/posters/images/fullscreen/" + fileName.substring(0, fileName.length - 3) +
+                            "jpg' class=\"thumbnail\" title='" + element.title_of_poster + "'><img class=\"img-fullwidth\" src='/" + year + "/posters/images/" + fileName.substring(0, fileName.length - 3) +
+                            "jpg' alt='" + element.title_of_poster + "'></a></div>";
 
                         htmlText += "<div class=\"caption\">";
                         htmlText += "<p><b>#" + eval(index + 1) + "</b> " + element.title_of_poster + "</p>";
 
-                        htmlText += '<p><a href=\"#\" class=\"btn btn-default popuplink\" data-toggle=\"modal\" data-target=\"#myModal0\" data-title="' + element.title_of_poster + '" data-body= "' + element.project_abstract + '" role=\"button\">Abstract</a>&nbsp;<a href=\"' + year + '/posters/' + fileName + '\" target=\"_blank\" class=\"btn btn-primary\" role=\"button\">View PDF</a></p>';
+                        htmlText += '<p><a href=\"#\" class=\"btn btn-default popuplink\" data-toggle=\"modal\" data-target=\"#myModal0\" data-title="' + element.title_of_poster + '" data-body= "' + element.project_abstract + '" role=\"button\">Abstract</a>&nbsp;<a href="/' + year + '/posters/' + fileName + '" target=\"_blank\" class=\"btn btn-primary\" role=\"button\">View PDF</a></p>';
                         htmlText += "</div>";
                         htmlText += "</div>";
                         htmlText += "</div>";
@@ -155,12 +156,7 @@
                         //alert($(this).data("body"));
                         $("#modalTitle").html($(this).data("title"));
                         $("#modalBody").html($(this).data("body"));
-                    });
-
-                    $("a[rel^='prettyPhoto' ] ").prettyPhoto({
-                        show_title: false,
-                        social_tools: ''
-                    }); //, theme: 'facebook'
+                    });                    
 
                     initialize_owl($('#divPosters'));
 
@@ -280,7 +276,16 @@
     <script src="js/custom.js "></script>
     <!-- PAGE SCRIPT  -->
     <script type="text/javascript">
+
         $("ul.menuzord-menu li:nth-child(4)").addClass("active");
+
+        $(document).ready(function () {
+            $("a[rel^='prettyPhoto' ] ").prettyPhoto({
+                show_title: false,
+                social_tools: ''
+                //allow_resize: false
+            }); //, theme: 'facebook'
+        });
     </script>
 </body>
 

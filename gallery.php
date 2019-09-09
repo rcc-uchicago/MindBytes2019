@@ -10,7 +10,7 @@
     <meta name="keywords" content="mindbytes, mind bytes, research expo, rcc, uchi, uchicago, computation center, computation, hpc, hpcmatters, research, research computation center, research center, uchicago research, research uchicago" />
     <meta name="author" content="RCC" />
     <!-- Page Title -->
-    <title>Poster Gallery 2018 | Mind Bytes 2019 - Research Computing Expo and Symposium</title>
+    <title>Poster Gallery 2019 | Mind Bytes 2019 - Research Computing Expo and Symposium</title>
     <!-- Favicon and Touch Icons -->
     <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
 
@@ -107,10 +107,10 @@
         var bindPosters = function(sel) {
             $.ajax({
                 type: "POST",
-                url: "lib/getallposters.php",
+                url: "lib/getposters.php",
                 data: {
                     "awardCategory": sel,
-                    "year": "2018"
+                    "year": "2019"
                 },
                 dataType: "json",
                 async: false,
@@ -137,14 +137,13 @@
                         }
 
                         htmlText += "<div class=\"poster-thumb\">";
-                        htmlText += "<a rel=\"prettyPhoto[Posters]\" href='/" + year + "/posters/images/fullscreen/" + fileName.substring(0, fileName.length - 3) +
-                            "jpg' class=\"thumbnail\" title='" + element.title_of_poster + "'><img class=\"img-fullwidth\" src='/" + year + "/posters/images/" + fileName.substring(0, fileName.length - 3) +
-                            "jpg' alt='" + element.title_of_poster + "'></a></div>";
+                        htmlText += "<a rel=\"prettyPhoto[Posters]\" href='" + year + "/posters/images/fullscreen/" + fileName.substring(0, fileName.length - 3) +
+                            "jpg' class=\"thumbnail\" title='" + element.title_of_poster + "'><img class=\"img-fullwidth\" src='" + year + "/posters/images/" + fileName.substring(0, fileName.length - 3) + "jpg' alt='" + element.title_of_poster + "'></a></div>";
 
                         htmlText += "<div class=\"caption\">";
                         htmlText += "<p><b>#" + eval(index + 1) + "</b> " + element.title_of_poster + "</p>";
 
-                        htmlText += '<p><a href=\"#\" class=\"btn btn-default popuplink\" data-toggle=\"modal\" data-target=\"#myModal0\" data-title="' + element.title_of_poster + '" data-body= "' + element.project_abstract + '" role=\"button\">Abstract</a>&nbsp;<a href="/' + year + '/posters/' + fileName + '" target=\"_blank\" class=\"btn btn-primary\" role=\"button\">View PDF</a></p>';
+                        htmlText += '<p><a href=\"#\" class=\"btn btn-default popuplink\" data-toggle=\"modal\" data-target=\"#myModal0\" data-title="' + element.title_of_poster + '" data-body= "' + element.project_abstract + '" role=\"button\">Abstract</a>&nbsp;<a href=\"/posters/' + year + '/' + fileName + '\" target=\"_blank\" class=\"btn btn-primary\" role=\"button\">View PDF</a></p>';
                         htmlText += "</div>";
                         htmlText += "</div>";
                         htmlText += "</div>";
@@ -211,7 +210,7 @@
                             <div class="section-title">
                                 <div class="row">
                                     <div class="col-md-9 col-md-offset-1 text-center">
-                                        <h2 class="title text-white mb-0">MindBytes Poster Gallery 2018</h2>
+                                        <h2 class="title text-white mb-0">MindBytes Poster Gallery 2019</h2>
                                     </div>
                                 </div>
                             </div>

@@ -137,13 +137,14 @@
                         }
 
                         htmlText += "<div class=\"poster-thumb\">";
-                        htmlText += "<a rel=\"prettyPhoto[Posters]\" href='" + year + "/posters/images/fullscreen/" + fileName.substring(0, fileName.length - 3) +
-                            "jpg' class=\"thumbnail\" title='" + element.title_of_poster + "'><img class=\"img-fullwidth\" src='" + year + "/posters/images/" + fileName.substring(0, fileName.length - 3) + "jpg' alt='" + element.title_of_poster + "'></a></div>";
+                        htmlText += "<a rel=\"prettyPhoto[Posters]\" href='/" + year + "/posters/images/fullscreen/" + fileName.substring(0, fileName.length - 3) +
+                            "jpg' class=\"thumbnail\" title='" + element.title_of_poster + "'><img class=\"img-fullwidth\" src='/" + year + "/posters/images/" + fileName.substring(0, fileName.length - 3) +
+                            "jpg' alt='" + element.title_of_poster + "'></a></div>";
 
                         htmlText += "<div class=\"caption\">";
                         htmlText += "<p><b>#" + eval(index + 1) + "</b> " + element.title_of_poster + "</p>";
 
-                        htmlText += '<p><a href=\"#\" class=\"btn btn-default popuplink\" data-toggle=\"modal\" data-target=\"#myModal0\" data-title="' + element.title_of_poster + '" data-body= "' + element.project_abstract + '" role=\"button\">Abstract</a>&nbsp;<a href=\"/posters/' + year + '/' + fileName + '\" target=\"_blank\" class=\"btn btn-primary\" role=\"button\">View PDF</a></p>';
+                        htmlText += '<p><a href=\"#\" class=\"btn btn-default popuplink\" data-toggle=\"modal\" data-target=\"#myModal0\" data-title="' + element.title_of_poster + '" data-body= "' + element.project_abstract + '" role=\"button\">Abstract</a>&nbsp;<a href="/' + year + '/posters/' + fileName + '" target=\"_blank\" class=\"btn btn-primary\" role=\"button\">View PDF</a></p>';
                         htmlText += "</div>";
                         htmlText += "</div>";
                         htmlText += "</div>";

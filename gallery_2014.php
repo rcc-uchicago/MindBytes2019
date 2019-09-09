@@ -183,7 +183,7 @@
                                                             <p><b>#1 </b>Comparative Analysis of Capital Investments in the Electric Utility Industry</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal1" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/agrawal.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/agrawal.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -197,7 +197,7 @@
                                                             <p>
                                                                 <b>#2 </b>Type I Planet Migration in a Magnetized Protoplanetary Disk</p>
                                                             <p>
-                                                                <a href="2014/posters/bans.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/bans.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -211,7 +211,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal3" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/bhanpuri.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/bhanpuri.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -224,7 +224,7 @@
                                                             <p><b>#4 </b>Computational Efficient Electrode Model to Simulate the Electrochemical Cells</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal4" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/cao.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/cao.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -242,7 +242,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal5" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/cockrell.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/cockrell.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -255,7 +255,7 @@
                                                             <p><b>#6 </b>Metadynamics: Improved Methodology and a Proof of Convergence</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal6" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/dama.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/dama.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -268,7 +268,7 @@
                                                             <p><b>#7 </b>Simulating the Dark Side of the Universe</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal7" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/diemer.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/diemer.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -281,7 +281,7 @@
                                                             <p><b>#8 </b>Listening Closely for Black Hole Collisions</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal8" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/farr.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/farr.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -298,7 +298,7 @@
                                                             <p><b>#9 </b>Using Global View Resilience (GVR) to Add Resilience to Exascale Applications</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal9" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/fujita.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/fujita.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -311,7 +311,7 @@
                                                             <p><b>#10 </b>Coarse-Grained (CG) Computer Simulations of Biomolecular Phenomena</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal10" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/grime.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/grime.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -324,7 +324,7 @@
                                                             <p><b>#11 </b>Structures of Disordered Polypeptides</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal11" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/hoffmann.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/hoffmann.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -337,7 +337,7 @@
                                                             <p><b>#12 </b>A Robust Redesign of High School Match</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal12" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/hwang.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/hwang.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -354,7 +354,7 @@
                                                             <p><b>#13 </b>Multi-Layered, Iterative Protocols for Quantum Chemical Calculations</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal13" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/kale.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/kale.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -368,7 +368,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal14" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/kawaji.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/kawaji.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -382,7 +382,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal15" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/kawashima.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/kawashima.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -395,7 +395,7 @@
                                                             <p><b>#16 </b>Pattern Design for Self-Assembly of Block Copolymers by Computational Evolutionary Strategy</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal16" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/khaira.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/khaira.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -413,7 +413,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal17" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/lee.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/lee.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -426,7 +426,7 @@
                                                             <p><b>#18 </b>Coarse-Grained Molecular Modeling of DNA: From Nanotechnology to Chromatin</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal18" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/lequieu.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/lequieu.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -440,7 +440,7 @@
                                                             </p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal19" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/lyubimov.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/lyubimov.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -453,7 +453,7 @@
                                                             <p><b>#20 </b>CosmoSIS: Cosmological Survey Inference System</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal20" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/manzotti.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/manzotti.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -470,7 +470,7 @@
                                                             <p><b>#21 </b>Classification of Magnetized Star-Planet Interactions: Bow Shocks, Comet-Like Tails, and In-Spiraling Streams</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal21" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/matsakos.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/matsakos.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -484,7 +484,7 @@
 																	<h3>Product label</h3>
 																	<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor</p>
 																	<p><a href="#" class="btn btn-default" role="button">Abstract</a>&nbsp;
-																	   <a href="2014/posters/lequieu.pdf" class="btn btn-primary" role="button">View PDF</a></p>
+																	   <a href="/2014/posters/lequieu.pdf" class="btn btn-primary" role="button">View PDF</a></p>
 																  </div>
 																</div> 
 															</div>
@@ -496,7 +496,7 @@
                                                         <div class="caption">
                                                             <p><b>#22 </b>Atmospheric Outflows from Magnetized Hot Jupiters: 2D MHD Simulations</p>
                                                             <p>
-                                                                <a href="2014/posters/uribe.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/uribe.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -509,7 +509,7 @@
                                                             <p><b>#23 </b>Cosmic Walkers in Midway: Combined Probes Analysis with the Dark Energy Survey</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal23" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/park.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/park.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -522,7 +522,7 @@
                                                             <p><b>#24 </b>Geant4 Simulation of Neutrons and Other Backgrounds in Coherent Neutrino</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal24" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/perumpilly.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/perumpilly.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -539,7 +539,7 @@
                                                             <p><b>#25 </b>Simulations of Liquid Crystals</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal25" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/roberts.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/roberts.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -553,7 +553,7 @@
 																  <div class="caption">
 																	<p><b>#26 </b>Coarse-Graining of Electronic Structure and Multiscale Reactive Molecular Dynamics Simulations</p>
 																	<p><a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal26" role="button">Abstract</a>&nbsp;
-																	   <a href="2014/posters/savage.pdf" class="btn btn-primary" role="button">View PDF</a></p>
+																	   <a href="/2014/posters/savage.pdf" class="btn btn-primary" role="button">View PDF</a></p>
 																  </div>
 																</div> 
 															</div>
@@ -582,7 +582,7 @@
                                                             <p><b>#26 </b>Toward Turbulent Galaxy Formation Modeling</p>
                                                             <p>
                                                                 <a href="#" class="btn btn-default" data-toggle="modal" data-target="#myModal27" role="button">Abstract</a>&nbsp;
-                                                                <a href="2014/posters/semenov.pdf" class="btn btn-primary" role="button">View PDF</a>
+                                                                <a href="/2014/posters/semenov.pdf" class="btn btn-primary" role="button">View PDF</a>
                                                             </p>
                                                         </div>
                                                     </div>
