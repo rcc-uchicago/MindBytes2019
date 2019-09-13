@@ -137,8 +137,8 @@
                         }
 
                         htmlText += "<div class=\"poster-thumb\">";
-                        htmlText += "<a rel=\"prettyPhoto[Posters]\" href='" + year + "/posters/images/fullscreen/" + fileName.substring(0, fileName.length - 3) +
-                            "jpg' class=\"thumbnail\" title='" + element.title_of_poster + "'><img class=\"img-fullwidth\" src='" + year + "/posters/images/" + fileName.substring(0, fileName.length - 3) + "jpg' alt='" + element.title_of_poster + "'></a></div>";
+                        htmlText += "<a rel=\"prettyPhoto[Posters]\" href='/posters/" + year + "/images/fullscreen/" + fileName.substring(0, fileName.length - 3) +
+                            "jpg' class=\"thumbnail\" title='" + element.title_of_poster + "'><img class=\"img-fullwidth\" src='/posters/" + year + "/images/" + fileName.substring(0, fileName.length - 3) + "jpg' alt='" + element.title_of_poster + "'></a></div>";
 
                         htmlText += "<div class=\"caption\">";
                         htmlText += "<p><b>#" + eval(index + 1) + "</b> " + element.title_of_poster + "</p>";

@@ -48,11 +48,11 @@
     <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
     <!-- <link href="css/style.css" rel="stylesheet" type="text/css"> -->
     <!-- external javascripts -->
-    <script src="js/jquery-2.2.0.min.js"></script>
-    <script src="js/jquery-ui.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery-2.2.0.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <!-- JS | jquery plugin collection for this theme -->
-    <script src="js/jquery-plugin-collection.js"></script>
+    <script type="text/javascript" src="js/jquery-plugin-collection.js"></script>
 
     <!-- Social Sharing Plugin -->
     <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=58ee69fa62683e0012c461fe&product=inline-share-buttons"></script>
@@ -108,7 +108,8 @@
                 type: "POST",
                 url: "lib/getposters.php",
                 data: {
-                    "awardCategory": sel
+                    "awardCategory": sel,
+                    "year": "2017"
                 },
                 dataType: "json",
                 async: false,
@@ -125,6 +126,7 @@
                         var fileName = element.files_upload;
                         var isWinner = element.is_winner;
                         var award = element.award_winner_category;
+                        var year = element.year;
 
                         htmlText += "<div class=\"item col-xs-12 col-sm-12 col-md-14\">";
                         htmlText += "<div class=\"thumbnail\">";

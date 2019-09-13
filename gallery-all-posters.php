@@ -7,7 +7,8 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <meta name="description" content="Mind Bytes 2019 - Research Computing Expo and Symposium" />
-    <meta name="keywords" content="mindbytes, mind bytes, research expo, rcc, uchi, uchicago, computation center, computation, hpc, hpcmatters, research, research computation center, research center, uchicago research, research uchicago" />
+    <meta name="keywords"
+        content="mindbytes, mind bytes, research expo, rcc, uchi, uchicago, computation center, computation, hpc, hpcmatters, research, research computation center, research center, uchicago research, research uchicago" />
     <meta name="author" content="RCC" />
     <!-- Page Title -->
     <title>Poster Gallery 2018 | Mind Bytes 2019 - Research Computing Expo and Symposium</title>
@@ -56,7 +57,9 @@
     <script type="text/javascript" src="js/jquery-plugin-collection.js"></script>
 
     <!-- Social Sharing Plugin -->
-    <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=58ee69fa62683e0012c461fe&product=inline-share-buttons"></script>
+    <script type="text/javascript"
+        src="//platform-api.sharethis.com/js/sharethis.js#property=58ee69fa62683e0012c461fe&product=inline-share-buttons">
+    </script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -80,21 +83,21 @@
                 ],
                 responsive: {
                     0: {
-                        items: 1,
-                        center: false
-                    },
-                    600: {
                         items: 2,
                         center: false
                     },
+                    600: {
+                        items: 3,
+                        center: false
+                    },
                     960: {
-                        items: 2
+                        items: 3
                     },
                     1170: {
-                        items: 3
+                        items: 4
                     },
                     1300: {
-                        items: 3
+                        items: 4
                     }
                 }
             });
@@ -104,25 +107,26 @@
             el.data('owlCarousel').destroy();
         }
 
-        var bindPosters = function(sel) {
+        var bindPosters = function (selAwardCriteria, selYear) {
             $.ajax({
                 type: "POST",
                 url: "lib/getallposters.php",
                 data: {
-                    "awardCategory": sel,
-                    "year": "2018"
+                    "awardCategory": selAwardCriteria,
+                    "year": selYear
                 },
                 dataType: "json",
                 async: false,
                 cache: false
-            }).done(function(data) {
+            }).done(function (data) {
+                var currentYear = <?php echo date("Y"); ?>;
                 if ($('#divPosters').data('owlCarousel')) {
                     destroy_owl($('#divPosters'));
                 }
 
                 $("#divPosters").empty();
                 if (data.length > 0) {
-                    $.each(data, function(index, element) {
+                    $.each(data, function (index, element) {
                         var htmlText = "";
                         var fileName = element.files_upload;
                         var isWinner = element.is_winner;
@@ -133,18 +137,59 @@
                         htmlText += "<div class=\"thumbnail\">";
 
                         if (isWinner == "1") {
-                            htmlText += "<span class=\"winner\"><i class=\"fa fa-trophy\" aria-hidden=\"true\"></i> " + award + "</span>";
+                            htmlText +=
+                                "<span class=\"winner\"><i class=\"fa fa-trophy\" aria-hidden=\"true\"></i> " +
+                                award + "</span>";
                         }
 
                         htmlText += "<div class=\"poster-thumb\">";
-                        htmlText += "<a rel=\"prettyPhoto[Posters]\" href='/" + year + "/posters/images/fullscreen/" + fileName.substring(0, fileName.length - 3) +
-                            "jpg' class=\"thumbnail\" title='" + element.title_of_poster + "'><img class=\"img-fullwidth\" src='/" + year + "/posters/images/" + fileName.substring(0, fileName.length - 3) +
-                            "jpg' alt='" + element.title_of_poster + "'></a></div>";
+
+                        if (selYear == currentYear) {
+                            htmlText += "<a rel=\"prettyPhoto[Posters]\" href='/posters/" + year +
+                                "/images/fullscreen/" + fileName.substring(0, fileName.length - 3) +
+                                "jpg' class=\"thumbnail\" title='" + element.title_of_poster +
+                                "'><img class=\"img-fullwidth\" src='/posters/" + year +
+                                "/images/" + fileName.substring(0, fileName.length - 3) +
+                                "jpg' alt='" + element.title_of_poster + "'></a></div>";
+                        } else {
+                            if (selYear != 2014 && selYear != 2015) {
+                                htmlText += "<a rel=\"prettyPhoto[Posters]\" href='/" + year +
+                                    "/posters/images/fullscreen/" + fileName.substring(0, fileName
+                                        .length - 3) +
+                                    "jpg' class=\"thumbnail\" title='" + element.title_of_poster +
+                                    "'><img class=\"img-fullwidth\" src='/" + year +
+                                    "/posters/images/" + fileName.substring(0, fileName.length -
+                                    3) +
+                                    "jpg' alt='" + element.title_of_poster + "'></a></div>";
+                            } else {
+                                htmlText += "<img class=\"img-fullwidth\" src='/" + year +
+                                    "/posters/images/" + fileName.substring(0, fileName.length -
+                                    3) +
+                                    "jpg' alt='" + element.title_of_poster + "'></a></div>";
+                            }
+                        }
 
                         htmlText += "<div class=\"caption\">";
-                        htmlText += "<p><b>#" + eval(index + 1) + "</b> " + element.title_of_poster + "</p>";
+                        htmlText += "<p><b>#" + eval(index + 1) + "</b> " + element
+                            .title_of_poster + "</p>";
 
-                        htmlText += '<p><a href=\"#\" class=\"btn btn-default popuplink\" data-toggle=\"modal\" data-target=\"#myModal0\" data-title="' + element.title_of_poster + '" data-body= "' + element.project_abstract + '" role=\"button\">Abstract</a>&nbsp;<a href="/' + year + '/posters/' + fileName + '" target=\"_blank\" class=\"btn btn-primary\" role=\"button\">View PDF</a></p>';
+                        if (selYear == currentYear) {
+                            htmlText +=
+                                '<p><a href=\"#\" class=\"btn btn-default popuplink\" data-toggle=\"modal\" data-target=\"#myModal0\" data-title="' +
+                                element.title_of_poster + '" data-body= "' + element
+                                .project_abstract +
+                                '" role=\"button\">Abstract</a>&nbsp;<a href=\"/posters/' + year +
+                                '/' + fileName +
+                                '\" target=\"_blank\" class=\"btn btn-primary\" role=\"button\">View PDF</a></p>';
+                        } else {
+                            htmlText +=
+                                '<p><a href=\"#\" class=\"btn btn-default popuplink\" data-toggle=\"modal\" data-target=\"#myModal0\" data-title="' +
+                                element.title_of_poster + '" data-body= "' + element
+                                .project_abstract +
+                                '" role=\"button\">Abstract</a>&nbsp;<a href="/' + year +
+                                '/posters/' + fileName +
+                                '" target=\"_blank\" class=\"btn btn-primary\" role=\"button\">View PDF</a></p>';
+                        }
                         htmlText += "</div>";
                         htmlText += "</div>";
                         htmlText += "</div>";
@@ -152,34 +197,43 @@
                         $("#divPosters").append(htmlText);
                     });
 
-                    $(".popuplink").on("click", function() {
+                    $(".popuplink").on("click", function () {
                         //alert($(this).data("body"));
                         $("#modalTitle").html($(this).data("title"));
                         $("#modalBody").html($(this).data("body"));
-                    });                    
+                    });
 
-                    initialize_owl($('#divPosters'));
+                    initialize_owl($('#divPosters')); // 3 sliders items as pdf images are Big enough
 
                 } else {
                     //destroy_owl($('#divPosters'));
 
-                    $("#divPosters").append('<div class="row"><div class="col-sm-10 col-sm-offset-1 alert alert-warning"><strong>Info!</strong> There is no poster in this award category.</div></div>');
+                    $("#divPosters").append(
+                        '<div class="row"><div class="col-sm-10 col-sm-offset-1 alert alert-warning"><strong>Info!</strong> There is no poster in this award category and selected year.</div></div>'
+                    );
                 }
 
-            }).fail(function(jqXHR, textStatus, errorThrown) {
+            }).fail(function (jqXHR, textStatus, errorThrown) {
                 alert(jqXHR.responseText.message + ': ' + errorThrown);
-            }).always(function() {
+            }).always(function () {
                 //alert("Complete!");                
             });
         };
 
-        $(document).ready(function() {
+        $(document).ready(function () {
 
-            bindPosters("All");
+            bindPosters("All", "All");
 
-            $("#ddlAwardCriteria").on('change', function() {
-                var sel = this.value;
-                bindPosters(sel);
+            $("#ddlAwardCriteria").on('change', function () {
+                var selAwardCriteria = this.value;
+                var selYear = $("#ddlYear").val();
+                bindPosters(selAwardCriteria, selYear);
+            });
+
+            $("#ddlYear").on('change', function () {
+                var selAwardCriteria = $("#ddlAwardCriteria").val();
+                var selYear = this.value;
+                bindPosters(selAwardCriteria, selYear);
             });
 
         });
@@ -197,7 +251,9 @@
         <!-- Start main-content -->
         <div class="main-content">
             <!-- Section: inner-header -->
-            <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg11.jpg" style="background-image: url(" images/bg/bg11.jpg "); background-position: 50% 0px;">
+            <section class="inner-header divider parallax layer-overlay overlay-dark-5"
+                data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg11.jpg" style="background-image: url("
+                images/bg/bg11.jpg "); background-position: 50% 0px;">
                 <div class="container pt-90 pb-0">
                 </div>
             </section>
@@ -211,7 +267,7 @@
                             <div class="section-title">
                                 <div class="row">
                                     <div class="col-md-9 col-md-offset-1 text-center">
-                                        <h2 class="title text-white mb-0">MindBytes Poster Gallery 2018</h2>
+                                        <h2 class="title text-white mb-0">MindBytes Poster Gallery</h2>
                                     </div>
                                 </div>
                             </div>
@@ -221,18 +277,41 @@
                     <div class="bg-white-light">
                         <div class="container pt-30 pb-0">
                             <div class="section-content">
-                                <form id="gallery_form" class="gallery_form" name="gallery_form" novalidate="novalidate">
-                                    <div class="form-group">
-                                        <label for="form_award_criteria">Award Criteria</label>
-                                        <select id="ddlAwardCriteria" name="form_award_criteria" class="form_award_criteria">
-                                                <option value="All">--- ALL ---</option>
-                                                <option value="Data Science">Data Science</option>
-                                                <option value="Computing">Computing</option>
-                                                <option value="Visualization">Visualization</option>
-                                            </select>
-                                    </div>
+                                <form id="gallery_form" class="gallery_form" name="gallery_form"
+                                    novalidate="novalidate">
+                                    <div class="row">
+                                        <div class="col-sm-4 col-md-offset-1">
+                                            <div class="form-group">
+                                                <label for="form_award_criteria">Award Criteria</label>
+                                                <select id="ddlAwardCriteria" name="form_award_criteria"
+                                                    class="form_award_criteria">
+                                                    <option value="All">--- ALL ---</option>
+                                                    <option value="Data Science">Data Science</option>
+                                                    <option value="Computing">Computing</option>
+                                                    <option value="Visualization">Visualization</option>
+                                                    <option value="Scalability and Performance">Scalability and
+                                                        Performance</option>
+                                                    <option value="Big Data">Big Data</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-4 col-md-offset-1">
+                                            <div class="form-group">
+                                                <label for="form_year">Year</label>
+                                                <select id="ddlYear" name="form_year" class="form_year">
+                                                    <option value="All">--- ALL ---</option>
+                                                    <option value="2019">2019</option>
+                                                    <option value="2018">2018</option>
+                                                    <option value="2017">2017</option>
+                                                    <option value="2015">2015</option>
+                                                    <option value="2014">2014</option>
+                                                </select>
+                                            </div>
+                                        </div>
                                 </form>
-                                <div class="row" id="divPosters">
+                                <div class="row">
+                                    <div class="col-sm-12" id="divPosters">
+                                    </div>
 
                                 </div>
                             </div>
@@ -242,15 +321,16 @@
                                     <div class="modal-content">
                                         <div class="modal-header">
                                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
                                             <h4 class="modal-title" id="modalTitle"></h4>
                                         </div>
                                         <div class="modal-body">
                                             <p id="modalBody"></p>
                                         </div>
                                         <div class="modal-footer">
-                                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                            <button type="button" class="btn btn-default"
+                                                data-dismiss="modal">Close</button>
                                         </div>
                                     </div>
                                 </div>
@@ -275,7 +355,6 @@
     <script src="js/custom.js "></script>
     <!-- PAGE SCRIPT  -->
     <script type="text/javascript">
-
         $("ul.menuzord-menu li:nth-child(4)").addClass("active");
 
         $(document).ready(function () {

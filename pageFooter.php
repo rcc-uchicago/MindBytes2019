@@ -22,7 +22,7 @@
 <div class="container-fluid p-20" data-bg-color="#181818" style="background: rgb(24, 24, 24) none repeat scroll 0% 0% ! important;">
     <div class="row text-center">
         <div class="col-md-12 wow fadeInUp animation-delay4">
-            <p class="font-11 m-0 text-white">Copyright &copy;2019 <a class="font-11" href="https://rcc.uchicago.edu/" target="_blank">Research Computing Center, The University of Chicago</a>. All Rights Reserved</p>
+            <p class="font-11 m-0 text-white">Copyright &copy;<?php echo date("Y"); ?> <a class="font-11" href="https://rcc.uchicago.edu/" target="_blank">Research Computing Center, The University of Chicago</a>. All Rights Reserved</p>
         </div>
     </div>
 </div>

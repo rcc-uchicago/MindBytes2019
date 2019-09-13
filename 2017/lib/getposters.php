@@ -22,13 +22,15 @@ $result = array();
 if (is_ajax()) {    
     if (isset($_POST["awardCategory"]) && !empty($_POST["awardCategory"])) { //Checks if category value exists
         $cat = $_POST["awardCategory"];
+
+        $year = $_POST["year"];
         
         if ($cat == "All") {
-            $sql = "SELECT poster_id, files_upload, title_of_poster, project_abstract, is_winner, award_winner_category FROM tbl_poster WHERE is_public = 1";
-        } else if($cat == "None"){
-            $sql = "SELECT poster_id, files_upload, title_of_poster, project_abstract, is_winner, award_winner_category FROM tbl_poster WHERE is_public = 1 AND award_category=''";
+            $sql = "SELECT poster_id, files_upload, title_of_poster, project_abstract, is_winner, award_winner_category, year FROM tbl_poster WHERE is_public = 1 AND year = $year";
+        //} else if($cat == "None"){
+        //    $sql = "SELECT poster_id, files_upload, title_of_poster, project_abstract, is_winner, award_winner_category, year FROM tbl_poster WHERE is_public = 1 AND year = $year AND award_category=''";
         } else {
-            $sql = "SELECT poster_id, files_upload, title_of_poster, project_abstract, is_winner, award_winner_category FROM tbl_poster WHERE is_public = 1 AND award_category LIKE '%$cat%'";
+            $sql = "SELECT poster_id, files_upload, title_of_poster, project_abstract, is_winner, award_winner_category, year FROM tbl_poster WHERE is_public = 1 AND year = $year AND award_category LIKE '%$cat%'";
             
             /*$sql = sprintf("SELECT poster_id, files_upload, title_of_poster, project_abstract FROM tbl_poster WHERE award_category LIKE '%s%%'",
                mysqli_real_escape_string($conn, $cat));*/
