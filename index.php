@@ -1538,19 +1538,51 @@
                 <div class="container">
                     <div class="row wow bounceInUp center" data-wow-delay="0.5s">
                         <div class="col-md-12 text-center">
-                            <h2 class="text-white mt-0">Are you interested in sponsoring Mind Bytes?</h2>
+                            <h2 class="text-white mt-0">Our Sponsors</h2>
                         </div>
-
-                        <!--<div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
-                        <div class="container pt-50 pb-50">
-                            <div class="section-title">
-                                <div class="row">
-                                    <div class="col-md-6 col-md-offset-3 text-center">
-                                        <h2 class="title text-white mb-0">Sponsors</h2>
-                                        <h3 class="mt-0"></h3>
+                    </div>
+                </div>
+                <!-- class="parallax layer-overlay overlay-light bg-white-light" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg_sponsor.png" -->
+                <div class="layer-overlay overlay-light bg-white-light" data-stellar-background-ratio="0.5">
+                    <div class="container pb-80 pt-80">
+                        <div class="row section-content">
+                            <div class="col-md-12 col-md-offset-1 wow fadeIn" data-wow-duration="1.5s" data-wow-offset="20">
+                                <div class="multi-row-clearfix sponsors-style2 pt-30 pb-20">
+                                    <div class="col-xs-6 col-sm-4 col-md-2 text-center">
+                                        <a href="http://piergroup.com" target="_blank"><img src="images/sponsors/PIER_Group_logo.png" alt="PIER Group | Jasper | Partners In Education Research"></a>
                                     </div>
+                                    <div class="col-xs-6 col-sm-4 col-md-2 text-center">
+                                        <a href="http://www3.lenovo.com/us/en/" target="_blank"><img src="images/sponsors/intel_logo.png" alt="Intel | Data Center Solutions, IoT, and PC Innovation"></a>
+                                    </div>
+
+
+                                    <!-- <div class="col-xs-6 col-sm-4 col-md-2 text-center">
+                                        <a href="http://www3.lenovo.com/us/en/" target="_blank"><img src="images/sponsors/lenovo_logo.png" alt="LENOVO"></a>
+                                    </div>
+                                    <div class="col-xs-6 col-sm-4 col-md-2 text-center">
+                                        <a href="https://www.globus.org/" target="_blank"><img src="images/sponsors/Globus_logo.png" alt="Globus"></a>
+                                    </div>
+                                    <div class="col-xs-6 col-sm-4 col-md-2 text-center">
+                                        <a href="https://www.intel.com/content/www/us/en/homepage.html" target="_blank"><img
+                                                src="images/sponsors/intel-logo.png" alt="Intel"></a>
+                                    </div>
+                                    <div class="col-xs-6 col-sm-4 col-md-2 text-center">
+                                        <a href="https://hpe.com" target="_blank"><img src="images/sponsors/hpe.png" alt="Hewlett Packard Enterprise"></a>
+                                    </div>                                    
+
+                                    <div class="col-xs-6 col-sm-4 col-md-3 text-center">
+                                        <a href="http://www.nvidia.com/page/products.html" target="_blank"><img src="https://placehold.it/255x188"
+                                                                                                                alt="NVIDIA"></a>
+                                    </div>
+                                    <div class="col-xs-6 col-sm-4 col-md-3 text-center">
+                                        <a href="http://www.dellemcworld.com/index.htm" target="_blank"><img src="https://placehold.it/255x188" alt="DELL"></a>
+                                    </div>
+                                    <div class="col-xs-6 col-sm-4 col-md-3 text-center">
+                                        <a href="https://www.microsoft.com/en-us/" target="_blank"><img src="https://placehold.it/255x188" alt="MICROSOFT"></a>
+                                    </div> -->
                                 </div>
-                            </div>-->
+                            </div>
+                        </div>
                     </div>
                 </div>
 
@@ -1572,43 +1604,7 @@
                     </div>
                 </section>
 
-                <!--<div class="parallax layer-overlay overlay-light bg-white-light" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg_sponsor.png">
-                <div class="container pb-80 pt-80">
-                    <div class="row section-content">
-                        <div class="col-md-12 col-md-offset-1 wow fadeIn" data-wow-duration="1.5s" data-wow-offset="20">
-                            <div class="multi-row-clearfix sponsors-style2 pt-30 pb-20">
-                                <div class="col-xs-6 col-sm-4 col-md-2 text-center">
-                                    <a href="http://www3.lenovo.com/us/en/" target="_blank"><img src="images/sponsors/lenovo_logo.png" alt="LENOVO"></a>
-                                </div>
-                                <div class="col-xs-6 col-sm-4 col-md-2 text-center">
-                                    <a href="https://www.globus.org/" target="_blank"><img src="images/sponsors/Globus_logo.png" alt="Globus"></a>
-                                </div>
-                                <div class="col-xs-6 col-sm-4 col-md-2 text-center">
-                                    <a href="https://www.intel.com/content/www/us/en/homepage.html" target="_blank"><img
-                                            src="images/sponsors/intel-logo.png" alt="Intel"></a>
-                                </div>
-                                <div class="col-xs-6 col-sm-4 col-md-2 text-center">
-                                    <a href="https://hpe.com" target="_blank"><img src="images/sponsors/hpe.png" alt="Hewlett Packard Enterprise"></a>
-                                </div>
-                                <div class="col-xs-6 col-sm-4 col-md-2 text-center">
-                                    <a href="http://piergroup.com" target="_blank"><img src="images/sponsors/pier_group.jpg" alt="PIER Group"></a>
-                                </div>
-
-                                <div class="col-xs-6 col-sm-4 col-md-3 text-center">
-                                    <a href="http://www.nvidia.com/page/products.html" target="_blank"><img src="https://placehold.it/255x188"
-                                                                                                            alt="NVIDIA"></a>
-                                </div>
-                                <div class="col-xs-6 col-sm-4 col-md-3 text-center">
-                                    <a href="http://www.dellemcworld.com/index.htm" target="_blank"><img src="https://placehold.it/255x188" alt="DELL"></a>
-                                </div>
-                                <div class="col-xs-6 col-sm-4 col-md-3 text-center">
-                                    <a href="https://www.microsoft.com/en-us/" target="_blank"><img src="https://placehold.it/255x188" alt="MICROSOFT"></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>-->
+                
             </section>
 
         </div>
