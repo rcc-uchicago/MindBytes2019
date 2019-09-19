@@ -1542,8 +1542,8 @@
                         </div>
                     </div>
                 </div>
-                <!-- class="parallax layer-overlay overlay-light bg-white-light" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg_sponsor.png" -->
-                <div class="layer-overlay overlay-light bg-white-light" data-stellar-background-ratio="0.5">
+                
+                <div class="parallax layer-overlay overlay-light bg-white-light" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg_sponsor.png">
                     <div class="container pb-80 pt-80">
                         <div class="row section-content">
                             <div class="col-md-12 col-md-offset-1 wow fadeIn" data-wow-duration="1.5s" data-wow-offset="20">
