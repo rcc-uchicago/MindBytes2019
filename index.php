@@ -1552,7 +1552,7 @@
                                         <a href="http://piergroup.com" target="_blank"><img src="images/sponsors/PIER_Group_logo.png" alt="PIER Group | Jasper | Partners In Education Research"></a>
                                     </div>
                                     <div class="col-xs-6 col-sm-4 col-md-2 text-center">
-                                        <a href="http://www3.lenovo.com/us/en/" target="_blank"><img src="images/sponsors/intel_logo.png" alt="Intel | Data Center Solutions, IoT, and PC Innovation"></a>
+                                        <a href="https://www.intel.com/content/www/us/en/homepage.html" target="_blank"><img src="images/sponsors/intel_logo.png" alt="Intel | Data Center Solutions, IoT, and PC Innovation"></a>
                                     </div>
 
 
