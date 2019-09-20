@@ -1548,11 +1548,14 @@
                         <div class="row section-content">
                             <div class="col-md-12 col-md-offset-1 wow fadeIn" data-wow-duration="1.5s" data-wow-offset="20">
                                 <div class="multi-row-clearfix sponsors-style2 pt-30 pb-20">
-                                    <div class="col-xs-6 col-sm-4 col-md-2 text-center">
+                                    <div class="col-xs-6 col-sm-4 col-md-4 text-center">
                                         <a href="http://piergroup.com" target="_blank"><img src="images/sponsors/PIER_Group_logo.png" alt="PIER Group | Jasper | Partners In Education Research"></a>
                                     </div>
-                                    <div class="col-xs-6 col-sm-4 col-md-2 text-center">
+                                    <div class="col-xs-6 col-sm-4 col-md-4 text-center">
                                         <a href="https://www.intel.com/content/www/us/en/homepage.html" target="_blank"><img src="images/sponsors/intel_logo.png" alt="Intel | Data Center Solutions, IoT, and PC Innovation"></a>
+                                    </div>
+                                    <div class="col-xs-6 col-sm-4 col-md-6 text-center">
+                                        <a href="https://www.delltechnologies.com/en-us/index.htm" target="_blank"><img src="images/sponsors/Dell_Tech_logo.png" alt="Digital Transformation | Dell Technologies | Dell Technologies United States"></a>
                                     </div>
 
 
@@ -1573,10 +1576,7 @@
                                     <div class="col-xs-6 col-sm-4 col-md-3 text-center">
                                         <a href="http://www.nvidia.com/page/products.html" target="_blank"><img src="https://placehold.it/255x188"
                                                                                                                 alt="NVIDIA"></a>
-                                    </div>
-                                    <div class="col-xs-6 col-sm-4 col-md-3 text-center">
-                                        <a href="http://www.dellemcworld.com/index.htm" target="_blank"><img src="https://placehold.it/255x188" alt="DELL"></a>
-                                    </div>
+                                    </div>                                    
                                     <div class="col-xs-6 col-sm-4 col-md-3 text-center">
                                         <a href="https://www.microsoft.com/en-us/" target="_blank"><img src="https://placehold.it/255x188" alt="MICROSOFT"></a>
                                     </div> -->
