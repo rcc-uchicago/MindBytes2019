@@ -108,11 +108,11 @@
                                 <div class="row equal-height pt-20 pb-0" id="Venkatram">
                                     <div class="col-md-4">
                                         <div class="thumbnail">
-                                            <img src="images/speakers/Venkatram_Vishwanath.jpg" alt="Venkatram Vishwanath">
+                                            <img src="images/speakers/Venkatram_Vishwanath.jpg" alt="John Pletz">
                                         </div>
                                     </div>
                                     <div class="col-md-8">
-                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Venkatram Vishwanath <span class="label label-primary">Moderator</span></h3>
+                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">John Pletz <span class="label label-primary">Moderator</span></h3>
                                         <h6 class="text-gray mt-0">Computer Scientist, Data Science Group Lead, Argonne National Laboratory</h6>
                                         <p class="text-justify">Venkatram Vishwanath is a computer scientist at Argonne National Laboratory. He is the Data Science group lead at the Argonne leadership computing facility (ALCF). His current focus is on algorithms, system software, and workflows to facilitate data-centric applications on supercomputing systems. His interests include scientific applications, supercomputing architectures, parallel algorithms and runtimes, scalable analytics and collaborative workspaces. He has received best papers awards at venues including HPDC and LDAV, and a Gordon Bell finalist. Vishwanath received his Ph.D. in computer science from the University of Illinois at Chicago in 2009.</p>
                                     </div>                                    

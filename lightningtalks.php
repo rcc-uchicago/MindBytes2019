@@ -168,7 +168,7 @@
                                     </div>
                                 </div>
 
-                                <div class="separator separator-rouned">
+                                <!-- <div class="separator separator-rouned">
                                     <i class="fa fa-cog fa-spin"></i>
                                 </div>
 
@@ -184,24 +184,24 @@
                                         <img src="images/speakers/diane_brentari.jpg" alt="Diane Brentari">
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
 
                                 <div class="separator separator-rouned">
                                     <i class="fa fa-cog fa-spin"></i>
                                 </div>
 
                                 <div class="row equal-height pt-20 pb-0" id="Tobin">
-                                    <div class="col-md-4">
-                                        <div class="thumbnail">
-                                            <img src="images/speakers/Tobin_Sosnick.png" alt="Tobin Sosnick">
-                                        </div>
-                                    </div>
                                     <div class="col-md-8">
                                         <h3 class="title"></h3>
                                         <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Tobin Sosnick</h3>
                                         <h6 class="text-gray mt-0">Department Chair and Professor</h6>
                                         <p class="text-justify">Prof. Sosnick received his Ph.D. in low-temperature physics from Harvard University in 1989. He transitioned to biophysics during his post-doctoral training with SW Englander (UPENN) and J Trewhella (Los Alamos National Lab) where he applied hydrogen exchange, NMR and small-angle X-ray scattering methods to study protein folding. During his 23 years at the University of Chicago, his lab has conducted experimental and computational studies of protein and RNA folding, as well as protein design using light-sensitive proteins (optogenetics). He is a strong believer in collaboration, having co-mentored over 25 trainees. Recent collaborations have focused on the folding of membrane proteins, protein phase separation under cellular stress, properties of denatured states, simulations of force-induced unfolding, the design of light-controlled motor proteins, and mechanisms underlying phosphorylation-based signaling. For the past 8 years, Prof. Sosnick has been chair of the Department of Biochemistry and Molecular Biology. In addition, he is the co-founder and co-director of the Graduate Program in Biophysical Sciences, a unique dual-mentored graduate training program involving faculty from both the Biological and Physical Science Divisions.</p>
-                                    </div>                                    
+                                    </div>  
+                                    <div class="col-md-4">
+                                        <div class="thumbnail">
+                                            <img src="images/speakers/Tobin_Sosnick.png" alt="Tobin Sosnick">
+                                        </div>
+                                    </div>                                                                      
                                 </div>                                
 
                             </div>

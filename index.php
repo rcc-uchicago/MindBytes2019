@@ -274,12 +274,12 @@
                                                     </div>
                                                 </div>
 
-                                                <a href="program.php" target="_self"
+                                                <!-- <a href="program.php" target="_self"
                                                     class="tp-caption rev-btn tp-resizeme" id="slide-1-layer-4"
                                                     data-x="['center','center','center','center']"
                                                     data-hoffset="['0','0','0','0']"
                                                     data-y="['middle','middle','middle','middle']"
-                                                    data-voffset="['280','240','100','83']" data-width="none"
+                                                    data-voffset="['320','240','100','83']" data-width="none"
                                                     data-height="none" data-whitespace="nowrap" data-type="button"
                                                     data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]'
                                                     data-responsive_offset="on" data-responsive="on"
@@ -288,19 +288,55 @@
                                                     data-paddingtop="[0,0,0,0]" data-paddingright="[50,50,50,50]"
                                                     data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
                                                     style="z-index: 9; white-space: nowrap; font-size: 15px; font-weight: 700; color: rgba(255,255,255,1);font-family:Arial, Helvetica, sans-serif;border-color:rgba(255,255,255,0.25);border-style:solid;border-width:2px;border-radius:4px 4px 4px 4px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:5px;cursor:pointer;">VIEW
-                                                    PROGRAM AGENDA</a>
+                                                    PROGRAM AGENDA</a> -->
 
-                                                <!--<a href="program.php" target="_self" class="tp-caption rev-btn tp-resizeme" id="slide-1-layer-4" data-x="['right','right','center','center']" data-hoffset="['660','550','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['240','240','100','83']"
-                                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]' data-responsive_offset="on" data-frames='[{"from":"x:-50px;opacity:0;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"150","ease":"Power2.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:transparent;bw:2px 2px 2px 2px;"}]'
-                                    data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[50,50,50,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]" style="z-index: 9; white-space: nowrap; font-size: 15px; line-height: 46px; font-weight: 700; color: rgba(255,255,255,1);font-family:Arial, Helvetica, sans-serif;border-color:rgba(255,255,255,0.25);border-style:solid;border-width:2px;border-radius:4px 4px 4px 4px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:5px;cursor:pointer;">VIEW PROGRAM AGENDA</a>-->
+                                                <a href="registration.php" target="_self"
+                                                    class="tp-caption rev-btn tp-resizeme" id="slide-1-layer-5"
+                                                    data-x="['right','right','center','center']"
+                                                    data-hoffset="['660','550','0','0']"
+                                                    data-y="['middle','middle','middle','middle']"
+                                                    data-voffset="['320','240','100','83']" data-width="none"
+                                                    data-height="none" data-whitespace="nowrap" data-type="button"
+                                                    data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]'
+                                                    data-responsive_offset="on"
+                                                    data-frames='[{"from":"x:-50px;opacity:0;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"150","ease":"Power2.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:transparent;bw:2px 2px 2px 2px;"}]'
+                                                    data-textAlign="['left','left','left','left']"
+                                                    data-paddingtop="[0,0,0,0]" data-paddingright="[50,50,50,50]"
+                                                    data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
+                                                    style="z-index: 9; white-space: nowrap; font-size: 15px; line-height: 46px; font-weight: 700; color: rgba(255,255,255,1);font-family:Arial, Helvetica, sans-serif;border-color:rgba(255,255,255,0.25);border-style:solid;border-width:2px;border-radius:4px 4px 4px 4px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:5px;cursor:pointer;">REGISTER
+                                                    NOW</a>
 
-                                                <!-- <div class="tp-caption tp-resizeme" id="slide-1-layer-6" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['237','237','158','141']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:50px;opacity:0;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 10; white-space: nowrap; font-size: 25px; line-height: 25px; font-weight: 400; color: rgba(255,255,255,1);font-family:Georgia, serif;font-style:italic;">or </div> -->
+                                                <div class="tp-caption tp-resizeme" id="slide-1-layer-6"
+                                                    data-x="['center','center','center','center']"
+                                                    data-hoffset="['0','0','0','0']"
+                                                    data-y="['middle','middle','middle','middle']"
+                                                    data-voffset="['320','237','158','141']" data-width="none"
+                                                    data-height="none" data-whitespace="nowrap" data-type="text"
+                                                    data-responsive_offset="on"
+                                                    data-frames='[{"from":"y:50px;opacity:0;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                                                    data-textAlign="['left','left','left','left']"
+                                                    data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
+                                                    data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                                                    style="z-index: 10; white-space: nowrap; font-size: 25px; line-height: 25px; font-weight: 400; color: rgba(255,255,255,1);font-family:Georgia, serif;font-style:italic;">
+                                                    or </div>
 
-                                                <!--<a href="submission.php" target="_self" class="tp-caption rev-btn tp-resizeme" id="slide-1-layer-5" data-x="['left','left','center','center']" data-hoffset="['660','550','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['240','240','224','207']"
-                                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]' data-responsive_offset="on" data-frames='[{"from":"x:50px;opacity:0;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"150","ease":"Power2.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:transparent;bw:2px 2px 2px 2px;"}]'
-                                    data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[50,50,50,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]" style="z-index: 11; white-space: nowrap; font-size: 15px; line-height: 46px; font-weight: 700; color: rgba(255,255,255,1);font-family:Arial, Helvetica, sans-serif;border-color:rgba(255,255,255,0.25);border-style:solid;border-width:2px;border-radius:4px 4px 4px 4px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:5px;cursor:pointer;">SUBMIT YOUR POSTER</a>-->
+                                                <a href="submission.php" target="_self"
+                                                    class="tp-caption rev-btn tp-resizeme" id="slide-1-layer-7"
+                                                    data-x="['left','left','center','center']"
+                                                    data-hoffset="['660','550','0','0']"
+                                                    data-y="['middle','middle','middle','middle']"
+                                                    data-voffset="['320','240','224','207']" data-width="none"
+                                                    data-height="none" data-whitespace="nowrap" data-type="button"
+                                                    data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]'
+                                                    data-responsive_offset="on"
+                                                    data-frames='[{"from":"x:50px;opacity:0;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"150","ease":"Power2.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:transparent;bw:2px 2px 2px 2px;"}]'
+                                                    data-textAlign="['left','left','left','left']"
+                                                    data-paddingtop="[0,0,0,0]" data-paddingright="[50,50,50,50]"
+                                                    data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
+                                                    style="z-index: 11; white-space: nowrap; font-size: 15px; line-height: 46px; font-weight: 700; color: rgba(255,255,255,1);font-family:Arial, Helvetica, sans-serif;border-color:rgba(255,255,255,0.25);border-style:solid;border-width:2px;border-radius:4px 4px 4px 4px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:5px;cursor:pointer;">SUBMIT
+                                                    YOUR POSTER</a>
 
-                                                <!--<a href="registration.php" target="_self" class="tp-caption rev-btn tp-resizeme" id="slide-1-layer-5" data-x="['left','left','center','center']" data-hoffset="['660','550','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['240','240','224','207']"
+                                                <!--<a href="registration.php" target="_self" class="tp-caption rev-btn tp-resizeme" id="slide-1-layer-5" data-x="['left','left','center','center']" data-hoffset="['660','550','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['320','240','224','207']"
                                     data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]' data-responsive_offset="on" data-frames='[{"from":"x:50px;opacity:0;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"150","ease":"Power2.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:transparent;bw:2px 2px 2px 2px;"}]'
                                     data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[50,50,50,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]" style="z-index: 11; white-space: nowrap; font-size: 15px; line-height: 46px; font-weight: 700; color: rgba(255,255,255,1);font-family:Arial, Helvetica, sans-serif;border-color:rgba(255,255,255,0.25);border-style:solid;border-width:2px;border-radius:4px 4px 4px 4px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:5px;cursor:pointer;">REGISTER NOW</a>-->
 
@@ -492,26 +528,39 @@
                                                     </div>
                                                 </div>
 
-                                                <a href="#" target="_self" class="tp-caption Newspaper-Button rev-btn"
-                                                    id="slide-2-layer-16" data-x="['center','center','center','center']"
-                                                    data-hoffset="['0','0','0','0']"
-                                                    data-y="['bottom','bottom','bottom','bottom']"
-                                                    data-voffset="['50','50','50','50']" data-width="none"
+                                                <a href="callforposters.php" target="_self"
+                                                    class="tp-caption Newspaper-Button tp-resizeme"
+                                                    id="slide-2-layer-16" data-x="['right','right','center','center']"
+                                                    data-hoffset="['660','550','0','0']"
+                                                    data-y="['middle','middle','middle','middle']"
+                                                    data-voffset="['350','240','100','83']" data-width="none"
                                                     data-height="none" data-whitespace="nowrap" data-type="button"
                                                     data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]'
                                                     data-responsive_offset="on" data-responsive="on"
                                                     data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:50px;opacity:0;","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:rgba(255,255,255,1);bw:1px 1px 1px 1px;"}]'
                                                     data-textAlign="['left','left','left','left']"
-                                                    data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]"
+                                                    data-paddingtop="[10,10,10,10]" data-paddingright="[35,35,35,35]"
                                                     data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]"
                                                     style="z-index: 11; white-space: nowrap;text-transform:left;border-color:rgba(255,255,255,0.75);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">CALL
                                                     FOR POSTERS</a>
 
-                                                <!--<a href="https://universityevents.wufoo.com/forms/p1crrdnc1e7usus/" target="_blank" class="tp-caption Newspaper-Button rev-btn" id="slide-2-layer-16" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']" data-voffset="['50','50','50','50']"
-                                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]' data-responsive_offset="on" data-responsive="on" data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:50px;opacity:0;","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:rgba(255,255,255,1);bw:1px 1px 1px 1px;"}]'
-                                    data-textAlign="['left','left','left','left']" data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" style="z-index: 11; white-space: nowrap;text-transform:left;border-color:rgba(255,255,255,0.75);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">REGISTER NOW</a>-->
+                                                <a href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/"
+                                                    target="_blank" class="tp-caption Newspaper-Button tp-resizeme"
+                                                    id="slide-2-layer-17" data-x="['left','left','center','center']"
+                                                    data-hoffset="['660','550','0','0']"
+                                                    data-y="['middle','middle','middle','middle']"
+                                                    data-voffset="['350','240','224','207']" data-width="none"
+                                                    data-height="none" data-whitespace="nowrap" data-type="button"
+                                                    data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]'
+                                                    data-responsive_offset="on" data-responsive="on"
+                                                    data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:50px;opacity:0;","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:rgba(255,255,255,1);bw:1px 1px 1px 1px;"}]'
+                                                    data-textAlign="['left','left','left','left']"
+                                                    data-paddingtop="[10,10,10,10]" data-paddingright="[35,35,35,35]"
+                                                    data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]"
+                                                    style="z-index: 11; white-space: nowrap;text-transform:left;border-color:rgba(255,255,255,0.75);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">REGISTER
+                                                    NOW</a>
 
-                                                <div class="tp-caption tp-shape tp-shapewrapper" id="slide-2-layer-17"
+                                                <div class="tp-caption tp-shape tp-shapewrapper" id="slide-2-layer-18"
                                                     data-x="['center','center','center','center']"
                                                     data-hoffset="['0','0','0','0']"
                                                     data-y="['middle','middle','middle','middle']"
@@ -691,7 +740,7 @@
                                                                 data-x="['left','left','center','center']"
                                                                 data-hoffset="['0','50','0','0']"
                                                                 data-y="['top','top','top','top']"
-                                                                data-voffset="['0','430','460','290']"
+                                                                data-voffset="['100','430','460','290']"
                                                                 data-fontsize="['50','50','60','40']"
                                                                 data-lineheight="['60','60','70','45']"
                                                                 data-width="['none','100%','100%','100%']"
@@ -724,13 +773,38 @@
                                                     </div>
                                                 </div>
 
-                                                <!--<a href="submission.php" target="_self" class="tp-caption rev-btn tp-resizeme" id="slide-3-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['277','237','158','141']"
-                                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]' data-responsive_offset="on" data-frames='[{"from":"y:50px;opacity:0;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"150","ease":"Power2.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:transparent;bw:2px 2px 2px 2px;"}]'
-                                    data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[50,50,50,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]" style="z-index: 10; white-space: nowrap; font-size: 15px; line-height: 46px; font-weight: 700; color: rgba(255,255,255,1);font-family:Arial, Helvetica, sans-serif;border-color:rgba(255,255,255,0.25);border-style:solid;border-width:2px;border-radius:4px 4px 4px 4px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:5px;cursor:pointer;">SUBMIT YOUR POSTER</a>-->
+                                                <a href="program.php" target="_self"
+                                                    class="tp-caption rev-btn tp-resizeme" id="slide-3-layer-5"
+                                                    data-x="['right','right','center','center']"
+                                                    data-hoffset="['660','550','0','0']"
+                                                    data-y="['middle','middle','middle','middle']"
+                                                    data-voffset="['350','240','100','83']" data-width="none"
+                                                    data-height="none" data-whitespace="nowrap" data-type="button"
+                                                    data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]'
+                                                    data-responsive_offset="on"
+                                                    data-frames='[{"from":"x:-50px;opacity:0;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"150","ease":"Power2.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:transparent;bw:2px 2px 2px 2px;"}]'
+                                                    data-textAlign="['left','left','left','left']"
+                                                    data-paddingtop="[0,0,0,0]" data-paddingright="[50,50,50,50]"
+                                                    data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
+                                                    style="z-index: 9; white-space: nowrap; font-size: 15px; line-height: 46px; font-weight: 700; color: rgba(255,255,255,1);font-family:Arial, Helvetica, sans-serif;border-color:rgba(255,255,255,0.25);border-style:solid;border-width:2px;border-radius:4px 4px 4px 4px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:5px;cursor:pointer;">See
+                                                    Event
+                                                    Schedule</a>
 
-                                                <!--<a href="registration.php" target="_self" class="tp-caption rev-btn tp-resizeme" id="slide-3-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['310','237','158','141']"
-                                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]' data-responsive_offset="on" data-frames='[{"from":"y:50px;opacity:0;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"150","ease":"Power2.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:transparent;bw:2px 2px 2px 2px;"}]'
-                                    data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[50,50,50,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]" style="z-index: 10; white-space: nowrap; font-size: 15px; line-height: 46px; font-weight: 700; color: rgba(255,255,255,1);font-family:Arial, Helvetica, sans-serif;border-color:rgba(255,255,255,0.25);border-style:solid;border-width:2px;border-radius:4px 4px 4px 4px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:5px;cursor:pointer;">REGISTER NOW</a>-->
+                                                <a href="registration.php" target="_self"
+                                                    class="tp-caption rev-btn tp-resizeme" id="slide-3-layer-6"
+                                                    data-x="['left','left','center','center']"
+                                                    data-hoffset="['660','550','0','0']"
+                                                    data-y="['middle','middle','middle','middle']"
+                                                    data-voffset="['350','240','224','207']" data-width="none"
+                                                    data-height="none" data-whitespace="nowrap" data-type="button"
+                                                    data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]'
+                                                    data-responsive_offset="on"
+                                                    data-frames='[{"from":"x:50px;opacity:0;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"150","ease":"Power2.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:transparent;bw:2px 2px 2px 2px;"}]'
+                                                    data-textAlign="['left','left','left','left']"
+                                                    data-paddingtop="[0,0,0,0]" data-paddingright="[50,50,50,50]"
+                                                    data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
+                                                    style="z-index: 11; white-space: nowrap; font-size: 15px; line-height: 46px; font-weight: 700; color: rgba(255,255,255,1);font-family:Arial, Helvetica, sans-serif;border-color:rgba(255,255,255,0.25);border-style:solid;border-width:2px;border-radius:4px 4px 4px 4px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:5px;cursor:pointer;">REGISTER
+                                                    NOW</a>
 
                                                 <div class="tp-caption tp-shape tp-shapewrapper" id="slide-3-layer-17"
                                                     data-x="['center','center','center','center']"
@@ -947,14 +1021,21 @@
                                     considered state of the art in their fields. The theme for discussion for this
                                     year's
                                     event is
-                                    <b>Data Science: The Complexity of Connections</b></p>
-                                <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase smooth-scroll font-13 mt-10"
-                                    href="program.php"><i class="fa fa-eye" aria-hidden="true"></i> See Event
+                                    <b>Data Science: The Complexity of Connections</b>.</p>
+
+                                <div class="hero-buttonwrapper">
+                                    <a class="hero-btn" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/" target="_blank"><span>Register Now <i class="fa fa-arrow-circle-o-right"></i></span></a>
+                                    <a class="hero-btn" href="submission.php"><span>Submit your Poster <i class="fa fa-file-pdf-o"></i></span></a>                                   
+                                    <a class="btn btn-colored btn-gray btn-xl text-uppercase mt-30" href="program.php" target="_blank"><i class="fa fa-eye" aria-hidden="true"></i> See Event
                                     Schedule</a>
-                                <!--<a class="btn btn-dark-light btn-lg text-uppercase smooth-scroll font-13 mt-10" href="registration.php" target="_self">Register Now <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a>-->
+                                </div>
+                                <!-- <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase smooth-scroll font-13 mt-10"
+                                    href="program.php"><i class="fa fa-eye" aria-hidden="true"></i> Event
+                                    Schedule</a>
+                                <a class="btn btn-dark-light btn-lg text-uppercase smooth-scroll font-13 mt-10" href="registration.php" target="_self">Register Now <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a>
                                 <a href="submission.php"
-                                    class="btn btn-dark-light btn-lg text-uppercase smooth-scroll font-13 mt-10">Submit
-                                    your Poster <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+                                    class="btn btn-colored btn-theme-colored btn-lg text-uppercase smooth-scroll font-13 mt-10">Submit
+                                    your Poster <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> -->
                             </div>
                         </div>
 
@@ -1194,7 +1275,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
+                                <!-- <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
                                         <div class="team-thumb"><img alt="Diane Brentari"
                                                 src="images/speakers/slider/diane_brentari.jpg" class="img-fullwidth">
@@ -1214,7 +1295,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
                                         <div class="team-thumb"><img alt="Tobin Sosnick"
@@ -1339,9 +1420,11 @@
                             <!--<h3 class="text-gray-darkgray mt-0">Registration opens on Feb 19, 2018.</h3>-->
                         </div>
                         <div class="hero-buttonwrapper">
-                            <!--<a class="hero-btn" href="submission.php"><span>Submit your Poster <i class="fa fa-file-pdf-o"></i></span></a>-->
-                            <!--<a class="hero-btn" href="https://universityevents.wufoo.com/forms/p1crrdnc1e7usus/" target="_blank"><span>Register Now <i class="fa fa-arrow-circle-o-right"></i></span></a>-->
-                            <!--<a class="btn btn-colored btn-gray btn-xl text-uppercase mt-30" href="https://universityevents.wufoo.com/forms/p1crrdnc1e7usus/" target="_blank">Register Now</a>-->
+                            <a class="hero-btn" href="submission.php"><span>Submit your Poster <i
+                                        class="fa fa-file-pdf-o"></i></span></a>
+                            <a class="hero-btn" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/"
+                                target="_blank"><span>Register Now <i class="fa fa-arrow-circle-o-right"></i></span></a>
+                            <!--<a class="btn btn-colored btn-gray btn-xl text-uppercase mt-30" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/" target="_blank">Register Now</a>-->
                         </div>
                         <!--<div class="col-md-4">
                         <a class="btn btn-colored btn-theme-colored btn-md text-uppercase letter-space-0.5 mt-30 mr-5" href="https://universityevents.wufoo.com/forms/wyppvmp1d4j82n/">Register Now</a>
@@ -1542,20 +1625,28 @@
                         </div>
                     </div>
                 </div>
-                
-                <div class="parallax layer-overlay overlay-light bg-white-light" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg_sponsor.png">
+
+                <div class="parallax layer-overlay overlay-light bg-white-light" data-stellar-background-ratio="0.5"
+                    data-bg-img="images/bg/bg_sponsor.png">
                     <div class="container pb-80 pt-80">
                         <div class="row section-content">
-                            <div class="col-md-12 col-md-offset-1 wow fadeIn" data-wow-duration="1.5s" data-wow-offset="20">
+                            <div class="col-md-12 col-md-offset-1 wow fadeIn" data-wow-duration="1.5s"
+                                data-wow-offset="20">
                                 <div class="multi-row-clearfix sponsors-style2 pt-30 pb-20">
-                                    <div class="col-xs-6 col-sm-4 col-md-4 text-center">
-                                        <a href="http://piergroup.com" target="_blank"><img src="images/sponsors/PIER_Group_logo.png" alt="PIER Group | Jasper | Partners In Education Research"></a>
+                                    <div class="col-xs-6 col-sm-4 col-md-3 text-center">
+                                        <a href="http://piergroup.com" target="_blank"><img
+                                                src="images/sponsors/PIER_Group_logo.png"
+                                                alt="PIER Group | Jasper | Partners In Education Research"></a>
                                     </div>
-                                    <div class="col-xs-6 col-sm-4 col-md-4 text-center">
-                                        <a href="https://www.intel.com/content/www/us/en/homepage.html" target="_blank"><img src="images/sponsors/intel_logo.png" alt="Intel | Data Center Solutions, IoT, and PC Innovation"></a>
+                                    <div class="col-xs-6 col-sm-4 col-md-3 text-center">
+                                        <a href="https://www.intel.com/content/www/us/en/homepage.html"
+                                            target="_blank"><img src="images/sponsors/intel_logo.png"
+                                                alt="Intel | Data Center Solutions, IoT, and PC Innovation"></a>
                                     </div>
-                                    <div class="col-xs-6 col-sm-4 col-md-6 text-center">
-                                        <a href="https://www.delltechnologies.com/en-us/index.htm" target="_blank"><img src="images/sponsors/Dell_Tech_logo.png" alt="Digital Transformation | Dell Technologies | Dell Technologies United States"></a>
+                                    <div class="col-xs-6 col-sm-4 col-md-5 text-center">
+                                        <a href="https://www.delltechnologies.com/en-us/index.htm" target="_blank"><img
+                                                src="images/sponsors/Dell_Tech_logo.png"
+                                                alt="Digital Transformation | Dell Technologies | Dell Technologies United States"></a>
                                     </div>
 
 
@@ -1604,7 +1695,7 @@
                     </div>
                 </section>
 
-                
+
             </section>
 
         </div>

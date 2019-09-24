@@ -103,11 +103,207 @@
                                 <div class="row">
                                     <div class="col-md-12">
                                         <div class="schedule-tab">
-                                            <div class="alert alert-success wow zoomIn" data-wow-duration="1s" data-wow-offset="100" style="visibility: visible; animation-duration: 1s; animation-name: zoomIn;">
-                                                <h3 class="text-justify"><b>The official program for Mind Bytes will be announced soon. It will include, faculty lightning talks, panel discussions, and a keynote address.</b></h3>
-                                            </div> 
+
+                                            <div id="cd-timeline" class="cd-timeline cd-container">
+
+                                                <div class="cd-timeline-block">
+                                                    <div class="cd-timeline-img cd-picture">
+                                                        <i class="fa fa-file-text-o fa-2x pl-5"></i>
+                                                    </div>
+                                                    <!-- cd-timeline-img -->
+
+                                                    <div class="cd-timeline-content">
+                                                        <h2>Registration opens</h2>
+                                                        <span class="cd-date"><i class="fa fa-clock-o"></i> 12:00 PM</span>
+                                                    </div>
+                                                    <!-- cd-timeline-content -->
+                                                </div>
+                                                <!-- cd-timeline-block -->
+
+                                                <div class="cd-timeline-block">
+                                                    <div class="cd-timeline-img cd-movie pl-20">
+                                                        <i class="fa fa-cutlery fa-2x"></i>
+                                                    </div>
+                                                    <!-- cd-timeline-img -->
+
+                                                    <div class="cd-timeline-content">
+                                                        <div class="widget mb-0">            
+                                                            <ul class="list-inline tags">
+                                                            <li><a href="fair.php" class="tagsitem">Resource Fair</a></li> 
+                                                            <li><a href="demos.php" class="tagsitem">Demonstrations</a></li>
+                                                            <li><a href="#" class="tagsitem">Poster Viewing</a></li>
+                                                            <li><a href="#" class="tagsitem">Lunch</a></li>
+                                                            </ul>
+                                                        </div>
+                                                        <span class="cd-date"><i class="fa fa-clock-o"></i> 12:00 PM – 1:00 PM</span>
+                                                    </div>
+                                                    <!-- cd-timeline-content -->
+                                                </div>
+                                                <!-- cd-timeline-block -->
+
+                                                <div class="cd-timeline-block">
+                                                    <div class="cd-timeline-img cd-location is-hidden">
+                                                        <i class="fa fa-microphone fa-2x pl-5"></i>
+                                                    </div>
+                                                    <!-- cd-timeline-img -->
+
+                                                    <div class="cd-timeline-content">
+                                                        <h2>Opening Remarks</h2>
+                                                        <div class="cd-speaker clearfix pb-15">
+                                                            <h6 class="pt-0 mb-0"><a href="keyspeakers.php#remarks">H. Birali Runesha</a></h6>                                                            
+                                                            <h6 class="title text-gray">Assistant Vice President for Research Computing, Director of the Research Computing Center (RCC)</h6>
+                                                        </div>
+                                                        <a href="keyspeakers.php" class="cd-read-more">Read more</a>
+
+                                                        <span class="cd-date"><i class="fa fa-clock-o"></i> 1:00 PM – 1:15 PM</span>
+                                                    </div>
+                                                    <!-- cd-timeline-content -->
+                                                </div>
+                                                <!-- cd-timeline-block -->
+
+                                                <div class="cd-timeline-block">
+                                                    <div class="cd-timeline-img cd-picture is-hidden">
+                                                        <i class="fa fa-group fa-2x"></i>
+                                                    </div>
+                                                    <!-- cd-timeline-img -->
+
+                                                    <div class="cd-timeline-content is-hidden">
+                                                        <h2>Faculty Lightning Talks</h2>
+
+                                                        <div class="cd-speaker clearfix">
+                                                            <h6 class="pt-0 mb-0"><a href="lightningtalks.php">Lars Hansen</a></h6>
+                                                            <h6 class="title text-gray">David Rockefeller Distinguished Service Professor</h6>
+                                                            <!--<span class="font-13"><i>"Title goes here"</i></span>-->
+                                                        </div>
+
+                                                        <div class="cd-speaker clearfix">
+                                                            <h6 class="pt-0 mb-0"><a href="lightningtalks.php#Stephanie">Stephanie Palmer</a></h6>
+                                                            <h6 class="title text-gray">Assistant Professor</h6>
+                                                            <!--<span class="font-13"><i>"Title goes here"</i></span>-->
+                                                        </div>
+
+                                                        <div class="cd-speaker clearfix">
+                                                            <h6 class="pt-0 mb-0"><a href="lightningtalks.php#Matthew">Matthew Stephens</a></h6>
+                                                            <h6 class="title text-gray">Professor</h6>
+                                                            <!--<span class="font-13"><i>"Title goes here"</i></span>-->
+                                                        </div>
+
+                                                        <div class="cd-speaker clearfix">
+                                                            <h6 class="pt-0 mb-0"><a href="lightningtalks.php#Tobin">Tobin Sosnick</a></h6>
+                                                            <h6 class="title text-gray">Department Chair and Professor</h6>
+                                                            <!--<span class="font-13"><i>"Title goes here"</i></span>-->
+                                                        </div>
+
+                                                        <a href="lightningtalks.php" class="cd-read-more">Read more</a>
+                                                        <span class="cd-date"><i class="fa fa-clock-o"></i> 1:15 PM – 2:30 PM</span>
+                                                    </div>
+                                                    <!-- cd-timeline-content -->
+                                                </div>
+                                                <!-- cd-timeline-block -->
+                                                <div class="cd-timeline-block">
+                                                    <div class="cd-timeline-img cd-movie is-hidden">
+                                                        <i class="fa fa-flash fa-2x pl-10"></i>
+                                                    </div>
+                                                    <!-- cd-timeline-img -->
+
+                                                    <div class="cd-timeline-content is-hidden">
+                                                        <h2 class="timeline-title">Keynote Speaker</h2>
+                                                        <div class="cd-speaker clearfix pb-15">
+                                                        <!-- <div class="alert alert-success pr-0"><i class="fa fa-circle-o faa-burst animated"></i> <b>Artificial Intelligence – Signs of lift off across industries! What’s different than before and what’s next?</b></div>
+                                                            <h6 class="pt-0 mb-0"><a href="keynote.php">Paul Blase</a></h6>                                                            
+                                                            <h6 class="title text-gray">CEO and Co-Founder at Speciate AI</h6>
+                                                        </div> -->
+
+                                                        <!-- <a href="keynote.php" class="cd-read-more">Read more</a> -->
+                                                        <span class="cd-date"><i class="fa fa-clock-o"></i> 2:30 PM — 3:15 PM</span>
+                                                    </div>
+                                                    <!-- cd-timeline-content -->
+                                                </div>
+                                                <!-- cd-timeline-block -->
+
+                                                <div class="cd-timeline-block">
+                                                    <div class="cd-timeline-img cd-location is-hidden">
+                                                        <i class="fa fa-bar-chart fa-2x"></i>
+                                                    </div>
+                                                    <!-- cd-timeline-img -->
+
+                                                    <div class="cd-timeline-content is-hidden">
+                                                        <h2>Coffee Break, Poster Viewing and Demonstrations</h2>
+                                                        <span class="cd-date"><i class="fa fa-clock-o"></i> 3:15 PM – 3:45 PM</span>
+                                                    </div>
+                                                    <!-- cd-timeline-content -->
+                                                </div>
+                                                <!-- cd-timeline-block -->
+
+                                                <div class="cd-timeline-block">
+                                                    <div class="cd-timeline-img cd-picture is-hidden">
+                                                        <i class="fa fa-gavel fa-2x"></i>
+                                                    </div>
+                                                    <!-- cd-timeline-img -->
+                                                    <div class="cd-timeline-content is-hidden">
+                                                        <h2 class="timeline-title">Panel Discussions</h2>
+                                                        <!--<span class="toggle-content"> <i class="fa fa-plus-square-o"></i></span></h2> -->
+                                                        <div class="alert alert-success pr-0"><i class="fa fa-circle-o faa-burst animated"></i> <b>Influences of AI on people and society: ethics, law, and safety</b></div>
+
+                                                        <div class="cd-speaker clearfix">
+                                                            <h6 class="pt-0 mb-0"><a href="#">John Pletz</a> <span class="text-highlight">Moderator</span></h6>
+                                                            <!-- <h6 class="title text-gray">Computer Scientist, Data Science Group Lead at Argonne National Laboratory</h6> -->
+                                                        </div>
+
+                                                        <div class="cd-speaker clearfix">
+                                                            <h6 class="pt-0 mb-0"><a href="#">Rick Stevens</a></h6>
+                                                            <h6 class="title text-gray">Associate Laboratory Director at Argonne</h6>
+                                                        </div>
+                                                        
+														<div class="cd-speaker clearfix">
+                                                            <h6 class="pt-0 mb-0"><a href="#">Eric Rice</a></h6>
+                                                            <h6 class="title text-gray">USC</h6>
+                                                        </div>
+                                                        <!-- <a href="panel.php" class="cd-read-more">Read more</a> -->
+                                                        <span class="cd-date"><i class="fa fa-clock-o"></i> 3:45 PM - 4:45 PM</span>
+                                                    </div>
+                                                    <!-- cd-timeline-content -->
+                                                </div>
+                                                <!-- cd-timeline-block -->
+
+                                                <div class="cd-timeline-block">
+                                                    <div class="cd-timeline-img cd-movie is-hidden">
+                                                        <i class="fa fa-gift fa-2x pl-5"></i>
+                                                    </div>
+                                                    <!-- cd-timeline-img -->
+
+                                                    <div class="cd-timeline-content is-hidden">
+                                                        <h2>Closing Remarks and Awards</h2>
+                                                        <span class="cd-date"><i class="fa fa-clock-o"></i> 4:45 PM – 5:00 PM</span>
+                                                    </div>
+                                                    <!-- cd-timeline-content -->
+                                                </div>
+                                                <!-- cd-timeline-block -->
+
+                                                <div class="cd-timeline-block">
+                                                    <div class="cd-timeline-img cd-location is-hidden">
+                                                        <i class="fa fa-glass fa-2x"></i>
+                                                    </div>
+                                                    <!-- cd-timeline-img -->
+
+                                                    <div class="cd-timeline-content is-hidden">
+                                                        <h2>Reception</h2>
+                                                        <span class="cd-date"><i class="fa fa-clock-o"></i> 5:00 PM – 5:45 PM</span>
+                                                    </div>
+                                                    <!-- cd-timeline-content -->
+                                                </div>
+                                                <!-- cd-timeline-block -->
+
+                                            </div>
+                                            <!-- cd-timeline -->
+
                                         </div>
                                     </div>
+                                    <div class="text-center">
+                                        <a href="uploads/MindBytes2019_Schedule.pdf" class="btn btn-border btn-theme-colored btn-lg text-uppercase hvr-float-shadow" target="_blank">DOWNLOAD SCHEDULE <i class="fa fa-download"></i></a>
+                                        <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/">Register Now</a>
+                                    </div>
+
                                 </div>
                             </div>
                         </div>
