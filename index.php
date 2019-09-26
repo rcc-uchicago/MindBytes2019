@@ -104,10 +104,10 @@
                                             <li data-index="rs-1" data-transition="fade" data-slotamount="default"
                                                 data-hideafterloop="0" data-hideslideonmobile="off"
                                                 data-easein="default" data-easeout="default" data-masterspeed="2000"
-                                                data-thumb="images/bg/DSC_3394.jpg" data-rotate="0"
+                                                data-thumb="images/bg/Mind_Bytes_091-hi.jpg" data-rotate="0"
                                                 data-saveperformance="off" data-title="One" data-description="">
 
-                                                <img src="images/bg/DSC_3394.jpg" alt="" title="Mind Bytes 2019"
+                                                <img src="images/bg/Mind_Bytes_091-hi.jpg" alt="" title="Mind Bytes 2019"
                                                     data-bgposition="center center" data-kenburns="on"
                                                     data-duration="20000" data-ease="Linear.easeNone"
                                                     data-scalestart="130" data-scaleend="100" data-rotatestart="0"

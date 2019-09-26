@@ -259,6 +259,10 @@
                                                             <h6 class="pt-0 mb-0"><a href="#">Eric Rice</a></h6>
                                                             <h6 class="title text-gray">USC</h6>
                                                         </div>
+                                                        <div class="cd-speaker clearfix">
+                                                            <h6 class="pt-0 mb-0"><a href="#">Katherine J. Strandburg</a></h6>
+                                                            <h6 class="title text-gray">NYU</h6>
+                                                        </div>
                                                         <!-- <a href="panel.php" class="cd-read-more">Read more</a> -->
                                                         <span class="cd-date"><i class="fa fa-clock-o"></i> 3:45 PM - 4:45 PM</span>
                                                     </div>
@@ -300,7 +304,7 @@
                                         </div>
                                     </div>
                                     <div class="text-center">
-                                        <a href="uploads/MindBytes2019_Schedule.pdf" class="btn btn-border btn-theme-colored btn-lg text-uppercase hvr-float-shadow" target="_blank">DOWNLOAD SCHEDULE <i class="fa fa-download"></i></a>
+                                        <!-- <a href="uploads/MindBytes2019_Schedule.pdf" class="btn btn-border btn-theme-colored btn-lg text-uppercase hvr-float-shadow" target="_blank">DOWNLOAD SCHEDULE <i class="fa fa-download"></i></a> -->
                                         <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/">Register Now</a>
                                     </div>
 
