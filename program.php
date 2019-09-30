@@ -211,8 +211,8 @@
                                                         <div class="cd-speaker clearfix pb-15">
                                                         <!-- <div class="alert alert-success pr-0"><i class="fa fa-circle-o faa-burst animated"></i> <b>Artificial Intelligence – Signs of lift off across industries! What’s different than before and what’s next?</b></div>
                                                             <h6 class="pt-0 mb-0"><a href="keynote.php">Paul Blase</a></h6>                                                            
-                                                            <h6 class="title text-gray">CEO and Co-Founder at Speciate AI</h6>
-                                                        </div> -->
+                                                            <h6 class="title text-gray">CEO and Co-Founder at Speciate AI</h6> -->
+                                                        </div>
 
                                                         <!-- <a href="keynote.php" class="cd-read-more">Read more</a> -->
                                                         <span class="cd-date"><i class="fa fa-clock-o"></i> 2:30 PM — 3:15 PM</span>
@@ -246,24 +246,24 @@
                                                         <div class="alert alert-success pr-0"><i class="fa fa-circle-o faa-burst animated"></i> <b>Influences of AI on people and society: ethics, law, and safety</b></div>
 
                                                         <div class="cd-speaker clearfix">
-                                                            <h6 class="pt-0 mb-0"><a href="#">John Pletz</a> <span class="text-highlight">Moderator</span></h6>
-                                                            <!-- <h6 class="title text-gray">Computer Scientist, Data Science Group Lead at Argonne National Laboratory</h6> -->
+                                                            <h6 class="pt-0 mb-0"><a href="panel.php#John">John Pletz</a> <span class="text-highlight">Moderator</span></h6>
+                                                            <h6 class="title text-gray">Writer, Crain's Chicago Business</h6>
                                                         </div>
 
                                                         <div class="cd-speaker clearfix">
-                                                            <h6 class="pt-0 mb-0"><a href="#">Rick Stevens</a></h6>
+                                                            <h6 class="pt-0 mb-0"><a href="panel.php#Rick">Rick Stevens</a></h6>
                                                             <h6 class="title text-gray">Associate Laboratory Director at Argonne</h6>
                                                         </div>
                                                         
 														<div class="cd-speaker clearfix">
-                                                            <h6 class="pt-0 mb-0"><a href="#">Eric Rice</a></h6>
-                                                            <h6 class="title text-gray">USC</h6>
+                                                            <h6 class="pt-0 mb-0"><a href="panel.php#Eric">Eric Rice</a></h6>
+                                                            <h6 class="title text-gray">Associate Director and Founding Co-Director of the USC Center for Artificial Intelligence in Society, University of Southern California</h6>
                                                         </div>
                                                         <div class="cd-speaker clearfix">
-                                                            <h6 class="pt-0 mb-0"><a href="#">Katherine J. Strandburg</a></h6>
-                                                            <h6 class="title text-gray">NYU</h6>
+                                                            <h6 class="pt-0 mb-0"><a href="panel.php#Katherine">Katherine J. Strandburg</a></h6>
+                                                            <h6 class="title text-gray">Alfred Engelberg Professor of Law and Faculty Director, Information Law Institute, New York University</h6>
                                                         </div>
-                                                        <!-- <a href="panel.php" class="cd-read-more">Read more</a> -->
+                                                        <a href="panel.php" class="cd-read-more">Read more</a>
                                                         <span class="cd-date"><i class="fa fa-clock-o"></i> 3:45 PM - 4:45 PM</span>
                                                     </div>
                                                     <!-- cd-timeline-content -->

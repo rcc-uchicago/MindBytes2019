@@ -1318,43 +1318,35 @@
                                 </div>
                                 <!---->
                                 <!-- Panel Moderator -->
-                                <!-- <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
+                                <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
-                                        <div class="team-thumb"><img alt="James Evans"
-                                                src="images/speakers/slider/Venkatram_Vishwanath.jpg"
+                                        <div class="team-thumb"><img alt="Katherine J. Strandburg"
+                                                src="images/speakers/slider/John_Pletz.jpg"
                                                 class="img-fullwidth"></div>
                                         <div class="overlay">
                                             <div class="content text-center">
-                                                <h4 class="author mb-0"><a href="panel.php">Venkatram Vishwanath</a>
+                                                <h4 class="author mb-0"><a href="panel.php">John Pletz</a>
                                                 </h4>
-                                                <h6 class="title text-gray font-14 mt-5 mb-15">Computer Scientist, Data
-                                                    Science
-                                                    Group Lead, Argonne
-                                                    National Laboratory</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> -->
-                                <!---->
-                                <!-- Panel Speakers-->
-                                <!-- <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
-                                    <div class="team-member clearfix">
-                                        <div class="team-thumb"><img alt="James Evans"
-                                                src="images/speakers/slider/JamesEvans.jpg" class="img-fullwidth"></div>
-                                        <div class="overlay">
-                                            <div class="content text-center">
-                                                <h4 class="author mb-0"><a href="panel.php#Evans">James Evans</a></h4>
-                                                <h6 class="title text-gray font-14 mt-5 mb-15">Professor, Sociology;
-                                                    Director,
-                                                    Knowledge Lab; Faculty
-                                                    Director, Masters Program in Computational Social Sciences at the
-                                                    University of
-                                                    Chicago</h6>
+                                                <h6 class="title text-gray font-14 mt-5 mb-15">Writer, Crain's Chicago Business</h6>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
+                                <!---->
+                                <!-- Panel Speakers-->
                                 <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
+                                    <div class="team-member clearfix">
+                                        <div class="team-thumb"><img alt="Katherine J. Strandburg"
+                                                src="images/speakers/slider/Katherine.jpg" class="img-fullwidth"></div>
+                                        <div class="overlay">
+                                            <div class="content text-center">
+                                                <h4 class="author mb-0"><a href="panel.php#Katherine">Katherine J. Strandburg</a></h4>
+                                                <h6 class="title text-gray font-14 mt-5 mb-15">Alfred Engelberg Professor of Law and Faculty Director, Information Law Institute, New York University</h6>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
                                         <div class="team-thumb"><img alt="Francesca Lazzeri"
                                                 src="images/speakers/slider/FrancescaLazzeri.jpg" class="img-fullwidth">

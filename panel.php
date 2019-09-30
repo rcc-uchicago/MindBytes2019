@@ -100,83 +100,80 @@
                             <div class="section-content">
                                 <div class="row equal-height pt-20 pb-0">                                  
                                     <div class="col-md-12">
-                                        <h3 class="name font-28 text-black mb-20 mt-0 alert alert-info text-center" role="alert">Solving Societal Challenges with Artificial Intelligence.</h3>
+                                        <h3 class="name font-28 text-black mb-20 mt-0 alert alert-info text-center" role="alert">Influences of AI on people and society: ethics, law, and safety</h3>
                                     </div>
                                 </div>
 
                                 <!-- Moderator -->
-                                <div class="row equal-height pt-20 pb-0" id="Venkatram">
+                                <div class="row equal-height pt-20 pb-0" id="John">
                                     <div class="col-md-4">
                                         <div class="thumbnail">
-                                            <img src="images/speakers/Venkatram_Vishwanath.jpg" alt="John Pletz">
+                                            <img src="images/speakers/John_Pletz.jpg" alt="John Pletz">
                                         </div>
                                     </div>
                                     <div class="col-md-8">
                                         <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">John Pletz <span class="label label-primary">Moderator</span></h3>
-                                        <h6 class="text-gray mt-0">Computer Scientist, Data Science Group Lead, Argonne National Laboratory</h6>
-                                        <p class="text-justify">Venkatram Vishwanath is a computer scientist at Argonne National Laboratory. He is the Data Science group lead at the Argonne leadership computing facility (ALCF). His current focus is on algorithms, system software, and workflows to facilitate data-centric applications on supercomputing systems. His interests include scientific applications, supercomputing architectures, parallel algorithms and runtimes, scalable analytics and collaborative workspaces. He has received best papers awards at venues including HPDC and LDAV, and a Gordon Bell finalist. Vishwanath received his Ph.D. in computer science from the University of Illinois at Chicago in 2009.</p>
+                                        <h6 class="text-gray mt-0">Writer, Crain's Chicago Business</h6>
+                                        <p class="text-justify">John writes about technology and startups for Crain’s Chicago Business. During the dot-com boom and bust, he was covering tech in Austin. He’s a graduate of the University of Illinois.</p>
                                     </div>                                    
                                 </div>
 
-                                <div class="separator separator-rouned">
+                                <!-- <div class="separator separator-rouned">
                                     <i class="fa fa-cog fa-spin"></i>
-                                </div>
+                                </div> -->
 
                                 <!-- Other Panel -->
-                                <div class="row equal-height pt-20 pb-0" id="Evans">                                  
+                                <!-- <div class="row equal-height pt-20 pb-0" id="Rick">                                  
                                     <div class="col-md-8">
-                                        <!--<p class="name font-28 text-gray mb-0 mt-0">Lightning Talks Title goes here</p>-->
-                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">James Evans</h3>
-                                        <h6 class="text-gray mt-0">Professor, Sociology; Director, Knowledge Lab; Faculty Director, Masters Program in Computational Social Sciences at the University of Chicago</h6>
-                                        <p class="text-justify">My research focuses on the collective system of thinking and knowing, ranging from the distribution of attention and intuition, the origin of ideas and shared habits of reasoning to processes of agreement (and dispute), accumulation of certainty (and doubt), and the texture—novelty, ambiguity, topology—of human understanding. I am especially interested in innovation—how new ideas and practices emerge—and the role that social and technical institutions (e.g., the Internet, markets, collaborations) play in collective cognition and discovery. Much of my work has focused on areas of modern science and technology, but I am also interested in other domains of knowledge—news, law, religion, gossip, hunches and historical modes of thinking and knowing. I support the creation of novel observatories for human understanding and action through crowdsourcing, information extraction from text and images, and the use of distributed sensors (e.g., RFID tags, cell phones). I use machine learning, generative modeling, social and semantic network representations to explore knowledge processes, scale-up interpretive and field methods, and create alternatives to current discovery regimes. My research is funded by the National Science Foundation, the National Institutes of Health, the Templeton Foundation and other sources, and has been published in Science, American Journal of Sociology, Social Studies of Science, Administrative Science Quarterly, PLoS Computational Biology and other journals. My work has been featured in Nature, the Economist, Atlantic Monthly, Wired, NPR, BBC, El País, CNN and many other outlets.</p>
-                                        <p class="text-justify">At Chicago, I am Director of Knowledge Lab, which has collaborative, granting and employment opportunities, as well as ongoing seminars. I also sponsor the Computational Social Science workshop (with John Brehm) and the Knowledge-Value workshop (with John Kelly) and co-organize the Rational Choice workshop (with Gary Becker, Richard Posner & Glen Weyl). I teach courses in the history of modern science, science studies, computational content analysis, and Internet and Society. Before Chicago, I received my doctorate in sociology from Stanford University, served as a research associate in the Negotiation, Organizations, and Markets group at Harvard Business School, started a private high school focused on project-based arts education, and completed a B. A. in Anthropology and Economics at Brigham Young University.</p>
+                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Rick Stevens</h3>
+                                        <h6 class="text-gray mt-0">Associate Laboratory Director at Argonne</h6>
+                                        <p class="text-justify"></p>
+                                        <p class="text-justify"></p>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="thumbnail">
-                                        <img src="images/speakers/James_Evans.jpg" alt="James Evans">
+                                        <img src="images/speakers/Rick_Stevens.jpg" alt="Rick Stevens">
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
 
-                                <div class="separator separator-rouned">
+                                <!-- <div class="separator separator-rouned">
                                     <i class="fa fa-cog fa-spin"></i>
-                                </div>
+                                </div> -->
                                 
-                                <div class="row equal-height pt-20 pb-0" id="Lazzeri">
+                                <!-- <div class="row equal-height pt-20 pb-0" id="Eric">
                                     <div class="col-md-4">
                                         <div class="thumbnail">
-                                            <img src="images/speakers/Francesca_Lazzeri.jpg" alt="Francesca Lazzeri">
+                                            <img src="images/speakers/Eric_Rice.jpg" alt="Eric Rice">
                                         </div>
                                     </div>
                                     <div class="col-md-8">
-                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Francesca Lazzeri</h3>
-                                        <h6 class="text-gray mt-0">Data Scientist at Microsoft</h6>
-                                        <p class="text-justify">Francesca is Data Scientist at Microsoft, where she is part of the Algorithms and Data Science team within the Cloud AI group. She currently works with an international team of data scientists and engineers to build AI-based solutions for external customers utilizing Microsoft’s Cloud AI Platform.</p>
-                                        <p class="text-justify">Francesca is passionate about innovations in big data technologies and the applications of machine learning-based solutions to real-world problems. Her work on these issues covers a wide range of industries including energy, oil and gas, retail, aerospace, health care, and professional services.</p>
-                                        <p class="text-justify">Before joining Microsoft, she was Research Fellow in Business Economics at Harvard Business School, where she performed statistical and econometric analysis within the Technology and Operations Management Unit. At Harvard Business School, she worked on multiple patent data-driven projects to investigate and measure the impact of external knowledge networks on companies’ competitiveness and innovation.</p>
-                                        <p class="text-justify">Francesca is a mentor for PhD and Postdoc students at the Massachusetts Institute of Technology and enjoys speaking at academic and industry conferences to share her knowledge and passion about AI, machine learning and coding. Francesca holds a PhD in Innovation Management and can be found at <a href="https://twitter.com/frlazzeri">@frlazzeri</a>.</p>
+                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Eric Rice</h3>
+                                        <h6 class="text-gray mt-0">Associate Director and Founding Co-Director of the USC Center for Artificial Intelligence in Society, University of Southern California</h6>
+                                        <p class="text-justify"></p>
+                                        <p class="text-justify"></p>
                                     </div>                                    
-                                </div>
+                                </div> -->
 
                                 <div class="separator separator-rouned">
                                     <i class="fa fa-cog fa-spin"></i>
                                 </div>
 
-                                <div class="row equal-height pt-20 pb-0" id="Schenk">                                    
+                                <div class="row equal-height pt-20 pb-0" id="Katherine">                                    
                                     <div class="col-md-8">
-                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Tom Schenk</h3>
-                                        <h6 class="text-gray mt-0">Chief Data Officer at City of Chicago</h6>
-                                        <p class="text-justify">Tom Schenk is a researcher and author in a number of fields, including data science, open data, data visualization, and education research and policy. He is currently the Chief Data Officer at the City of Chicago, which includes leadership of the strategic use of data to improve the efficiency of city operations and improve the quality of life for residents. Tom has led the expansion of Chicago’s open data portal, implementation of predictive analytics to optimize city services, and leading the City’s database and business intelligence teams. He leads  Tom has also co-founded and is currently the Chair of the Civic Analytics Network, an association of nearly two-dozen city CDOs, based at Harvard University’s Ash Center for Democratic Governance and Innovation.</p>
-                                        <p class="text-justify">Tom wrote Circos Data Visualization How-To and published several academic papers and book chapters. He has previously served as senior research data analyst at Northwestern University’s Department of Medical Social Sciences and led institutional effectiveness and accountability at the Iowa Departments of Education. He has led innovative efforts to use student-level longitudinal data to improve and measure educational outcomes. He also led science, technology, engineering, and mathematics (STEM) policy in Iowa and was a coauthor of Iowa’s STEM roadmap. Tom was a visiting scholar at Iowa State University’s Office of Community College Research and Policy where he studied graduate-student unionization. He was also a lecturer at Grand View University in economics and statistics. He earned a Master’s degree in economics from Iowa State University and a Bachelor’s from Drake University.</p>
+                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Katherine J. Strandburg</h3>
+                                        <h6 class="text-gray mt-0">Alfred Engelberg Professor of Law and Faculty Director, Information Law Institute, New York University</h6>
+                                        <p class="text-justify">Katherine J. Strandburg is Alfred Engelberg Professor at NYU School of Law, where she directs the Information Law Institute, convenes the interdisciplinary Privacy Research Group, and is a faculty director of the Engelberg Center on Innovation Law and Policy.  Her teaching and research focus on law and technology, information privacy, automated decisionmaking, patents and innovation policy.  Recent articles include: Privacy as Commons: Case Evaluation through the Governing Knowledge Commons Framework (with B. Frischmann and M. Sanfilippo); Strategic Games and Algorithmic Secrecy (with I. Cofone); Rulemaking and Inscrutable Automated Decision Tools; Adjudicating with Inscrutable Decision Rules; Generalizability:  Machine Learning and Humans-in-the-Loop; and CDA 230 for a Smart Internet (with M. Byrd); Privacy Regulation and Innovation (with Y. Lev-Aretz); and Trade Secrets and Markets for Evidential Forensic Technology (with E. Siems and N. Vincent).</p>
+                                        <p class="text-justify">Professor Strandburg received her JD from the University of Chicago in 1995, clerked for the Honorable Richard D. Cudahy of the US Court of Appeals for the Seventh Circuit and spent several years in private practice.  Before attending law school, Professor Strandburg was a physicist at Argonne National Laboratory, having received her PhD from Cornell in 1984 and conducted postdoctoral research at Carnegie Mellon.</p>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="thumbnail">
-                                            <img src="images/speakers/Tom_Schenk.jpg" alt="Tom Schenk">
+                                            <img src="images/speakers/Katherine.jpg" alt="Katherine J. Strandburg">
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="separator separator-rouned">
+                                <!-- <div class="separator separator-rouned">
                                     <i class="fa fa-cog fa-spin"></i>
                                 </div>
 
@@ -192,7 +189,7 @@
                                         <p class="text-justify">Paul joined Benson Hill in 2016 as Vice President of Data Science and Platform Engineering overseeing the data science and systems biology groups as well as software development.  Paul brings over two decades of experience in genetics, breeding, data science and enterprise platform design to support Benson Hill’s rapid growth in advanced analytics and digital platform strategies.  Prior to joining Benson Hill, Paul served as director of R&amp;D information technology analytics at Monsanto where he developed and led the company’s first advanced analytics team, inventing solutions using machine learning, pipeline simulation, geospatial analytics and operations research. These discoveries transformed Monsanto’s discovery, development and manufacturing pipelines and set the stage for the future of data science at Monsanto. Skroch held prior leadership positions developing systems for genotyping, molecular and predictive breeding, pipeline analysis and advancement.</p>
                                         <p class="text-justify">Paul completed his postdoctoral training at Washington University, Saint Louis. He earned his Ph.D. in Plant Breeding and Plant Genetics at the University of Wisconsin – Madison, and his B.S. in Mathematics from the University of Wisconsin – Madison.</p>
                                     </div>                                    
-                                </div>
+                                </div> -->
 
                             </div>
                         </div>
