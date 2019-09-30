@@ -124,6 +124,14 @@
                                             <div id="grid" class="portfolio-gallery grid-4 gutter clearfix">
 
                                                 <!-- Portfolio Item Start -->
+                                                <div class="portfolio-item 2018">
+                                                    <div class="thumb wow flipInX" data-wow-delay="0.2s">
+                                                        <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2018/fullscreen/item-01.jpg"><img class="img-fullwidth" src="images/gallery/2018/item-01.jpg" alt=""></a>
+                                                    </div>
+                                                </div>
+                                                <!-- Portfolio Item End -->
+
+                                                <!-- Portfolio Item Start -->
                                                 <div class="portfolio-item 2017">
                                                     <div class="thumb wow flipInX" data-wow-delay="0.2s">
                                                         <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2017/fullscreen/item0.jpg"><img class="img-fullwidth" src="images/gallery/2017/item0.jpg" alt=""></a>
@@ -135,6 +143,14 @@
                                                 <div class="portfolio-item photography">
                                                     <div class="thumb wow flipInX" data-wow-delay="0.2s">
                                                         <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2015/fullscreen/item1.jpg"><img class="img-fullwidth" src="images/gallery/2015/item1.jpg" alt=""></a>
+                                                    </div>
+                                                </div>
+                                                <!-- Portfolio Item End -->
+
+                                                <!-- Portfolio Item Start -->
+                                                <div class="portfolio-item 2018">
+                                                    <div class="thumb wow flipInX" data-wow-delay="0.5s">
+                                                        <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2018/fullscreen/item-09.jpg"><img class="img-fullwidth" src="images/gallery/2018/item-09.jpg" alt=""></a>
                                                     </div>
                                                 </div>
                                                 <!-- Portfolio Item End -->
@@ -165,6 +181,14 @@
                                                 <div class="portfolio-item 2017">
                                                     <div class="thumb wow flipInX" data-wow-delay="0.2s">
                                                         <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2017/fullscreen/item1.jpg"><img class="img-fullwidth" src="images/gallery/2017/item1.jpg" alt=""></a>
+                                                    </div>
+                                                </div>
+                                                <!-- Portfolio Item End -->
+
+                                                <!-- Portfolio Item Start -->
+                                                <div class="portfolio-item 2018">
+                                                    <div class="thumb wow flipInX" data-wow-delay="0.5s">
+                                                        <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2018/fullscreen/item-08.jpg"><img class="img-fullwidth" src="images/gallery/2018/item-08.jpg" alt=""></a>
                                                     </div>
                                                 </div>
                                                 <!-- Portfolio Item End -->
@@ -211,6 +235,14 @@
                                                 <!-- Portfolio Item End -->
 
                                                 <!-- Portfolio Item Start -->
+                                                <div class="portfolio-item 2018">
+                                                    <div class="thumb wow flipInX" data-wow-delay="0.5s">
+                                                        <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2018/fullscreen/item-02.jpg"><img class="img-fullwidth" src="images/gallery/2018/item-02.jpg" alt=""></a>
+                                                    </div>
+                                                </div>
+                                                <!-- Portfolio Item End -->
+
+                                                <!-- Portfolio Item Start -->
                                                 <div class="portfolio-item 2017">
                                                     <div class="thumb wow flipInX" data-wow-delay="0.5s">
                                                         <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2017/fullscreen/item17.jpg"><img class="img-fullwidth" src="images/gallery/2017/item17.jpg" alt=""></a>
@@ -219,7 +251,15 @@
                                                 <!-- Portfolio Item End -->
 
                                                 <!-- Portfolio Item Start -->
-                                                <div class="portfolio-item photography">
+                                                <div class="portfolio-item 2018">
+                                                    <div class="thumb wow flipInX" data-wow-delay="0.5s">
+                                                        <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2018/fullscreen/item-10.jpg"><img class="img-fullwidth" src="images/gallery/2018/item-10.jpg" alt=""></a>
+                                                    </div>
+                                                </div>
+                                                <!-- Portfolio Item End -->
+
+                                                <!-- Portfolio Item Start -->
+                                                <div class="portfolio-item 2015">
                                                     <div class="thumb wow flipInX" data-wow-delay="0.8s">
                                                         <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2015/fullscreen/item3.jpg"><img class="img-fullwidth" src="images/gallery/2015/item3.jpg" alt=""></a>
                                                     </div>
@@ -235,9 +275,45 @@
                                                 <!-- Portfolio Item End -->
 
                                                 <!-- Portfolio Item Start -->
+                                                <div class="portfolio-item 2018">
+                                                    <div class="thumb wow flipInX" data-wow-delay="0.5s">
+                                                        <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2018/fullscreen/item-11.jpg"><img class="img-fullwidth" src="images/gallery/2018/item-11.jpg" alt=""></a>
+                                                    </div>
+                                                </div>
+                                                <!-- Portfolio Item End -->
+
+                                                <!-- Portfolio Item Start -->
                                                 <div class="portfolio-item 2015">
                                                     <div class="thumb wow flipInX" data-wow-delay="0.8s">
                                                         <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2015/fullscreen/item4.jpg"><img class="img-fullwidth" src="images/gallery/2015/item4.jpg" alt=""></a>
+                                                    </div>
+                                                </div>
+                                                <!-- Portfolio Item End -->
+
+                                                <!-- Portfolio Item Start -->
+                                                <div class="portfolio-item 2018">
+                                                    <div class="thumb">
+                                                        <div class="flexslider-wrapper">
+                                                            <div class="flexslider">
+                                                                <ul class="slides">
+                                                                    <li class="wow flipInX" data-wow-delay="1s">
+                                                                        <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2018/fullscreen/item-03.jpg"><img src="images/gallery/2018/item-03.jpg" alt=""></a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2018/fullscreen/item-04.jpg"><img src="images/gallery/2018/item-04.jpg" alt=""></a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2018/fullscreen/item-05.jpg"><img src="images/gallery/2018/item-05.jpg" alt=""></a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2018/fullscreen/item-06.jpg"><img src="images/gallery/2018/item-06.jpg" alt=""></a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2018/fullscreen/item-07.jpg"><img src="images/gallery/2018/item-07.jpg" alt=""></a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
                                                     </div>
                                                 </div>
                                                 <!-- Portfolio Item End -->
@@ -251,9 +327,17 @@
                                                 <!-- Portfolio Item End -->
 
                                                 <!-- Portfolio Item Start -->
-                                                <div class="portfolio-item photography">
+                                                <div class="portfolio-item 2014">
                                                     <div class="thumb wow flipInX" data-wow-delay="1s">
                                                         <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2014/fullscreen/item5.jpg"><img class="img-fullwidth" src="images/gallery/2014/item5.jpg" alt=""></a>
+                                                    </div>
+                                                </div>
+                                                <!-- Portfolio Item End -->
+
+                                                <!-- Portfolio Item Start -->
+                                                <div class="portfolio-item 2018">
+                                                    <div class="thumb wow flipInX" data-wow-delay="0.5s">
+                                                        <a data-rel="prettyPhoto[gallery1]" href="images/gallery/2018/fullscreen/item-12.jpg"><img class="img-fullwidth" src="images/gallery/2018/item-12.jpg" alt=""></a>
                                                     </div>
                                                 </div>
                                                 <!-- Portfolio Item End -->
@@ -284,7 +368,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <!-- Portfolio Item End -->
+                                                <!-- Portfolio Item End -->                                                
 
                                                 <!-- Portfolio Item Start -->
                                                 <div class="portfolio-item 2017">
