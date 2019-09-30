@@ -317,15 +317,15 @@
                                             <h4 class="list-group-item-heading">Important Dates</h4>
                                         </a>
 
-                                        <a class="list-group-item list-group-item-info" href="#">
+                                        <a class="list-group-item list-group-item-info" href="submission.php">
                                             <h4 class="list-group-item-heading">Poster submission begins:</h4>
                                             <p class="list-group-item-text">September 6, 2019</p>
                                         </a>
-                                        <!-- <a class="list-group-item list-group-item-success" href="#">
-                                        <h4 class="list-group-item-heading">Registration begins:</h4>
-                                        <p class="list-group-item-text">February 19, 2018</p>
-                                    </a> -->
-                                        <a class="list-group-item list-group-item-danger" href="#">
+                                        <a class="list-group-item list-group-item-success" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/">
+                                            <h4 class="list-group-item-heading">Registration begins:</h4>
+                                            <p class="list-group-item-text">September 23, 2019</p>
+                                        </a>
+                                        <a class="list-group-item list-group-item-danger" href="submission.php">
                                             <h4 class="list-group-item-heading">Poster submission deadline:</h4>
                                             <p class="list-group-item-text">October 22, 2019 5PM CST</p>
                                         </a>
