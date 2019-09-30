@@ -303,7 +303,16 @@
 
                                         </div>
                                     </div>
-                                    <div class="text-center">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="overlay-deep">
+                        <div class="container pt-20 pb-20">
+                            <div class="section-content">
+                                <div class="row">
+                                <div class="text-center">
                                         <!-- <a href="uploads/MindBytes2019_Schedule.pdf" class="btn btn-border btn-theme-colored btn-lg text-uppercase hvr-float-shadow" target="_blank">DOWNLOAD SCHEDULE <i class="fa fa-download"></i></a> -->
                                         <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/">Register Now</a>
                                     </div>
