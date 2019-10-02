@@ -150,7 +150,18 @@
                                                     <div class="cd-timeline-content">
                                                         <h2>Opening Remarks</h2>
                                                         <div class="cd-speaker clearfix pb-15">
-                                                            <h6 class="pt-0 mb-0"><a href="keyspeakers.php#remarks">H. Birali Runesha</a></h6>                                                            
+                                                            <h6 class="pt-0 mb-0"><a href="keyspeakers.php">Ka Yee C. Lee</a></h6>                                                            
+                                                            <h6 class="title text-gray">Professor in Chemistry, the James Franck Institute, Institute for Biophysical Dynamics and the College</h6>
+                                                            <h6 class="title text-gray">Vice Provost for Research</h6>
+                                                        </div>
+                                                        <div class="cd-speaker clearfix pb-15">
+                                                            <h6 class="pt-0 mb-0"><a href="keyspeakers.php#Juan">Juan de Pablo</a></h6>                                                            
+                                                            <h6 class="title text-gray">Liew Family Professor in Molecular Engineering at the University of Chicago</h6>
+                                                            <h6 class="title text-gray">Vice President for National Laboratories</h6>
+                                                            <h6 class="title text-gray">Senior Scientist at Argonne National Laboratory</h6>
+                                                        </div>
+                                                        <div class="cd-speaker clearfix pb-15">
+                                                            <h6 class="pt-0 mb-0"><a href="keyspeakers.php#Birali">H. Birali Runesha</a></h6>                                                            
                                                             <h6 class="title text-gray">Assistant Vice President for Research Computing, Director of the Research Computing Center (RCC)</h6>
                                                         </div>
                                                         <a href="keyspeakers.php" class="cd-read-more">Read more</a>
