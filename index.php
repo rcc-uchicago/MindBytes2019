@@ -1178,24 +1178,37 @@
                                 </div> -->
                                 <!---->
                                 <!-- Opening Remarks -->
-                                <!-- <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
+                                <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
-                                        <div class="team-thumb"><img alt="Eric Isaacs"
-                                                src="images/speakers/slider/Eric_Isaacs.jpg" class="img-fullwidth">
+                                        <div class="team-thumb"><img alt="Ka Yee C. Lee"
+                                                src="images/speakers/slider/Ka_Yee_Lee.png" class="img-fullwidth">
                                         </div>
                                         <div class="overlay">
                                             <div class="content text-center">
-                                                <h4 class="author mb-0"><a href="keyspeakers.php#remarks">Eric
-                                                        Isaacs</a>
+                                                <h4 class="author mb-0"><a href="keyspeakers.php">Ka Yee C. Lee</a>
                                                 </h4>
-                                                <h6 class="title text-gray font-14 mt-5 mb-15">Executive Vice President
-                                                    for
-                                                    Research, Innovation and
-                                                    National Laboratories, The University of Chicago</h6>
+                                                <h6 class="title text-gray font-14 mt-5 mb-15">Professor in Chemistry, the James Franck Institute, Institute for Biophysical Dynamics and the College</h6>
+                                                <h6 class="title text-gray font-14 mt-5 mb-15">Vice Provost for Research</h6>
                                             </div>
                                         </div>
                                     </div>
-                                </div> -->
+                                </div>
+                                <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
+                                    <div class="team-member clearfix">
+                                        <div class="team-thumb"><img alt="Juan de Pablo"
+                                                src="images/speakers/slider/Juan_de_Pablo.jpg" class="img-fullwidth">
+                                        </div>
+                                        <div class="overlay">
+                                            <div class="content text-center">
+                                                <h4 class="author mb-0"><a href="keyspeakers.php#Juan">Juan de Pablo</a>
+                                                </h4>
+                                                <h6 class="title text-gray font-14 mt-5 mb-15">Liew Family Professor in Molecular Engineering at the University of Chicago</h6>
+                                                <h6 class="title text-gray font-14 mt-5 mb-15">Vice President for National Laboratories</h6>
+                                                <h6 class="title text-gray font-14 mt-5 mb-15">Senior Scientist at Argonne National Laboratory</h6>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                                 <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
                                         <div class="team-thumb"><img alt="H. Birali Runesha"
@@ -1203,7 +1216,7 @@
                                         </div>
                                         <div class="overlay">
                                             <div class="content text-center">
-                                                <h4 class="author mb-0"><a href="keyspeakers.php#remarks">H. Birali
+                                                <h4 class="author mb-0"><a href="keyspeakers.php#Birali">H. Birali
                                                         Runesha</a></h4>
                                                 <h6 class="title text-gray font-14 mt-5 mb-15">Assistant Vice President
                                                     for Research Computing, Director of the Research Computing Center
