@@ -1333,7 +1333,7 @@
                                 <!-- Panel Moderator -->
                                 <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
-                                        <div class="team-thumb"><img alt="Katherine J. Strandburg"
+                                        <div class="team-thumb"><img alt="John Pletz"
                                                 src="images/speakers/slider/John_Pletz.jpg"
                                                 class="img-fullwidth"></div>
                                         <div class="overlay">
@@ -1359,54 +1359,21 @@
                                         </div>
                                     </div>
                                 </div>
-                                <!-- <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
+                                <!---->
+                                <!-- Panel Speakers-->
+                                <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
-                                        <div class="team-thumb"><img alt="Francesca Lazzeri"
-                                                src="images/speakers/slider/FrancescaLazzeri.jpg" class="img-fullwidth">
-                                        </div>
+                                        <div class="team-thumb"><img alt="Rick Stevens"
+                                                src="images/speakers/slider/Rick_Stevens.jpg" class="img-fullwidth"></div>
                                         <div class="overlay">
                                             <div class="content text-center">
-                                                <h4 class="author mb-0"><a href="panel.php#Lazzeri">Francesca
-                                                        Lazzeri</a>
-                                                </h4>
-                                                <h6 class="title text-gray font-14 mt-5 mb-15">Data Scientist at
-                                                    Microsoft</h6>
+                                                <h4 class="author mb-0"><a href="panel.php#Rick">Rick Stevens</a></h4>
+                                                <h6 class="title text-gray font-14 mt-5 mb-15">Professor</h6>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
-                                    <div class="team-member clearfix">
-                                        <div class="team-thumb"><img alt="Tom Schenk"
-                                                src="images/speakers/slider/TomSchenk.jpg" class="img-fullwidth">
-                                        </div>
-                                        <div class="overlay">
-                                            <div class="content text-center">
-                                                <h4 class="author mb-0"><a href="panel.php#Schenk">Tom Schenk</a></h4>
-                                                <h6 class="title text-gray font-14 mt-5 mb-15">Chief Data Officer at the
-                                                    City of
-                                                    Chicago</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
-                                    <div class="team-member clearfix">
-                                        <div class="team-thumb"><img alt="Tom Schenk"
-                                                src="images/speakers/slider/PaulSkroch.jpg" class="img-fullwidth">
-                                        </div>
-                                        <div class="overlay">
-                                            <div class="content text-center">
-                                                <h4 class="author mb-0"><a href="panel.php#Skroch">Paul Skroch</a></h4>
-                                                <h6 class="title text-gray font-14 mt-5 mb-15">VP Data Science and
-                                                    Platform
-                                                    Engineering at Benson
-                                                    Hill</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> -->
-
+                                <!---->
                             </div>
                         </div>
                     </div>

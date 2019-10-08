@@ -173,23 +173,22 @@
                                     </div>
                                 </div>
 
-                                <!-- <div class="separator separator-rouned">
+                                <div class="separator separator-rouned">
                                     <i class="fa fa-cog fa-spin"></i>
                                 </div>
 
-                                <div class="row equal-height pt-20 pb-0" id="Skroch">
+                                <div class="row equal-height pt-20 pb-0" id="Rick">
                                     <div class="col-md-4">
                                         <div class="thumbnail">
-                                            <img src="images/speakers/Paul_Skroch.jpg" alt="Paul Skroch">
+                                            <img src="images/speakers/Rick_Stevens.jpg" alt="Rick Stevens">
                                         </div>
                                     </div>
                                     <div class="col-md-8">
-                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0" >Paul Skroch</h3>
-                                        <h6 class="text-gray mt-0">VP Data Science and Platform Engineering at Benson Hill</h6>
-                                        <p class="text-justify">Paul joined Benson Hill in 2016 as Vice President of Data Science and Platform Engineering overseeing the data science and systems biology groups as well as software development.  Paul brings over two decades of experience in genetics, breeding, data science and enterprise platform design to support Benson Hill’s rapid growth in advanced analytics and digital platform strategies.  Prior to joining Benson Hill, Paul served as director of R&amp;D information technology analytics at Monsanto where he developed and led the company’s first advanced analytics team, inventing solutions using machine learning, pipeline simulation, geospatial analytics and operations research. These discoveries transformed Monsanto’s discovery, development and manufacturing pipelines and set the stage for the future of data science at Monsanto. Skroch held prior leadership positions developing systems for genotyping, molecular and predictive breeding, pipeline analysis and advancement.</p>
-                                        <p class="text-justify">Paul completed his postdoctoral training at Washington University, Saint Louis. He earned his Ph.D. in Plant Breeding and Plant Genetics at the University of Wisconsin – Madison, and his B.S. in Mathematics from the University of Wisconsin – Madison.</p>
+                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Rick Stevens</h3>
+                                        <h6 class="text-gray mt-0">Professor</h6>
+                                        <p class="text-justify">Professor Rick Stevens is internationally known for work in high-performance computing, collaboration and visualization technology, and for building computational tools and web infrastructures to support large-scale genome and metagenome analysis for basic science and infectious disease research. A current focus is the national initiatives for Exascale computing and Artificial Intelligence (AI). He is the Associate Laboratory Director at Argonne National Laboratory, and a Professor of Computer Science at the University of Chicago. In addition, he is the principle investigator of the NIH-NIAID funded PATRIC Bioinformatics Resource Center, the Exascale Computing Project (ECP) Exascale Deep Learning and Simulation Enabled Precision Medicine for Cancer project, and the predicitive models pilot of the DOE-NCI funded Joint Design of Advanced Computing Solutions for Cancer (JDACS4C) project. Over the past twenty years, he and his colleagues have developed the SEED, RAST, MG-RAST, and ModelSEED genome analysis and bacterial modeling servers that have been used by tens of thousands of users to annotate and analyze more than 250,000 microbial genomes and metagenomic samples.</p>
                                     </div>                                    
-                                </div> -->
+                                </div>
 
                             </div>
                         </div>
