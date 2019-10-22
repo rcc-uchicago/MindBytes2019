@@ -140,20 +140,6 @@
                                 <!-- <div class="separator separator-rouned">
                                     <i class="fa fa-cog fa-spin"></i>
                                 </div> -->
-                                
-                                <!-- <div class="row equal-height pt-20 pb-0" id="Eric">
-                                    <div class="col-md-4">
-                                        <div class="thumbnail">
-                                            <img src="images/speakers/Eric_Rice.jpg" alt="Eric Rice">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-8">
-                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Eric Rice</h3>
-                                        <h6 class="text-gray mt-0">Associate Director and Founding Co-Director of the USC Center for Artificial Intelligence in Society, University of Southern California</h6>
-                                        <p class="text-justify"></p>
-                                        <p class="text-justify"></p>
-                                    </div>                                    
-                                </div> -->
 
                                 <div class="separator separator-rouned">
                                     <i class="fa fa-cog fa-spin"></i>
@@ -188,6 +174,23 @@
                                         <h6 class="text-gray mt-0">Professor</h6>
                                         <p class="text-justify">Professor Rick Stevens is internationally known for work in high-performance computing, collaboration and visualization technology, and for building computational tools and web infrastructures to support large-scale genome and metagenome analysis for basic science and infectious disease research. A current focus is the national initiatives for Exascale computing and Artificial Intelligence (AI). He is the Associate Laboratory Director at Argonne National Laboratory, and a Professor of Computer Science at the University of Chicago. In addition, he is the principle investigator of the NIH-NIAID funded PATRIC Bioinformatics Resource Center, the Exascale Computing Project (ECP) Exascale Deep Learning and Simulation Enabled Precision Medicine for Cancer project, and the predicitive models pilot of the DOE-NCI funded Joint Design of Advanced Computing Solutions for Cancer (JDACS4C) project. Over the past twenty years, he and his colleagues have developed the SEED, RAST, MG-RAST, and ModelSEED genome analysis and bacterial modeling servers that have been used by tens of thousands of users to annotate and analyze more than 250,000 microbial genomes and metagenomic samples.</p>
                                     </div>                                    
+                                </div>
+
+                                <div class="separator separator-rouned">
+                                    <i class="fa fa-cog fa-spin"></i>
+                                </div>
+
+                                <div class="row equal-height pt-20 pb-0" id="Eric">                                    
+                                    <div class="col-md-8">
+                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Eric Rice</h3>
+                                        <h6 class="text-gray mt-0">Associate Director and Founding Co-Director of the USC Center for Artificial Intelligence in Society, University of Southern California</h6>
+                                        <p class="text-justify">Eric Rice is an Associate Professor at the USC Suzanne Dworak-Peck School of Social Work.  He is the founding director of the USC Center for Artificial Intelligence in Society. Since 2002 he has worked with closely with communities to create novel solutions to address problems faced by youth experiencing homelessness.  He is the author of more that 150 peer reviewed articles and has just published a book with Cambridge University Press entitled AI and Social Work.</p>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="thumbnail">
+                                            <img src="images/speakers/Eric_Rice.jpg" alt="Eric Rice">
+                                        </div>
+                                    </div>                               
                                 </div>
 
                             </div>

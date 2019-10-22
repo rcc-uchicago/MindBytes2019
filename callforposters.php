@@ -200,7 +200,7 @@
                                                 <!-- <p class="text-justify"><b><i class="pe-7s-target fa-lg"></i> Poster submissions will open soon.</b></p> -->
                                                 <p class="text-justify"><b>Poster submission begins:</b> September 6,
                                                     2019.</p>
-                                                <p class="text-justify"><b>Poster submission due date:</b> October 22,
+                                                <p class="text-justify"><b>Poster submission due date:</b> October 25,
                                                     2019 5PM CST.</p>
                                                 <p class="text-justify">Click <a href="submission.php"
                                                         class="text-theme-colored text-uppercase"><u>Here</u></a> to
@@ -327,7 +327,7 @@
                                         </a>
                                         <a class="list-group-item list-group-item-danger" href="submission.php">
                                             <h4 class="list-group-item-heading">Poster submission deadline:</h4>
-                                            <p class="list-group-item-text">October 22, 2019 5PM CST</p>
+                                            <p class="list-group-item-text">October 25, 2019 5PM CST</p>
                                         </a>
                                     </div>
                                 </div>

@@ -1374,6 +1374,20 @@
                                     </div>
                                 </div>
                                 <!---->
+                                <!-- Panel Speakers-->
+                                <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
+                                    <div class="team-member clearfix">
+                                        <div class="team-thumb"><img alt="Eric Rice"
+                                                src="images/speakers/slider/Eric_Rice.jpg" class="img-fullwidth"></div>
+                                        <div class="overlay">
+                                            <div class="content text-center">
+                                                <h4 class="author mb-0"><a href="panel.php#Eric">Eric Rice</a></h4>
+                                                <h6 class="title text-gray font-14 mt-5 mb-15">Associate Director and Founding Co-Director of the USC Center for Artificial Intelligence in Society, University of Southern California</h6>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!---->
                             </div>
                         </div>
                     </div>
@@ -1609,6 +1623,10 @@
                                         <a href="http://piergroup.com" target="_blank"><img
                                                 src="images/sponsors/PIER_Group_logo.png"
                                                 alt="PIER Group | Jasper | Partners In Education Research"></a>
+
+                                        <a href="https://cloud.google.com/" target="_blank"><img
+                                                src="images/sponsors/google_cloud.png"
+                                                alt="Cloud Computing Services &nbsp;|&nbsp; Google Cloud"></a>
                                     </div>
                                     <div class="col-xs-6 col-sm-4 col-md-3 text-center">
                                         <a href="https://www.intel.com/content/www/us/en/homepage.html"
@@ -1619,16 +1637,13 @@
                                         <a href="https://www.delltechnologies.com/en-us/index.htm" target="_blank"><img
                                                 src="images/sponsors/Dell_Tech_logo.png"
                                                 alt="Digital Transformation | Dell Technologies | Dell Technologies United States"></a>
-                                    </div>
 
-
-                                    <!-- <div class="col-xs-6 col-sm-4 col-md-2 text-center">
-                                        <a href="http://www3.lenovo.com/us/en/" target="_blank"><img src="images/sponsors/lenovo_logo.png" alt="LENOVO"></a>
-                                    </div>
-                                    <div class="col-xs-6 col-sm-4 col-md-2 text-center">
                                         <a href="https://www.globus.org/" target="_blank"><img src="images/sponsors/Globus_logo.png" alt="Globus"></a>
                                     </div>
-                                    <div class="col-xs-6 col-sm-4 col-md-2 text-center">
+                                    <!-- <div class="col-xs-6 col-sm-4 col-md-2 text-center">
+                                        <a href="http://www3.lenovo.com/us/en/" target="_blank"><img src="images/sponsors/lenovo_logo.png" alt="LENOVO"></a>
+                                    </div> -->                                    
+                                    <!-- <div class="col-xs-6 col-sm-4 col-md-2 text-center">
                                         <a href="https://www.intel.com/content/www/us/en/homepage.html" target="_blank"><img
                                                 src="images/sponsors/intel-logo.png" alt="Intel"></a>
                                     </div>
