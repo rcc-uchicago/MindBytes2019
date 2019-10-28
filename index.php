@@ -1632,6 +1632,9 @@
                                         <a href="https://www.intel.com/content/www/us/en/homepage.html"
                                             target="_blank"><img src="images/sponsors/intel_logo.png"
                                                 alt="Intel | Data Center Solutions, IoT, and PC Innovation"></a>
+                                        <a href="https://www.lenovo.com/us/en/"
+                                            target="_blank"><img src="images/sponsors/lenovo_logo.jpg"
+                                                alt="Lenovo Official US Site | Computers, Smartphones, Data Center"></a>
                                     </div>
                                     <div class="col-xs-6 col-sm-4 col-md-5 text-center">
                                         <a href="https://www.delltechnologies.com/en-us/index.htm" target="_blank"><img

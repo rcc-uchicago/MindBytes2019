@@ -129,7 +129,7 @@
                                     display these posters in Ida Noyes Hall during the event.
                                     Judges will evaluate posters with respect to its field and the researcher's ability
                                     to use RCC computational resources in novel ways. Final judging will take place on
-                                    May 8 at Mind Bytes 2019.</h6>
+                                    Nov 5 at Mind Bytes 2019.</h6>
                             </div>
                         </div>
                     </div>
@@ -248,7 +248,7 @@
                                                         instruct you to reduce
                                                         the number of characters before you can continue the submission
                                                         process.</p>
-                                                    <p class="text-justify">Poster submission will close <b>October 22,
+                                                    <p class="text-justify">Poster submission will close <b>October 25,
                                                             2019 5PM CST</b>.
                                                         The
                                                         RCC will print all posters.</p>
@@ -367,8 +367,7 @@
                                         <option value="Harris School of Public Policy">Harris School of Public Policy
                                         </option>
                                         <option value="Humanities Division">Humanities Division</option>
-                                        <option value="Institute for Molecular Engineering">Institute for Molecular
-                                            Engineering</option>
+                                        <option value="Pritzker School of Molecular Engineering">Pritzker School of Molecular Engineering</option>
                                         <option value="Law School">Law School</option>
                                         <option value="Marine Biological Laboratory">Marine Biological Laboratory
                                         </option>
