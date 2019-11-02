@@ -184,49 +184,41 @@
                                                         <div class="cd-speaker clearfix">
                                                             <h6 class="pt-0 mb-0"><a href="lightningtalks.php">Lars Hansen</a></h6>
                                                             <h6 class="title text-gray">David Rockefeller Distinguished Service Professor</h6>
-                                                            <!--<span class="font-13"><i>"Title goes here"</i></span>-->
+                                                            <span class="font-13"><i>"Solving and Analyzing Economic Models with Climate Change"</i></span>
                                                         </div>
 
                                                         <div class="cd-speaker clearfix">
                                                             <h6 class="pt-0 mb-0"><a href="lightningtalks.php#Stephanie">Stephanie Palmer</a></h6>
                                                             <h6 class="title text-gray">Assistant Professor</h6>
-                                                            <!--<span class="font-13"><i>"Title goes here"</i></span>-->
+                                                            <span class="font-13"><i>"Analyzing our Chicago Motion Database to Create New Stimuli for Neuroscience Experiments"</i></span>
                                                         </div>
 
                                                         <div class="cd-speaker clearfix">
                                                             <h6 class="pt-0 mb-0"><a href="lightningtalks.php#Matthew">Matthew Stephens</a></h6>
                                                             <h6 class="title text-gray">Professor</h6>
-                                                            <!--<span class="font-13"><i>"Title goes here"</i></span>-->
+                                                            <span class="font-13"><i>"Get Organized and Share Nicely"</i></span>
                                                         </div>
 
                                                         <div class="cd-speaker clearfix">
                                                             <h6 class="pt-0 mb-0"><a href="lightningtalks.php#Tobin">Tobin Sosnick</a></h6>
                                                             <h6 class="title text-gray">Department Chair and Professor</h6>
-                                                            <!--<span class="font-13"><i>"Title goes here"</i></span>-->
+                                                            <span class="font-13"><i>"How to Fold a Protein in a CPU-Hour Rather than a CPU-Month"</i></span>
+                                                        </div>
+
+                                                        <div class="cd-speaker clearfix">
+                                                            <h6 class="pt-0 mb-0"><a href="lightningtalks.php#David">David Schloen</a></h6>
+                                                            <h6 class="title text-gray">Professor of Near Eastern Archaeology</h6>
+                                                            <span class="font-13"><i>"Managing Diverse Data in Space and Time Using the OCHRE Digital Platform"</i></span>
+                                                        </div>
+
+                                                        <div class="cd-speaker clearfix pb-15">
+                                                            <h6 class="pt-0 mb-0"><a href="lightningtalks.php#Cacioppo">Stephanie Cacioppo</a></h6>
+                                                            <h6 class="title text-gray">Assistant Professor, Department of Psychiatry and Behavioral Neuroscience; Director, Brain Dynamics Laboratory</h6>
+                                                            <span class="font-13"><i>"Rethinking Brain Dynamics"</i></span>
                                                         </div>
 
                                                         <a href="lightningtalks.php" class="cd-read-more">Read more</a>
-                                                        <span class="cd-date"><i class="fa fa-clock-o"></i> 1:15 PM – 2:30 PM</span>
-                                                    </div>
-                                                    <!-- cd-timeline-content -->
-                                                </div>
-                                                <!-- cd-timeline-block -->
-                                                <div class="cd-timeline-block">
-                                                    <div class="cd-timeline-img cd-movie is-hidden">
-                                                        <i class="fa fa-flash fa-2x pl-10"></i>
-                                                    </div>
-                                                    <!-- cd-timeline-img -->
-
-                                                    <div class="cd-timeline-content is-hidden">
-                                                        <h2 class="timeline-title">Keynote Speaker</h2>
-                                                        <div class="cd-speaker clearfix pb-15">
-                                                        <!-- <div class="alert alert-success pr-0"><i class="fa fa-circle-o faa-burst animated"></i> <b>Artificial Intelligence – Signs of lift off across industries! What’s different than before and what’s next?</b></div>
-                                                            <h6 class="pt-0 mb-0"><a href="keynote.php">Paul Blase</a></h6>                                                            
-                                                            <h6 class="title text-gray">CEO and Co-Founder at Speciate AI</h6> -->
-                                                        </div>
-
-                                                        <!-- <a href="keynote.php" class="cd-read-more">Read more</a> -->
-                                                        <span class="cd-date"><i class="fa fa-clock-o"></i> 2:30 PM — 3:15 PM</span>
+                                                        <span class="cd-date"><i class="fa fa-clock-o"></i> 1:15 PM – 2:35 PM</span>
                                                     </div>
                                                     <!-- cd-timeline-content -->
                                                 </div>
@@ -239,12 +231,33 @@
                                                     <!-- cd-timeline-img -->
 
                                                     <div class="cd-timeline-content is-hidden">
-                                                        <h2>Coffee Break, Poster Viewing and Demonstrations</h2>
-                                                        <span class="cd-date"><i class="fa fa-clock-o"></i> 3:15 PM – 3:45 PM</span>
+                                                        <h2>Poster Viewing, Demonstrations and Coffee Break</h2>
+                                                        <span class="cd-date"><i class="fa fa-clock-o"></i> 2:35 PM — 3:05 PM</span>
                                                     </div>
                                                     <!-- cd-timeline-content -->
                                                 </div>
                                                 <!-- cd-timeline-block -->
+
+                                                <div class="cd-timeline-block">
+                                                    <div class="cd-timeline-img cd-movie is-hidden">
+                                                        <i class="fa fa-flash fa-2x pl-10"></i>
+                                                    </div>
+                                                    <!-- cd-timeline-img -->
+
+                                                    <div class="cd-timeline-content is-hidden">
+                                                        <h2 class="timeline-title">Keynote Address</h2>
+                                                        <div class="cd-speaker clearfix pb-15">
+                                                        <div class="alert alert-success pr-0"><i class="fa fa-circle-o faa-burst animated"></i> <b>AI for Science</b></div>
+                                                            <h6 class="pt-0 mb-0"><a href="keynote.php">Rick Stevens</a></h6>                                                            
+                                                            <h6 class="title text-gray">Professor</h6>
+                                                        </div>
+
+                                                        <a href="keynote.php" class="cd-read-more">Read more</a>
+                                                        <span class="cd-date"><i class="fa fa-clock-o"></i> 3:05 PM — 3:45 PM</span>
+                                                    </div>
+                                                    <!-- cd-timeline-content -->
+                                                </div>
+                                                <!-- cd-timeline-block -->                                                
 
                                                 <div class="cd-timeline-block">
                                                     <div class="cd-timeline-img cd-picture is-hidden">

@@ -83,7 +83,7 @@
             <div class="container-fluid p-0">
                 <!-- Section: home -->
                 <section class="divider bg-lighter">
-                    <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
+                <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
                         <div class="container pt-50 pb-50">
                             <div class="section-title">
                                 <div class="row">
@@ -98,25 +98,80 @@
                     <div class="bg-white-light">
                         <div class="container pt-30 pb-0">
                             <div class="section-content">
-                                <div class="row equal-height" id="Blase">                                    
-                                    <div class="col-md-8">
-                                        <h3 class="name font-28 text-gray mb-0 mt-0">Artificial Intelligence – Signs of lift off across industries! What’s different than before and what’s next?</h3>
-                                        <div class="media border-bottom p-15 bg-light mb-15">
-                                            <div class="media-left">
-                                                <i class="fa fa-microphone text-theme-colored font-24 mt-5"></i>
-                                            </div>
-                                            <div class="media-body">
-                                                <h5 class="mt-0 mb-0">The presentation will include an overview of the types of AI that are being adopted across industries today with use cases that illustrate the practical value being generated, thoughts on how emerging AI techniques can create even more value and a discussion of the opportunities and challenges that need to be managed to prevent another “AI winter”.</h5>
-                                            </div>
+                                <div class="row contact-wrap wow bounceInUp center pt-30">
+                                    <div class="col-md-6 col-md-offset-3">
+                                        <div class="alert alert-info wow zoomIn" data-wow-duration="1s"
+                                            data-wow-offset="100">
+                                            <h3 class="text-center"><b>AI for Science</b></h3>
                                         </div>
-                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Paul Blase</h3>
-                                        <h6 class="text-gray mt-0">CEO and Co-Founder at Speciate AI</h6>
-                                        <p class="text-justify">Speciate AI was founded by former leaders of PwC’s global data analytics consulting team. Their experience advising Fortune 500 companies on how to apply advanced data and analytics techniques gave them insights that led them to launch Speciate AI.</p>
-                                        <p class="text-justify">Paul Blase is a co-founder of Speciate AI which is spin-out from tronc. Formerly Paul was the managing partner of tronc’s AI and data solutions division responsible for building a portfolio of businesses and products that monetize data. Prior to that Paul was PwC’s U.S. and global analytics advisory leader responsible for capturing the market opportunity associated with helping its clients use advanced analytics and data techniques and technologies to improve the performance of their businesses across. During his time at PwC, Paul designed and launched PwC’s U.S. and global analytics and data operating model and managed investments across a team of nearly 1,700 practitioners with deep skill sets in data and analytics. Paul led the creation of a portfolio of analytic apps and launch of PwC’s global Analytic Apps Marketplace to provide analytics solutions to its clients. Prior to being acquired by PwC, Paul was a Managing Partner at Diamond Management & Technology Consultants where his responsibilities included leading its cross-industry Service Lines, insurance practice and enterprise practice. Paul’s speaking and publications forums include the Chicago Council of Global Affairs, Palo Alto Venture Forum, Oracle Openworld, Wall Street Journal, Financial Times, Bloomberg, World Economic Forum, Corinium CAO Forum, AI World, and Forbes. Paul holds an M.B.A from M.I.T. Sloan School of Management with a focus on new product & venture development and a B.A. double major in Economics and Mathematical Methods in the Social Sciences Honors Program.</p>
+                                    </div>
+                                </div>
+
+                                <div class="row equal-height" id="Rick">
+                                    <div class="col-md-8">
+                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Rick Stevens</h3>
+                                        <h6 class="text-gray mt-0">Professor</h6>
+                                        <p class="text-justify">Professor Rick Stevens is internationally known for work
+                                            in high-performance computing, collaboration and visualization technology,
+                                            and for building computational tools and web infrastructures to support
+                                            large-scale genome and metagenome analysis for basic science and infectious
+                                            disease research. A current focus is the national initiatives for Exascale
+                                            computing and Artificial Intelligence (AI). He is the Associate Laboratory
+                                            Director at Argonne National Laboratory, and a Professor of Computer Science
+                                            at the University of Chicago. In addition, he is the principle investigator
+                                            of the NIH-NIAID funded PATRIC Bioinformatics Resource Center, the Exascale
+                                            Computing Project (ECP) Exascale Deep Learning and Simulation Enabled
+                                            Precision Medicine for Cancer project, and the predicitive models pilot of
+                                            the DOE-NCI funded Joint Design of Advanced Computing Solutions for Cancer
+                                            (JDACS4C) project. Over the past twenty years, he and his colleagues have
+                                            developed the SEED, RAST, MG-RAST, and ModelSEED genome analysis and
+                                            bacterial modeling servers that have been used by tens of thousands of users
+                                            to annotate and analyze more than 250,000 microbial genomes and metagenomic
+                                            samples.</p>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="thumbnail">
-                                        <img src="images/speakers/Paul_Blase.jpg" alt="Paul Blase">
+                                            <img src="images/speakers/Rick_Stevens.jpg" alt="Rick Stevens">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="media border-bottom p-15 bg-light mb-15">
+                                        <div class="media-left">
+                                            <i class="fa fa-microphone text-theme-colored font-24 mt-5"></i>
+                                        </div>
+                                        <div class="media-body">
+                                            <h5 class="mt-0 mb-0">
+                                                <p>In this talk, I will describe an emerging initiative
+                                                at Argonne National Laboratory to advance the concept of Artificial
+                                                Intelligence (AI) aimed at addressing challenge problems in science. We
+                                                call this initiative <i>“AI for Science”</i>.</p>
+                                                <p>The basic concept is threefold:<br>
+                                                    <ul class="list-border list theme-colored angle-double-right">
+                                                        <li>(1) to identify those scientific problems where existing AI and machine
+                                                        learning methods can have an immediate impact (and organize teams and
+                                                        efforts to realize that impact);</li> 
+                                                        <li>(2) identify areas of where new AI
+                                                        methods are needed to meet the unique needs of science research (frame
+                                                        the problems, develop test cases, and outline work needed to make
+                                                        progress); and</li> 
+                                                        <li>(3) to develop the means to automate scientific
+                                                        experiments, observations, and data generation to accelerate the overall
+                                                        scientific enterprise.</li>
+                                                    </ul>
+                                                </p>
+                                                <p>Science offers plenty of hard problems to
+                                                motivate and drive AI research, from complex multimodal data analysis to
+                                                integration of symbolic and data intensive methods, to coupling
+                                                large-scale simulation and machine learning to drive improved training
+                                                to control and accelerate simulations. A major sub-theme is the idea of
+                                                working toward the automation of scientific discovery through
+                                                integration of machine learning (active learning and reinforcement
+                                                learning) with simulation and automated high-throughput experimental
+                                                laboratories. I will provide some examples of projects underway and
+                                                layout a set of long-term driver problems.</p>
+                                            </h5>
                                         </div>
                                     </div>
                                 </div>

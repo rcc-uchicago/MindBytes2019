@@ -7,7 +7,8 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <meta name="description" content="Mind Bytes 2019 - Research Computing Expo and Symposium" />
-    <meta name="keywords" content="mindbytes, mind bytes, research expo, rcc, uchi, uchicago, computation center, computation, hpc, hpcmatters, research, research computation center, research center, uchicago research, research uchicago" />
+    <meta name="keywords"
+        content="mindbytes, mind bytes, research expo, rcc, uchi, uchicago, computation center, computation, hpc, hpcmatters, research, research computation center, research center, uchicago research, research uchicago" />
     <meta name="author" content="RCC" />
     <!-- Page Title -->
     <title>Resource Fair | Mind Bytes 2019 - Research Computing Expo and Symposium</title>
@@ -55,7 +56,9 @@
     <script type="text/javascript" src="js/jquery-plugin-collection.js"></script>
 
     <!-- Social Sharing Plugin -->
-    <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=58ee69fa62683e0012c461fe&product=inline-share-buttons"></script>
+    <script type="text/javascript"
+        src="//platform-api.sharethis.com/js/sharethis.js#property=58ee69fa62683e0012c461fe&product=inline-share-buttons">
+    </script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -75,7 +78,9 @@
         <!-- Start main-content -->
         <div class="main-content">
             <!-- Section: inner-header -->
-            <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg11.jpg" style="background-image: url(" images/bg/bg11.jpg "); background-position: 50% 0px;">
+            <section class="inner-header divider parallax layer-overlay overlay-dark-5"
+                data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg11.jpg" style="background-image: url("
+                images/bg/bg11.jpg "); background-position: 50% 0px;">
                 <div class="container pt-90 pb-0">
                 </div>
             </section>
@@ -94,7 +99,7 @@
                         </div>
                     </div>
 
-                    <div class="parallax layer-overlay overlay-deep" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg_event.png">
+                    <!-- <div class="parallax layer-overlay overlay-deep" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg_event.png">
                         <div class="container pt-20 pb-20">
                             <div class="section-content">
                                 <div class="row">
@@ -109,209 +114,15 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <!-- <div class="bg-white-light">
+                    <div class="bg-white-light">
                         <div class="container pt-30 pb-0">
                             <div class="section-content">
 
                                 <div class="row ">
                                     <div class="col-md-4">
                                         <div class="card effect__random" data-id="1">
-                                            <div class="card__front bg-theme-colored">
-                                                <div class="card__text">
-                                                    <div class="display-table-parent">
-                                                        <div class="display-table">
-                                                            <div class="display-table-cell">
-                                                                <div class="icon-box mb-0">
-                                                                    <h3 class="icon-box-title text-white">University of Chicago Library</h3>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="card__back" data-bg-color="#e0e0e0">
-                                                <div class="card__text">
-                                                    <div class="display-table-parent p-30">
-                                                        <div class="display-table">
-                                                            <div class="display-table-cell">
-                                                                <p>
-                                                                    <a href="http://www.lib.uchicago.edu/e/index.html" target="_blank"><img class="img-responsive" src="images/fairs/library_logo.png" alt="University of Chicago Library"></a>
-                                                                </p>
-                                                                <a href="http://www.lib.uchicago.edu/e/index.html" target="_blank" class="btn btn-default mt-10"> Read More </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="card effect__random" data-id="2">
-                                            <div class="card__front bg-black-333">
-                                                <div class="card__text">
-                                                    <div class="display-table-parent">
-                                                        <div class="display-table">
-                                                            <div class="display-table-cell">
-                                                                <div class="icon-box mb-0">
-                                                                    <h3 class="icon-box-title text-white">IT Services</h3>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="card__back" data-bg-color="#e0e0e0">
-                                                <div class="card__text">
-                                                    <div class="display-table-parent p-30">
-                                                        <div class="display-table">
-                                                            <div class="display-table-cell">
-                                                                <p>
-                                                                    <a href="https://itservices.uchicago.edu" target="_blank"><img class="img-responsive img-fullwidth" src="images/fairs/itservices_logo.png" alt="ITServices"></a>
-                                                                </p>
-                                                                <a href="https://itservices.uchicago.edu" target="_blank" class="btn btn-default mt-10"> Read More </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="card effect__random" data-id="3">
-                                            <div class="card__front" data-bg-color="#dedede">
-                                                <div class="card__text">
-                                                    <div class="display-table-parent">
-                                                        <div class="display-table">
-                                                            <div class="display-table-cell">
-                                                                <div class="icon-box mb-0">
-                                                                    <h3 class="icon-box-title">OCHRE</h3>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="card__back" data-bg-color="#e0e0e0">
-                                                <div class="card__text">
-                                                    <div class="display-table-parent p-30">
-                                                        <div class="display-table">
-                                                            <div class="display-table-cell">
-                                                                <p>
-                                                                    <a href="https://ochre.uchicago.edu" target="_blank"><img class="img-responsive" src="images/fairs/ochre_logo.png" alt="OCHRE"></a>
-                                                                </p>
-                                                                <a href="https://ochre.uchicago.edu" target="_blank" class="btn btn-default mt-10"> Read More </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="row pt-30">
-                                    <div class="col-md-4">
-                                        <div class="card effect__random" data-id="4">
-                                            <div class="card__front" data-bg-color="#dedede">
-                                                <div class="card__text">
-                                                    <div class="display-table-parent">
-                                                        <div class="display-table">
-                                                            <div class="display-table-cell">
-                                                                <div class="icon-box mb-0">
-                                                                    <h3 class="icon-box-title">The Polsky Center for Entrepreneurship and Innovation</h3>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="card__back" data-bg-color="#e0e0e0">
-                                                <div class="card__text">
-                                                    <div class="display-table-parent p-30">
-                                                        <div class="display-table">
-                                                            <div class="display-table-cell">
-                                                                <p>
-                                                                    <a href="http://polsky.uchicago.edu" target="_blank"><img class="img-responsive img-fullwidth" src="images/fairs/Polsky_logo.png" alt="The Polsky Center for Entrepreneurship and Innovation"></a>
-                                                                </p>
-                                                                <a href="http://polsky.uchicago.edu" target="_blank" class="btn btn-default mt-10"> Read More </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-4">
-                                        <div class="card effect__random" data-id="5">
-                                            <div class="card__front" data-bg-color="#e0e0e0">
-                                                <div class="card__text">
-                                                    <div class="display-table-parent">
-                                                        <div class="display-table">
-                                                            <div class="display-table-cell">
-                                                                <div class="icon-box mb-0">
-                                                                    <h3 class="icon-box-title text-black">High Performance Electrical Neuroimaging Laboratory (HPEN)</h3>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="card__back bg-black-333">
-                                                <div class="card__text">
-                                                    <div class="display-table-parent p-30">
-                                                        <div class="display-table">
-                                                            <div class="display-table-cell">
-                                                                <p>
-                                                                    <a href="https://hpenlaboratory.uchicago.edu/" target="_blank"><img class="img-responsive" src="images/fairs/HPEN_Laboratory_logo.png" alt="High Performance Electrical Neuroimaging Laboratory (HPEN)"></a>
-                                                                </p>
-                                                                <a href="https://hpenlaboratory.uchicago.edu/" target="_blank" class="btn btn-default mt-10"> Read More </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-4">
-                                        <div class="card effect__random" data-id="6">
-                                            <div class="card__front bg-theme-colored">
-                                                <div class="card__text">
-                                                    <div class="display-table-parent">
-                                                        <div class="display-table">
-                                                            <div class="display-table-cell">
-                                                                <div class="icon-box mb-0">
-                                                                    <h3 class="icon-box-title text-white">RCC-GIS</h3>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="card__back" data-bg-color="#e0e0e0">
-                                                <div class="card__text">
-                                                    <div class="display-table-parent p-30">
-                                                        <div class="display-table">
-                                                            <div class="display-table-cell">
-                                                                <p>
-                                                                    <a href="https://gis.rcc.uchicago.edu/" target="_blank"><img class="img-responsive" src="images/fairs/RCC-GIS.png" alt="RCC-GIS"></a>
-                                                                </p>
-                                                                <a href="https://gis.rcc.uchicago.edu/" target="_blank" class="btn btn-default mt-10"> Read More </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="row pt-30 pb-30">
-                                    <div class="col-md-4 col-md-push-4">
-                                        <div class="card effect__random" data-id="7">
                                             <div class="card__front bg-theme-colored">
                                                 <div class="card__text">
                                                     <div class="display-table-parent">
@@ -331,9 +142,429 @@
                                                         <div class="display-table">
                                                             <div class="display-table-cell">
                                                                 <p>
-                                                                    <a href="https://www.globus.org" target="_blank"><img class="img-responsive" src="images/fairs/globus_logo.png" alt="Globus"></a>
+                                                                    <a href="https://www.globus.org"
+                                                                        target="_blank"><img class="img-responsive"
+                                                                            src="images/fairs/globus_logo.png"
+                                                                            alt="Globus"></a>
                                                                 </p>
-                                                                <a href="https://www.globus.org" target="_blank" class="btn btn-default mt-10"> Read More </a>
+                                                                <a href="https://www.globus.org" target="_blank"
+                                                                    class="btn btn-default mt-10"> Read More </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="card effect__random" data-id="2">
+                                            <div class="card__front" data-bg-color="#dedede">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <div class="icon-box mb-0">
+                                                                    <h3 class="icon-box-title">Google Cloud</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card__back" data-bg-color="#e0e0e0">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent p-30">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <p>
+                                                                    <a href="https://cloud.google.com/"
+                                                                        target="_blank"><img
+                                                                            class="img-responsive img-fullwidth"
+                                                                            src="images/fairs/google_cloud.png"
+                                                                            alt="Cloud Computing Services &nbsp;|&nbsp; Google Cloud"></a>
+                                                                </p>
+                                                                <a href="https://cloud.google.com/" target="_blank"
+                                                                    class="btn btn-default mt-10"> Read More </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="card effect__random" data-id="3">
+                                            <div class="card__front" data-bg-color="#dedede">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <div class="icon-box mb-0">
+                                                                    <h3 class="icon-box-title">Institutional Review
+                                                                        Board</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card__back" data-bg-color="#e0e0e0">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent p-30">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <p>
+                                                                    <a href="https://sbsirb.uchicago.edu/"
+                                                                        target="_blank"><img
+                                                                            class="img-responsive img-fullwidth"
+                                                                            src="images/fairs/sbsirb_uchicago.png"
+                                                                            alt="Institutional Review Board"></a>
+                                                                </p>
+                                                                <a href="https://sbsirb.uchicago.edu/" target="_blank"
+                                                                    class="btn btn-default mt-10"> Read More </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row pt-30">
+                                    <div class="col-md-4">
+                                        <div class="card effect__random" data-id="4">
+                                            <div class="card__front" data-bg-color="#dedede">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <div class="icon-box mb-0">
+                                                                    <h3 class="icon-box-title">Knowledge Lab</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card__back" data-bg-color="#e0e0e0">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent p-30">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <p>
+                                                                    <a href="http://www.knowledgelab.org"
+                                                                        target="_blank"><img
+                                                                            class="img-responsive img-fullwidth"
+                                                                            src="images/fairs/kl_wordmark.png"
+                                                                            alt="Knowledge Lab"></a>
+                                                                </p>
+                                                                <a href="http://www.knowledgelab.org" target="_blank"
+                                                                    class="btn btn-default mt-10"> Read More </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-4">
+                                        <div class="card effect__random" data-id="5">
+                                            <div class="card__front" data-bg-color="#dedede">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <div class="icon-box mb-0">
+                                                                    <h3 class="icon-box-title">The Polsky Center for
+                                                                        Entrepreneurship and Innovation</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card__back" data-bg-color="#e0e0e0">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent p-30">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <p>
+                                                                    <a href="http://polsky.uchicago.edu"
+                                                                        target="_blank"><img
+                                                                            class="img-responsive img-fullwidth"
+                                                                            src="images/fairs/Polsky_logo.png"
+                                                                            alt="The Polsky Center for Entrepreneurship and Innovation"></a>
+                                                                </p>
+                                                                <a href="http://polsky.uchicago.edu" target="_blank"
+                                                                    class="btn btn-default mt-10"> Read More </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-4">
+                                        <div class="card effect__random" data-id="6">
+                                            <div class="card__front" data-bg-color="#dedede">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <div class="icon-box mb-0">
+                                                                    <h3 class="icon-box-title">MADD Center</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card__back" data-bg-color="#e0e0e0">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent p-30">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <p>
+                                                                    <a href="https://arts.uchicago.edu/explore/initiatives/media-arts-data-and-design-center-madd-center"
+                                                                        target="_blank">
+                                                                        <img class="img-responsive"
+                                                                            src="images/fairs/MADD_Center.jpg"
+                                                                            alt="MADD Center" style="height: 200px; width: 300px;"></a>
+                                                                </p>
+                                                                <a href="https://arts.uchicago.edu/explore/initiatives/media-arts-data-and-design-center-madd-center"
+                                                                    target="_blank" class="btn btn-default mt-10"> Read
+                                                                    More </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row pt-30 pb-30">
+                                    <div class="col-md-4">
+                                        <div class="card effect__random" data-id="7">
+                                            <div class="card__front" data-bg-color="#dedede">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <div class="icon-box mb-0">
+                                                                    <h3 class="icon-box-title">OCHRE</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card__back" data-bg-color="#e0e0e0">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent p-30">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <p>
+                                                                    <a href="https://ochre.uchicago.edu"
+                                                                        target="_blank"><img class="img-responsive"
+                                                                            src="images/fairs/OCHRE_logo.png"
+                                                                            alt="OCHRE"></a>
+                                                                </p>
+                                                                <a href="https://ochre.uchicago.edu" target="_blank"
+                                                                    class="btn btn-default mt-10"> Read More </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-4">
+                                        <div class="card effect__random" data-id="8">
+                                            <div class="card__front bg-black-333">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <div class="icon-box mb-0">
+                                                                    <h3 class="icon-box-title text-white">Research
+                                                                        Computing Center</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card__back" data-bg-color="#e0e0e0">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent p-30">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <p>
+                                                                    <a href="https://rcc.uchicago.edu"
+                                                                        target="_blank"><img
+                                                                            class="img-responsive img-fullwidth"
+                                                                            src="images/fairs/RCC.png"
+                                                                            alt="Research Computing Center"></a>
+                                                                </p>
+                                                                <a href="https://rcc.uchicago.edu" target="_blank"
+                                                                    class="btn btn-default mt-10"> Read More </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-4">
+                                        <div class="card effect__random" data-id="9">
+                                            <div class="card__front bg-black-333">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <div class="icon-box mb-0">
+                                                                    <h3 class="icon-box-title text-white">Research
+                                                                        Computing Center – Geographic Information
+                                                                        Systems</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card__back" data-bg-color="#e0e0e0">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent p-30">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <p>
+                                                                    <a href="https://gis.rcc.uchicago.edu/"
+                                                                        target="_blank"><img
+                                                                            class="img-responsive img-fullwidth"
+                                                                            src="images/fairs/RCC-GIS.png"
+                                                                            alt="Research Computing Center – Geographic Information Systems"></a>
+                                                                </p>
+                                                                <a href="https://gis.rcc.uchicago.edu/" target="_blank"
+                                                                    class="btn btn-default mt-10"> Read More </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row pt-30 pb-30">
+                                    <div class="col-md-4">
+                                        <div class="card effect__random" data-id="10">
+                                            <div class="card__front" data-bg-color="#dedede">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <div class="icon-box mb-0">
+                                                                    <h3 class="icon-box-title">Secure Data Enclave</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card__back" data-bg-color="#e0e0e0">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent p-30">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <p>
+                                                                    <a href="https://securedata.uchicago.edu"
+                                                                        target="_blank"><img class="img-responsive"
+                                                                            src="images/fairs/sde_wordmark.svg"
+                                                                            alt="Secure Data Enclave"></a>
+                                                                </p>
+                                                                <a href="https://securedata.uchicago.edu"
+                                                                    target="_blank" class="btn btn-default mt-10"> Read
+                                                                    More </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-4">
+                                        <div class="card effect__random" data-id="11">
+                                            <div class="card__front bg-theme-colored">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <div class="icon-box mb-0">
+                                                                    <h3 class="icon-box-title text-white">University of
+                                                                        Chicago Library</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card__back" data-bg-color="#e0e0e0">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent p-30">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <p>
+                                                                    <a href="https://www.lib.uchicago.edu/"
+                                                                        target="_blank"><img class="img-responsive"
+                                                                            src="images/fairs/library_logo.png"
+                                                                            alt="University of Chicago Library"></a>
+                                                                </p>
+                                                                <a href="https://www.lib.uchicago.edu/" target="_blank"
+                                                                    class="btn btn-default mt-10"> Read More </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-4">
+                                        <div class="card effect__random" data-id="12">
+                                            <div class="card__front" data-bg-color="#dedede">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <div class="icon-box mb-0">
+                                                                    <h3 class="icon-box-title">University Research
+                                                                        Administration</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card__back" data-bg-color="#e0e0e0">
+                                                <div class="card__text">
+                                                    <div class="display-table-parent p-30">
+                                                        <div class="display-table">
+                                                            <div class="display-table-cell">
+                                                                <p>
+                                                                    <a href="https://ura.uchicago.edu/"
+                                                                        target="_blank"><img class="img-responsive"
+                                                                            src="images/fairs/ura_uchicago.png"
+                                                                            alt="University Research Administration"></a>
+                                                                </p>
+                                                                <a href="https://ura.uchicago.edu/" target="_blank"
+                                                                    class="btn btn-default mt-10"> Read More </a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -345,17 +576,21 @@
 
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                 </section>
 
                 <!-- divider: what makes us different -->
-                <section class="divider parallax layer-overlay overlay-light" data-stellar-background-ratio="0.5" data-bg-img="images/bg/rise_hands.png">
+                <section class="divider parallax layer-overlay overlay-light" data-stellar-background-ratio="0.5"
+                    data-bg-img="images/bg/rise_hands.png">
                     <div class="container">
                         <div class="section-content text-center">
                             <div class="row">
                                 <div class="col-md-12">
                                     <h3 class="mt-0">Still have questions?</h3>
-                                    <h2>Call at <span class="text-theme-colored">773.795.2667</span><br>Email us at <a class="text-theme-colored" href="mailto:events@rcc.uchicago.edu?Subject=Question%20regarding%20Mind%20Bytes%202019" target="_top">events@rcc.uchicago.edu</a></h2>
+                                    <h2>Call at <span class="text-theme-colored">773.795.2667</span><br>Email us at <a
+                                            class="text-theme-colored"
+                                            href="mailto:events@rcc.uchicago.edu?Subject=Question%20regarding%20Mind%20Bytes%202019"
+                                            target="_top">events@rcc.uchicago.edu</a></h2>
                                 </div>
                             </div>
                         </div>
@@ -382,7 +617,7 @@
          *
          */
 
-        (function() {
+        (function () {
             var cards = document.querySelectorAll(".card.effect__click");
             for (var i = 0, len = cards.length; i < len; i++) {
                 var card = cards[i];
@@ -390,7 +625,7 @@
             }
 
             function clickListener(card) {
-                card.addEventListener("click", function() {
+                card.addEventListener("click", function () {
                     var c = this.classList;
                     c.contains("flipped") === true ? c.remove("flipped") : c.add("flipped");
                 });
@@ -402,7 +637,7 @@
          *
          */
 
-        (function() {
+        (function () {
 
             // cache vars
             var cards = document.querySelectorAll(".card.effect__random");
@@ -424,7 +659,7 @@
                 if (id in timeouts) {
                     clearTimeout(timeouts[id]);
                 }
-                timeouts[id] = setTimeout(function() {
+                timeouts[id] = setTimeout(function () {
                     var c = card.classList;
                     var newTime = randomNum(timeMin, timeMax) * 1000;
                     c.contains("flipped") === true ? c.remove("flipped") : c.add("flipped");

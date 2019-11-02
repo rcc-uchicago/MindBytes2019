@@ -166,25 +166,7 @@
                                         <p class="text-justify">Matthew Stephens’ lab works on a wide variety of problems at the interface of Statistics and Genetics. They often tackle problems where novel statistical methods are required, or can learn something new compared with existing approaches. Thus, much of their research involves developing new statistical methodology, many of which have a non-trivial computational component. People in his lab tend to come from a quantitative background (e.g., Math, Statistics, Computer Science), with varying levels of formal or informal Biology training.</p>
                                         <p class="text-justify">His lab is located in the department of Human Genetics, in recently-renovated computational space shared with the labs of John Novembre and Xin He. The groups interact with one another continuously, with students and postdocs from different groups sharing offices. They think this is a great place to go and do research, and are very proud of what they have going on.</p>
                                     </div>
-                                </div>
-
-                                <!-- <div class="separator separator-rouned">
-                                    <i class="fa fa-cog fa-spin"></i>
-                                </div>
-
-                                <div class="row equal-height pt-20 pb-0" id="Diane">                                    
-                                    <div class="col-md-8">
-                                        <h3 class="title">The SAGA Project: Making sign language and gesture research more accessible.</h3>
-                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Diane Brentari</h3>
-                                        <h6 class="text-gray mt-0">Mary K. Werkman Professor</h6>
-                                        <p class="text-justify">Brentari's work has primarily focused on sign language phonology as a way to understand the effects of communication mode (or modality) on language, as well as the flexibility of the human language capacity in constructing spoken, signed, and protactile languages. Her current research involves language variation among sign languages, and how the mental lexicon emerges in historical time, which includes the relationship between gesture, emerging sign languages systems, and well-established sign languages.  She is one of three Directors of the Center for Gesture, Sign and Language.</p>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="thumbnail">
-                                        <img src="images/speakers/diane_brentari.jpg" alt="Diane Brentari">
-                                        </div>
-                                    </div>
-                                </div> -->
+                                </div>                                
 
                                 <div class="separator separator-rouned">
                                     <i class="fa fa-cog fa-spin"></i>
@@ -192,7 +174,7 @@
 
                                 <div class="row equal-height pt-20 pb-0" id="Tobin">
                                     <div class="col-md-8">
-                                        <h3 class="title"></h3>
+                                        <h3 class="title">How to Fold a Protein in a CPU-Hour Rather than a CPU-Month</h3>
                                         <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Tobin Sosnick</h3>
                                         <h6 class="text-gray mt-0">Department Chair and Professor</h6>
                                         <p class="text-justify">Prof. Sosnick received his Ph.D. in low-temperature physics from Harvard University in 1989. He transitioned to biophysics during his post-doctoral training with SW Englander (UPENN) and J Trewhella (Los Alamos National Lab) where he applied hydrogen exchange, NMR and small-angle X-ray scattering methods to study protein folding. During his 23 years at the University of Chicago, his lab has conducted experimental and computational studies of protein and RNA folding, as well as protein design using light-sensitive proteins (optogenetics). He is a strong believer in collaboration, having co-mentored over 25 trainees. Recent collaborations have focused on the folding of membrane proteins, protein phase separation under cellular stress, properties of denatured states, simulations of force-induced unfolding, the design of light-controlled motor proteins, and mechanisms underlying phosphorylation-based signaling. For the past 8 years, Prof. Sosnick has been chair of the Department of Biochemistry and Molecular Biology. In addition, he is the co-founder and co-director of the Graduate Program in Biophysical Sciences, a unique dual-mentored graduate training program involving faculty from both the Biological and Physical Science Divisions.</p>
@@ -202,7 +184,43 @@
                                             <img src="images/speakers/Tobin_Sosnick.png" alt="Tobin Sosnick">
                                         </div>
                                     </div>                                                                      
-                                </div>                                
+                                </div>
+
+                                <div class="separator separator-rouned">
+                                    <i class="fa fa-cog fa-spin"></i>
+                                </div>
+
+                                <div class="row equal-height pt-20 pb-0" id="David">
+                                    <div class="col-md-4">
+                                        <div class="thumbnail">
+                                        <img src="images/speakers/david_schloen.jpg" alt="David Schloen">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-8">
+                                        <h3 class="title">Managing Diverse Data in Space and Time Using the OCHRE Digital Platform</h3>
+                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">David Schloen</h3>
+                                        <h6 class="text-gray mt-0">Professor of Near Eastern Archaeology</h6>
+                                        <p class="text-justify">David Schloen is a Professor of Near Eastern Archaeology in the Oriental Institute and Dept. of Near Eastern Languages and Civilizations, and also Faculty Director of the M.A. Program in Digital Studies of Language, Culture, and History. His research involves archaeological excavations at Bronze and Iron Age sites in the Middle East, in Turkey and Israel, in order to investigate the social organization and cultural development of the earliest literate civilizations. His early training was in computer science and he has a longstanding interest in the application of computational methods in archaeology and in historical and cultural studies more broadly. This has led to the creation of an innovative computational platform called OCHRE—an Online Cultural and Historical Research Environment—which is currently used by more than 50 research projects at a dozen different universities.</p>
+                                    </div>                                    
+                                </div>
+
+                                <div class="separator separator-rouned">
+                                    <i class="fa fa-cog fa-spin"></i>
+                                </div>
+
+                                <div class="row equal-height pt-20 pb-0" id="Cacioppo">                                                                  
+                                    <div class="col-md-8">
+                                        <h3 class="title">Rethinking Brain Dynamics</h3>
+                                        <h3 class="text-uppercase text-gray-darkgray mb-0 mt-0">Stephanie Cacioppo</h3>
+                                        <h6 class="text-gray mt-0">Assistant Professor, Department of Psychiatry and Behavioral Neuroscience; Director, Brain Dynamics Laboratory</h6>
+                                        <p class="text-justify">Dr. Cacioppo received her Ph.D. from the Department of Neurology at the Geneva University Medical School (Switzerland) and the Department of Psychology at the University of Savoy (France) in 2004. She currently serves as an Assistant Professor of Psychiatry and Behavioral Neuroscience, The Division of Biological Sciences, at the University of Chicago and directs the Brain Dynamics Laboratory at the Center for Cognitive and Social Neuroscience (CCSN). Author of two books and more than 120 scientific articles (current h-index: 39), her general research area is at the intersection of social neuroscience, medicine and cognitive pyschology in health and neurological disease.</p>
+                                    </div>    
+                                    <div class="col-md-4">
+                                        <div class="thumbnail">
+                                        <img src="images/speakers/stephanie_cacioppo.png" alt="Stephanie Cacioppo">
+                                        </div>
+                                    </div>                                  
+                                </div>
 
                             </div>
                         </div>

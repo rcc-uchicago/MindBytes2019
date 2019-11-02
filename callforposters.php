@@ -106,10 +106,10 @@
                     <div class="container pt-20 pb-40">
                         <div class="row contact-wrap wow bounceInUp center pt-30">
                             <div class="col-md-6 col-md-offset-3">
-                                <div class="alert alert-success wow zoomIn" data-wow-duration="1s"
+                                <div class="alert alert-danger wow zoomIn" data-wow-duration="1s"
                                     data-wow-offset="100">
                                     <h3 class="text-center"><b>Poster submission is now <span
-                                                style="background-color:#d9edf7;">OPEN!</span></b></h3>
+                                                style="background-color:yellow">CLOSED!</span></b></h3>
                                 </div>
                             </div>
                         </div>
@@ -148,11 +148,11 @@
                                                     research.</p>
                                             </div>
                                         </div>
-                                        <div class="row pl-20 pr-20 pt-5">
+                                        <!-- <div class="row pl-20 pr-20 pt-5">
                                             <p class="text-justify"><i class="fa fa-info-circle fa-lg"></i> Did you
                                                 submit a poster at last year's Mind Bytes? That's <b>OK</b>. Update your
                                                 poster with your new findings/data and participate again.</p>
-                                        </div>
+                                        </div> -->
                                     </div>
                                     <div class="tab-pane fade" id="tab4">
                                         <div class="row">
@@ -200,11 +200,11 @@
                                                 <!-- <p class="text-justify"><b><i class="pe-7s-target fa-lg"></i> Poster submissions will open soon.</b></p> -->
                                                 <p class="text-justify"><b>Poster submission begins:</b> September 6,
                                                     2019.</p>
-                                                <p class="text-justify"><b>Poster submission due date:</b> October 25,
+                                                <p class="text-justify"><b>Poster submission due date:</b> October 28,
                                                     2019 5PM CST.</p>
-                                                <p class="text-justify">Click <a href="submission.php"
+                                                <!-- <p class="text-justify">Click <a href="#"
                                                         class="text-theme-colored text-uppercase"><u>Here</u></a> to
-                                                    submit.</p>
+                                                    submit.</p> -->
                                             </div>
                                         </div>
                                     </div>
@@ -302,8 +302,7 @@
                                                     resources in novel ways.</p>
                                                 <!-- <p class="text-justify">Poster prizes: <b>iPad</b>, <b>Amazon Echo</b>, and
                                                 <b>External Hard Drives</b></p> -->
-                                                <p class="text-justify"><b><i class="pe-7s-target fa-lg"></i> Prizes
-                                                        will be announced soon.</b></p>
+                                                <p class="text-justify"><b><i class="pe-7s-target fa-lg"></i> This year the prize for the winning poster in each category is an Oculus Go headset.</b></p>
                                             </div>
                                         </div>
                                     </div>
@@ -317,7 +316,7 @@
                                             <h4 class="list-group-item-heading">Important Dates</h4>
                                         </a>
 
-                                        <a class="list-group-item list-group-item-info" href="submission.php">
+                                        <a class="list-group-item list-group-item-info" href="#">
                                             <h4 class="list-group-item-heading">Poster submission begins:</h4>
                                             <p class="list-group-item-text">September 6, 2019</p>
                                         </a>
@@ -325,26 +324,26 @@
                                             <h4 class="list-group-item-heading">Registration begins:</h4>
                                             <p class="list-group-item-text">September 23, 2019</p>
                                         </a>
-                                        <a class="list-group-item list-group-item-danger" href="submission.php">
+                                        <a class="list-group-item list-group-item-danger" href="#">
                                             <h4 class="list-group-item-heading">Poster submission deadline:</h4>
-                                            <p class="list-group-item-text">October 25, 2019 5PM CST</p>
+                                            <p class="list-group-item-text">October 28, 2019 5PM CST</p>
                                         </a>
+                                    </div>
+                                </div>
+
+                                <div class="row mb-15">
+                                    <div class="hero-buttonwrapper">
+                                        <a class="hero-btn" href="gallery.php"><span>Mind Bytes 2019 poster submissions
+                                                <i class="fa fa-file-pdf-o"></i></span></a>
                                     </div>
                                 </div>
 
                                 <!-- <div class="row mb-15">
                                     <div class="hero-buttonwrapper">
-                                        <a class="hero-btn" href="gallery.php"><span>Mind Bytes 2019 poster submissions
-                                                <i class="fa fa-file-pdf-o"></i></span></a>
-                                    </div>
-                                </div> -->
-
-                                <div class="row mb-15">
-                                    <div class="hero-buttonwrapper">
-                                        <a class="hero-btn" href="submission.php"><span>Submit your Poster <i
+                                        <a class="hero-btn" href="#"><span>Submit your Poster <i
                                                     class="fa fa-file-pdf-o"></i></span></a>
                                     </div>
-                                </div>
+                                </div> -->
 
                             </div>
                         </div>
@@ -379,7 +378,7 @@
                             </script>
                         </div>-->
                     <!--<div class="col-md-6 col-md-offset-3 pt-10 text-center">
-                                <a href="submission.php" class="btn btn-colored btn-theme-colored btn-lg text-uppercase hvr-float-shadow">Submit your Poster <i class="fa fa-file-pdf-o"></i></a>
+                                <a href="#" class="btn btn-colored btn-theme-colored btn-lg text-uppercase hvr-float-shadow">Submit your Poster <i class="fa fa-file-pdf-o"></i></a>
                                 <a href="https://universityevents.wufoo.com/forms/wyppvmp1d4j82n/" class="btn btn-border btn-theme-colored btn-lg text-uppercase">Register Now</a>
                             </div>-->
                     <!--</div>

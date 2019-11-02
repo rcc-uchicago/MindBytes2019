@@ -320,7 +320,23 @@
                                                     style="z-index: 10; white-space: nowrap; font-size: 25px; line-height: 25px; font-weight: 400; color: rgba(255,255,255,1);font-family:Georgia, serif;font-style:italic;">
                                                     or </div>
 
-                                                <a href="submission.php" target="_self"
+                                                <a href="gallery.php" target="_self"
+                                                    class="tp-caption rev-btn tp-resizeme" id="slide-1-layer-7"
+                                                    data-x="['left','left','center','center']"
+                                                    data-hoffset="['660','550','0','0']"
+                                                    data-y="['middle','middle','middle','middle']"
+                                                    data-voffset="['320','240','224','207']" data-width="none"
+                                                    data-height="none" data-whitespace="nowrap" data-type="button"
+                                                    data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]'
+                                                    data-responsive_offset="on"
+                                                    data-frames='[{"from":"x:50px;opacity:0;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"150","ease":"Power2.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:transparent;bw:2px 2px 2px 2px;"}]'
+                                                    data-textAlign="['left','left','left','left']"
+                                                    data-paddingtop="[0,0,0,0]" data-paddingright="[50,50,50,50]"
+                                                    data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
+                                                    style="z-index: 11; white-space: nowrap; font-size: 15px; line-height: 46px; font-weight: 700; color: rgba(255,255,255,1);font-family:Arial, Helvetica, sans-serif;border-color:rgba(255,255,255,0.25);border-style:solid;border-width:2px;border-radius:4px 4px 4px 4px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:5px;cursor:pointer;">Submitted Posters
+                                                </a>
+
+                                                <!-- <a href="submission.php" target="_self"
                                                     class="tp-caption rev-btn tp-resizeme" id="slide-1-layer-7"
                                                     data-x="['left','left','center','center']"
                                                     data-hoffset="['660','550','0','0']"
@@ -334,7 +350,7 @@
                                                     data-paddingtop="[0,0,0,0]" data-paddingright="[50,50,50,50]"
                                                     data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
                                                     style="z-index: 11; white-space: nowrap; font-size: 15px; line-height: 46px; font-weight: 700; color: rgba(255,255,255,1);font-family:Arial, Helvetica, sans-serif;border-color:rgba(255,255,255,0.25);border-style:solid;border-width:2px;border-radius:4px 4px 4px 4px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:5px;cursor:pointer;">SUBMIT
-                                                    YOUR POSTER</a>
+                                                    YOUR POSTER</a> -->
 
                                                 <!--<a href="registration.php" target="_self" class="tp-caption rev-btn tp-resizeme" id="slide-1-layer-5" data-x="['left','left','center','center']" data-hoffset="['660','550','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['320','240','224','207']"
                                     data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]' data-responsive_offset="on" data-frames='[{"from":"x:50px;opacity:0;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"150","ease":"Power2.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:transparent;bw:2px 2px 2px 2px;"}]'
@@ -528,7 +544,7 @@
                                                     </div>
                                                 </div>
 
-                                                <a href="callforposters.php" target="_self"
+                                                <!-- <a href="callforposters.php" target="_self"
                                                     class="tp-caption Newspaper-Button tp-resizeme"
                                                     id="slide-2-layer-16" data-x="['right','right','center','center']"
                                                     data-hoffset="['660','550','0','0']"
@@ -542,7 +558,22 @@
                                                     data-paddingtop="[10,10,10,10]" data-paddingright="[35,35,35,35]"
                                                     data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]"
                                                     style="z-index: 11; white-space: nowrap;text-transform:left;border-color:rgba(255,255,255,0.75);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">CALL
-                                                    FOR POSTERS</a>
+                                                    FOR POSTERS</a> -->
+                                                
+                                                <a href="gallery.php" target="_self"
+                                                    class="tp-caption Newspaper-Button tp-resizeme"
+                                                    id="slide-2-layer-16" data-x="['right','right','center','center']"
+                                                    data-hoffset="['660','550','0','0']"
+                                                    data-y="['middle','middle','middle','middle']"
+                                                    data-voffset="['350','240','100','83']" data-width="none"
+                                                    data-height="none" data-whitespace="nowrap" data-type="button"
+                                                    data-actions='[{"offset":"px","delay":"","speed":"300","ease":"Linear.easeNone"}]'
+                                                    data-responsive_offset="on" data-responsive="on"
+                                                    data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:50px;opacity:0;","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:rgba(255,255,255,1);bw:1px 1px 1px 1px;"}]'
+                                                    data-textAlign="['left','left','left','left']"
+                                                    data-paddingtop="[10,10,10,10]" data-paddingright="[35,35,35,35]"
+                                                    data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]"
+                                                    style="z-index: 11; white-space: nowrap;text-transform:left;border-color:rgba(255,255,255,0.75);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">SUBMITTED POSTERS</a>
 
                                                 <a href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/"
                                                     target="_blank" class="tp-caption Newspaper-Button tp-resizeme"
@@ -1025,9 +1056,11 @@
 
                                 <div class="hero-buttonwrapper">
                                     <a class="hero-btn" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/" target="_blank"><span>Register Now <i class="fa fa-arrow-circle-o-right"></i></span></a>
-                                    <a class="hero-btn" href="submission.php"><span>Submit your Poster <i class="fa fa-file-pdf-o"></i></span></a>                                   
-                                    <a class="btn btn-colored btn-gray btn-xl text-uppercase mt-30" href="program.php" target="_blank"><i class="fa fa-eye" aria-hidden="true"></i> See Event
-                                    Schedule</a>
+                                    <!-- <a class="hero-btn" href="submission.php"><span>Submit your Poster <i class="fa fa-file-pdf-o"></i></span></a> -->
+                                    <a class="hero-btn" href="program.php"><span><i class="fa fa-eye" aria-hidden="true"></i> See Event Schedule</span></a>                                
+                                    <!-- <a class="btn btn-colored btn-gray btn-xl text-uppercase mt-30" href="program.php" target="_blank"><i class="fa fa-eye" aria-hidden="true"></i> See Event
+                                    Schedule</a> -->
+                                    <a class="btn btn-colored btn-gray btn-xl text-uppercase mt-30" href="gallery.php" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Mind Bytes 2019 poster submissions</a>
                                 </div>
                                 <!-- <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase smooth-scroll font-13 mt-10"
                                     href="program.php"><i class="fa fa-eye" aria-hidden="true"></i> Event
@@ -1287,28 +1320,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                                <!-- <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
-                                    <div class="team-member clearfix">
-                                        <div class="team-thumb"><img alt="Diane Brentari"
-                                                src="images/speakers/slider/diane_brentari.jpg" class="img-fullwidth">
-                                        </div>
-                                        <div class="overlay">
-                                            <div class="content text-center">
-                                                <h4 class="author mb-0"><a href="lightningtalks.php#Diane">Diane
-                                                        Brentari</a></h4>
-                                                <h6 class="title text-gray font-14 mt-5 mb-15">Mary K. Werkman Professor
-                                                </h6>
-                                                <blockquote>
-                                                    <p>
-                                                        <h5 class="title">The SAGA Project: Making sign language and
-                                                            gesture research more accessible.</h5>
-                                                    </p>
-                                                </blockquote>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> -->
+                                </div>                                
                                 <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
                                         <div class="team-thumb"><img alt="Tobin Sosnick"
@@ -1322,7 +1334,45 @@
                                                     Professor</h6>
                                                 <blockquote>
                                                     <p>
-                                                        <h5 class="title"></h5>
+                                                        <h5 class="title">How to Fold a Protein in a CPU-Hour Rather than a CPU-Month</h5>
+                                                    </p>
+                                                </blockquote>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
+                                    <div class="team-member clearfix">
+                                        <div class="team-thumb"><img alt="David Schloen"
+                                                src="images/speakers/slider/david_schloen.jpg" class="img-fullwidth">
+                                        </div>
+                                        <div class="overlay">
+                                            <div class="content text-center">
+                                                <h4 class="author mb-0"><a href="lightningtalks.php#David">David Schloen</a></h4>
+                                                <h6 class="title text-gray font-14 mt-5 mb-15">Professor of Near Eastern Archaeology</h6>
+                                                <blockquote>
+                                                    <p>
+                                                        <h5 class="title">Managing Diverse Data in Space and Time Using the OCHRE Digital Platform</h5>
+                                                    </p>
+                                                </blockquote>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
+                                    <div class="team-member clearfix">
+                                        <div class="team-thumb"><img alt="Stephanie Cacioppo"
+                                                src="images/speakers/slider/stephanie_cacioppo.jpg" class="img-fullwidth">
+                                        </div>
+                                        <div class="overlay">
+                                            <div class="content text-center">
+                                                <h4 class="author mb-0"><a href="lightningtalks.php#Cacioppo">Stephanie Cacioppo</a></h4>
+                                                <h6 class="title text-gray font-14 mt-5 mb-15">Assistant Professor, Department of Psychiatry and Behavioral Neuroscience; Director, Brain Dynamics Laboratory</h6>
+                                                <blockquote>
+                                                    <p>
+                                                        <h5 class="title">Rethinking Brain Dynamics</h5>
                                                     </p>
                                                 </blockquote>
                                             </div>
@@ -1406,8 +1456,8 @@
                             <!--<h3 class="text-gray-darkgray mt-0">Registration opens on Feb 19, 2018.</h3>-->
                         </div>
                         <div class="hero-buttonwrapper">
-                            <a class="hero-btn" href="submission.php"><span>Submit your Poster <i
-                                        class="fa fa-file-pdf-o"></i></span></a>
+                            <!-- <a class="hero-btn" href="submission.php"><span>Submit your Poster <i
+                                        class="fa fa-file-pdf-o"></i></span></a> -->
                             <a class="hero-btn" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/"
                                 target="_blank"><span>Register Now <i class="fa fa-arrow-circle-o-right"></i></span></a>
                             <!--<a class="btn btn-colored btn-gray btn-xl text-uppercase mt-30" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/" target="_blank">Register Now</a>-->
