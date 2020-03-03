@@ -6,11 +6,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Mind Bytes 2019 - Research Computing Expo and Symposium" />
+    <meta name="description" content="Mind Bytes 2020 - Research Computing Expo and Symposium" />
     <meta name="keywords" content="mindbytes, mind bytes, research expo, rcc, uchi, uchicago, computation center, computation, hpc, hpcmatters, research, research computation center, research center, uchicago research, research uchicago" />
     <meta name="author" content="RCC" />
     <!-- Page Title -->
-    <title>FAQ | Mind Bytes 2019 - Research Computing Expo and Symposium</title>
+    <title>FAQ | Mind Bytes 2020 - Research Computing Expo and Symposium</title>
     <!-- Favicon and Touch Icons -->
     <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
 
@@ -161,7 +161,7 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <h3 class="mt-0">Still have questions?</h3>
-                                    <h2>Call at <span class="text-theme-colored">773.795.2667</span><br>Email us at <a class="text-theme-colored" href="mailto:events@rcc.uchicago.edu?Subject=Question%20regarding%20Mind%20Bytes%202019" target="_top">events@rcc.uchicago.edu</a></h2>
+                                    <h2>Call at <span class="text-theme-colored">773.795.2667</span><br>Email us at <a class="text-theme-colored" href="mailto:events@rcc.uchicago.edu?Subject=Question%20regarding%20Mind%20Bytes%202020" target="_top">events@rcc.uchicago.edu</a></h2>
                                 </div>
                             </div>
                         </div>

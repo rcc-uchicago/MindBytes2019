@@ -13,7 +13,7 @@
     <div class="header-nav-wrapper">
         <div class="container">
             <nav id="menuzord-right" class="menuzord green">
-                <a class="menuzord-brand pull-left flip" href="./"><img src="images/logo_RCC.png" alt="Mind Bytes 2019 - Research Computing Expo and Symposium" class="img-responsive"></a>
+                <a class="menuzord-brand pull-left flip" href="./"><img src="images/logo_RCC.png" alt="Mind Bytes 2020 - Research Computing Expo and Symposium" class="img-responsive"></a>
                 <ul class="menuzord-menu">
                     <li><a href="./">Home</a></li>
                     <li><a href="registration.php">Register</a></li>

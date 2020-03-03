@@ -60,7 +60,7 @@ if ($_POST["g-recaptcha-response"]) {
     /*$value = '02232018180154_hw1.pdf';
     $mail->addAttachment($output_dir.$value, $value); */
 
-    $mail->setFrom('events@rcc.uchicago.edu', 'Mind Bytes 2019');
+    $mail->setFrom('events@rcc.uchicago.edu', 'Mind Bytes 2020');
     $mail->addAddress('appdev@rcc.uchicago.edu', 'RCC App Dev Team'); //'appdev@rcc.uchicago.edu';
 
     $mail->addBCC($email, $name);
@@ -70,7 +70,7 @@ if ($_POST["g-recaptcha-response"]) {
     $mail->addCC('cc@example.com');
     $mail->addBCC('bcc@example.com');*/
 
-    $mail->Subject = "Mind Bytes 2019 Contact Information : " . $name . " requested a contact";
+    $mail->Subject = "Mind Bytes 2020 Contact Information : " . $name . " requested a contact";
     $mail->Body = "<b>Full Name:</b> " . $name . "<br><b>Email:</b> " . $email . "<br><b>Subject:</b> " . $subject . "<br><b>Phone:</b> " . $phone . "<br><b>Message:</b> " . $message;
 
     /*$mail->AltBody = 'This is the body in plain text for non-HTML mail clients';*/

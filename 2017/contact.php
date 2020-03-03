@@ -17,7 +17,7 @@ $siteKey = "6Ldt2DAUAAAAADCkJNtWP2C72O2NGnR2sAO8CkwF";
 	<meta name="keywords" content="mindbytes, mind bytes, research expo, rcc, uchi, uchicago, computation center, computation, hpc, hpcmatters, research, research computation center, research center, uchicago research, research uchicago" />
 	<meta name="author" content="RCC" />
 	<!-- Page Title -->
-	<title>Contact Us| Mind Bytes 2017 - Research Computing Expo and Symposium</title>
+	<title>Contact Us | Mind Bytes 2017 - Research Computing Expo and Symposium</title>
 	<!-- Favicon and Touch Icons -->
 	<link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
 

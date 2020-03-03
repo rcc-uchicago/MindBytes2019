@@ -6,12 +6,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Mind Bytes 2019 - Research Computing Expo and Symposium" />
+    <meta name="description" content="Mind Bytes 2020 - Research Computing Expo and Symposium" />
     <meta name="keywords"
         content="mindbytes, mind bytes, research expo, rcc, uchi, uchicago, computation center, computation, hpc, hpcmatters, research, research computation center, research center, uchicago research, research uchicago" />
     <meta name="author" content="RCC" />
     <!-- Page Title -->
-    <title>Poster Gallery 2018 | Mind Bytes 2019 - Research Computing Expo and Symposium</title>
+    <title>Poster Gallery 2018 | Mind Bytes 2020 - Research Computing Expo and Symposium</title>
     <!-- Favicon and Touch Icons -->
     <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
 
@@ -301,7 +301,7 @@
                                                 <label for="form_year">Year</label>
                                                 <select id="ddlYear" name="form_year" class="form_year">
                                                     <option value="All">--- ALL ---</option>
-                                                    <option value="2019">2019</option>
+                                                    <option value="2020">2020</option>
                                                     <option value="2018">2018</option>
                                                     <option value="2017">2017</option>
                                                     <option value="2015">2015</option>

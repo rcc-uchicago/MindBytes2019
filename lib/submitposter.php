@@ -3,7 +3,7 @@
 header('Content-type: application/json');
 require 'PHPMailerAutoload.php';
 
-$output_dir = '../posters/2019/';
+$output_dir = '../posters/2020/';
 
 // SQL server connection information
 require('config.php');
@@ -60,7 +60,7 @@ for($i = 0; $i < count($files_upload); $i++) {
 		$filename = $output_dir.$value;
 		
 		if (file_exists($filename)) {
-			$uploadFiles .= "<br><a href=\"" . $url . '/posters/2019/' . $value . '" target="_blank">' .  $value ."</a>";
+			$uploadFiles .= "<br><a href=\"" . $url . '/posters/2020/' . $value . '" target="_blank">' .  $value ."</a>";
 			$all_file_name .= $value . ', ';
 			//$mail->addAttachment($filename);         // Add attachments
 			//$mail->addAttachment($filename, $value);    // Optional name
@@ -74,7 +74,7 @@ for($i = 0; $i < count($files_upload); $i++) {
 
 //$uploadFiles = implode(', ', $uploadFiles);
 
-$mail->setFrom('events@rcc.uchicago.edu', 'Mind Bytes 2019');
+$mail->setFrom('events@rcc.uchicago.edu', 'Mind Bytes 2020');
 $mail->addAddress('appdev@rcc.uchicago.edu', 'RCC App Dev Team'); //'appdev@rcc.uchicago.edu';
 
 $mail->addBCC($email, $fullname);
@@ -84,7 +84,7 @@ $mail->addReplyTo('info@example.com', 'Information');
 $mail->addCC('cc@example.com');
 $mail->addBCC('bcc@example.com');*/
 
-$mail->Subject = "Mind Bytes 2019 Poster Submission Information : " . $fullname . " uploaded a Poster titled ". '"'. $title_of_poster .'"';
+$mail->Subject = "Mind Bytes 2020 Poster Submission Information : " . $fullname . " uploaded a Poster titled ". '"'. $title_of_poster .'"';
 
 $mail->Body = "<b>Is Public:</b> " . $is_public . "<br><b>Full Name:</b> " . $fullname . "<br><b>Email:</b> " . $email . "<br><b>Academic Title:</b> " . $academic_title . "<br><b>Division/School:</b> " . $division . "<br><b>Department:</b> " . $department . "<br><b>RCC resources  used to conduct this research:</b> " . $rcc_resources . "<br><b>Principal Investigator:</b> " . $principal_investigator . "<br><b>Title of Poster/Project:</b> " . $title_of_poster . "<br><b>Project Abstract/Description:</b> " . $project_abstract . "<br><b>Posters:</b> " . $uploadFiles;
 
@@ -103,7 +103,7 @@ $title_of_poster = mysqli_real_escape_string($conn, $title_of_poster);
 $project_abstract = mysqli_real_escape_string($conn, $project_abstract);
 //$award_category =  mysqli_real_escape_string($conn, $award_category);	
 $all_file_name = mysqli_real_escape_string($conn, rtrim($all_file_name, ', '));
-$year = '2019'; //date("Y");
+$year = '2020'; //date("Y");
 
 $sql = "INSERT INTO tbl_poster (files_upload, is_public, fullname, email, academic_title, division, department, rcc_resources, principal_investigator, title_of_poster, project_abstract, year) 
 	VALUES ('$all_file_name', $is_public, '$fullname', '$email', '$academic_title', '$division', '$department', '$rcc_resources', '$principal_investigator', '$title_of_poster', '$project_abstract', '$year')";

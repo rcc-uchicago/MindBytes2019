@@ -6,12 +6,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Mind Bytes 2019 - Research Computing Expo and Symposium" />
+    <meta name="description" content="Mind Bytes 2020 - Research Computing Expo and Symposium" />
     <meta name="keywords"
         content="mindbytes, mind bytes, research expo, rcc, uchi, uchicago, computation center, computation, hpc, hpcmatters, research, research computation center, research center, uchicago research, research uchicago" />
     <meta name="author" content="RCC" />
     <!-- Page Title -->
-    <title>Home | Mind Bytes 2019 - Research Computing Expo and Symposium</title>
+    <title>Home | Mind Bytes 2020 - Research Computing Expo and Symposium</title>
     <!-- Favicon and Touch Icons -->
     <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
 
@@ -107,7 +107,7 @@
                                                 data-thumb="images/bg/Mind_Bytes_091-hi.jpg" data-rotate="0"
                                                 data-saveperformance="off" data-title="One" data-description="">
 
-                                                <img src="images/bg/Mind_Bytes_091-hi.jpg" alt="" title="Mind Bytes 2019"
+                                                <img src="images/bg/Mind_Bytes_091-hi.jpg" alt="" title="Mind Bytes 2020"
                                                     data-bgposition="center center" data-kenburns="on"
                                                     data-duration="20000" data-ease="Linear.easeNone"
                                                     data-scalestart="130" data-scaleend="100" data-rotatestart="0"
@@ -219,7 +219,7 @@
                                                                 data-paddingbottom="[0,0,0,0]"
                                                                 data-paddingleft="[0,0,0,0]"
                                                                 style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">
-                                                                November 5<sup>th</sup>, 2019
+                                                                November 5<sup>th</sup>, 2020
                                                             </div>
 
                                                             <!-- LAYER NR. 4 -->
@@ -261,7 +261,7 @@
                                                                 data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":1250,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
                                                                 style="z-index: 9; white-space: nowrap; text-transform:left; font-size: 110px; line-height: 100px; font-weight: 600; color: rgba(255,255,255,1); font-family:Poppins; letter-spacing:1px;">
                                                                 <div class="front-clock countdown-timer timer-box timer-deep-bg timer-responsive wow slideUp"
-                                                                    data-endingdate="2019/11/05 12:00:00"
+                                                                    data-endingdate="2020/11/05 12:00:00"
                                                                     data-wow-delay="2s"></div>
                                                             </div>
                                                         </div>
@@ -396,7 +396,7 @@
                                                 data-saveperformance="off" data-title="Two" data-description="">
 
                                                 <img src="images/bg/mindbytes_2018_v3.png" alt=""
-                                                    title="Mind Bytes 2019" data-bgposition="center center"
+                                                    title="Mind Bytes 2020" data-bgposition="center center"
                                                     data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone"
                                                     data-scalestart="130" data-scaleend="100" data-rotatestart="0"
                                                     data-rotateend="0" data-blurstart="0" data-blurend="0"
@@ -510,7 +510,7 @@
                                                                 data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":1250,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
                                                                 style="z-index: 9; white-space: nowrap; text-transform:left; font-size: 110px; line-height: 100px; font-weight: 600; color: rgba(255,255,255,1); font-family:Poppins; letter-spacing:1px;">
                                                                 <div class="front-clock countdown-timer timer-box timer-deep-bg timer-responsive wow flipInY"
-                                                                    data-endingdate="2019/11/05 12:00:00"
+                                                                    data-endingdate="2020/11/05 12:00:00"
                                                                     data-wow-delay="2s"></div>
                                                             </div>
 
@@ -537,7 +537,7 @@
                                                                 data-paddingbottom="[0,0,0,0]"
                                                                 data-paddingleft="[0,0,0,0]"
                                                                 style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">
-                                                                November 5<sup>th</sup>, 2019
+                                                                November 5<sup>th</sup>, 2020
                                                             </div>
 
                                                         </div>
@@ -613,7 +613,7 @@
                                                 data-thumb="images/bg/DSC_6184.jpg" data-rotate="0"
                                                 data-saveperformance="off" data-title="Three" data-description="">
 
-                                                <img src="images/bg/DSC_6184.jpg" alt="" title="Mind Bytes 2019"
+                                                <img src="images/bg/DSC_6184.jpg" alt="" title="Mind Bytes 2020"
                                                     data-bgposition="center center" data-kenburns="on"
                                                     data-duration="20000" data-ease="Linear.easeNone"
                                                     data-scalestart="130" data-scaleend="100" data-rotatestart="0"
@@ -719,7 +719,7 @@
                                                  data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                  data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                  style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">
-                                                May 2019
+                                                May 2020
                                             </div>-->
 
                                                             <!-- <div class="tp-caption tp-resizeme" id="slide-3-layer-3"
@@ -738,7 +738,7 @@
                                                  data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":1250,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
                                                  style="z-index: 9; white-space: nowrap; text-transform:left; font-size: 110px; line-height: 100px; font-weight: 600; color: rgba(255,255,255,1); font-family:Poppins; letter-spacing:1px;">
                                                 <div class="front-clock countdown-timer timer-box timer-deep-bg timer-responsive"
-                                                     data-endingdate="2019/11/05 12:00:00"></div>
+                                                     data-endingdate="2020/11/05 12:00:00"></div>
                                             </div> -->
 
                                                             <div class="tp-caption tp-resizeme Newspaper-Subtitle"
@@ -763,7 +763,7 @@
                                                                 data-paddingbottom="[0,0,0,0]"
                                                                 data-paddingleft="[0,0,0,0]"
                                                                 style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">
-                                                                November 5<sup>th</sup>, 2019
+                                                                November 5<sup>th</sup>, 2020
                                                             </div>
 
                                                             <div class="tp-caption tp-resizeme Newspaper-Subtitle thin"
@@ -794,7 +794,7 @@
                                                             <!--<div class="tp-caption tp-resizeme Newspaper-Subtitle" id="slide-3-layer-4" data-x="['left','left','center','center']" data-hoffset="['0','50','0','0']" data-y="['top','top','top','top']" data-voffset="['0','430','460','290']" data-fontsize="['40','40','50','35']"
                                                 data-lineheight="['50','50','60','40']" data-width="['none','100%','100%','100%']" data-height="none" data-whitespace="normal" data-type="text" data-basealign="slide" data-responsive_offset="on" data-frames='[{"delay":"+890","split":"chars","splitdelay":0.03,"speed":300,"frame":"0","from":"sX:2;sY:2;opacity:0;fb:5px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},{"delay":"wait","speed":1000,"frame":"999","to":"opacity:0;fb:10px;","ease":"Power4.easeOut"}]'
                                                 data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]" data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]" data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
-                                                data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">May 8, 2019, The University of Chicago </div>-->
+                                                data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">May 8, 2020, The University of Chicago </div>-->
                                                         </div>
 
                                                         <!--<div class="tp-caption Newspaper-Button rev-btn" id="slide-3-layer-16" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="none" data-height="none"
@@ -1041,8 +1041,8 @@
                             <div class="wow bounceInDown" data-wow-delay="0.5s">
                                 <!--<p class="mb-20 text-justify">The <a href="https://rcc.uchicago.edu" target="_blank">Research
                                 Computing Center (RCC)</a> at the University of Chicago is pleased to announce its fifth
-                                annual research computing symposium and exposition, Mind Bytes 2019. -->
-                                <!-- This event will be held on <b>Wednesday, May 8th, 2019</b> in Ida Noyes Hall at the University of Chicago's Hyde Park campus.-->
+                                annual research computing symposium and exposition, Mind Bytes 2020. -->
+                                <!-- This event will be held on <b>Wednesday, May 8th, 2020</b> in Ida Noyes Hall at the University of Chicago's Hyde Park campus.-->
                                 <!-- </p> -->
                                 <p class="text-justify"><b>Mind Bytes</b> is a celebration of scholarship and research
                                     computing. It is a unique event that brings together faculty, staff, and students
@@ -1060,7 +1060,7 @@
                                     <a class="hero-btn" href="program.php"><span><i class="fa fa-eye" aria-hidden="true"></i> See Event Schedule</span></a>                                
                                     <!-- <a class="btn btn-colored btn-gray btn-xl text-uppercase mt-30" href="program.php" target="_blank"><i class="fa fa-eye" aria-hidden="true"></i> See Event
                                     Schedule</a> -->
-                                    <a class="btn btn-colored btn-gray btn-xl text-uppercase mt-30" href="gallery.php" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Mind Bytes 2019 poster submissions</a>
+                                    <a class="btn btn-colored btn-gray btn-xl text-uppercase mt-30" href="gallery.php" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Mind Bytes 2020 poster submissions</a>
                                 </div>
                                 <!-- <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase smooth-scroll font-13 mt-10"
                                     href="program.php"><i class="fa fa-eye" aria-hidden="true"></i> Event
@@ -1727,7 +1727,7 @@
                                     <!--<h3 class="mt-0">Are you interested in sponsoring Mind Bytes?</h3>-->
                                     <h2>Call at <span class="text-theme-colored">773.795.2667</span><br>Email us at <a
                                             class="text-theme-colored"
-                                            href="mailto:events@rcc.uchicago.edu?Subject=Question%20regarding%20Sponsoring%20Mind%20Bytes%202019"
+                                            href="mailto:events@rcc.uchicago.edu?Subject=Question%20regarding%20Sponsoring%20Mind%20Bytes%202020"
                                             target="_top">events@rcc.uchicago.edu</a></h2>
                                 </div>
                             </div>

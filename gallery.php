@@ -6,11 +6,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Mind Bytes 2019 - Research Computing Expo and Symposium" />
+    <meta name="description" content="Mind Bytes 2020 - Research Computing Expo and Symposium" />
     <meta name="keywords" content="mindbytes, mind bytes, research expo, rcc, uchi, uchicago, computation center, computation, hpc, hpcmatters, research, research computation center, research center, uchicago research, research uchicago" />
     <meta name="author" content="RCC" />
     <!-- Page Title -->
-    <title>Poster Gallery 2019 | Mind Bytes 2019 - Research Computing Expo and Symposium</title>
+    <title>Poster Gallery 2020 | Mind Bytes 2020 - Research Computing Expo and Symposium</title>
     <!-- Favicon and Touch Icons -->
     <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
 
@@ -110,7 +110,7 @@
                 url: "lib/getposters.php",
                 data: {
                     "awardCategory": sel,
-                    "year": "2019"
+                    "year": "2020"
                 },
                 dataType: "json",
                 async: false,
@@ -210,7 +210,7 @@
                             <div class="section-title">
                                 <div class="row">
                                     <div class="col-md-9 col-md-offset-1 text-center">
-                                        <h2 class="title text-white mb-0">MindBytes Poster Gallery 2019</h2>
+                                        <h2 class="title text-white mb-0">MindBytes Poster Gallery 2020</h2>
                                     </div>
                                 </div>
                             </div>

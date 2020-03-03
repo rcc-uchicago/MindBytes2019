@@ -2,9 +2,9 @@
 <div class="container pt-90 pb-90">
     <div class="row">
         <div class="col-md-3 text-center">
-            <h4 class="text-gray mt-0">Mind Bytes 2019</h4>
+            <h4 class="text-gray mt-0">Mind Bytes 2020</h4>
             <h6 class="text-gray">Phone: 773.795.2667</h6>
-            <h6 class="text-gray"><a href="mailto:events@rcc.uchicago.edu?Subject=Question%20regarding%20Mind%20Bytes%202019" target="_top">events@rcc.uchicago.edu</a></h6>
+            <h6 class="text-gray"><a href="mailto:events@rcc.uchicago.edu?Subject=Question%20regarding%20Mind%20Bytes%202020" target="_top">events@rcc.uchicago.edu</a></h6>
             <!--<h6 class="text-gray">Ida Noyes Hall<br> 1212 E. 59th Street, Chicago, IL 60637</h6>-->
         </div>
 

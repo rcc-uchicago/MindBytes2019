@@ -6,12 +6,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Mind Bytes 2019 - Research Computing Expo and Symposium" />
+    <meta name="description" content="Mind Bytes 2020 - Research Computing Expo and Symposium" />
     <meta name="keywords"
         content="mindbytes, mind bytes, research expo, rcc, uchi, uchicago, computation center, computation, hpc, hpcmatters, research, research computation center, research center, uchicago research, research uchicago" />
     <meta name="author" content="RCC" />
     <!-- Page Title -->
-    <title>Call For Posters | Mind Bytes 2019 - Research Computing Expo and Symposium</title>
+    <title>Call For Posters | Mind Bytes 2020 - Research Computing Expo and Symposium</title>
     <!-- Favicon and Touch Icons -->
     <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
 
@@ -199,9 +199,9 @@
                                                     for printing the new copy.</p>
                                                 <!-- <p class="text-justify"><b><i class="pe-7s-target fa-lg"></i> Poster submissions will open soon.</b></p> -->
                                                 <p class="text-justify"><b>Poster submission begins:</b> September 6,
-                                                    2019.</p>
+                                                    2020.</p>
                                                 <p class="text-justify"><b>Poster submission due date:</b> October 28,
-                                                    2019 5PM CST.</p>
+                                                    2020 5PM CST.</p>
                                                 <!-- <p class="text-justify">Click <a href="#"
                                                         class="text-theme-colored text-uppercase"><u>Here</u></a> to
                                                     submit.</p> -->
@@ -318,22 +318,22 @@
 
                                         <a class="list-group-item list-group-item-info" href="#">
                                             <h4 class="list-group-item-heading">Poster submission begins:</h4>
-                                            <p class="list-group-item-text">September 6, 2019</p>
+                                            <p class="list-group-item-text">September 6, 2020</p>
                                         </a>
                                         <a class="list-group-item list-group-item-success" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/">
                                             <h4 class="list-group-item-heading">Registration begins:</h4>
-                                            <p class="list-group-item-text">September 23, 2019</p>
+                                            <p class="list-group-item-text">September 23, 2020</p>
                                         </a>
                                         <a class="list-group-item list-group-item-danger" href="#">
                                             <h4 class="list-group-item-heading">Poster submission deadline:</h4>
-                                            <p class="list-group-item-text">October 28, 2019 5PM CST</p>
+                                            <p class="list-group-item-text">October 28, 2020 5PM CST</p>
                                         </a>
                                     </div>
                                 </div>
 
                                 <div class="row mb-15">
                                     <div class="hero-buttonwrapper">
-                                        <a class="hero-btn" href="gallery.php"><span>Mind Bytes 2019 poster submissions
+                                        <a class="hero-btn" href="gallery.php"><span>Mind Bytes 2020 poster submissions
                                                 <i class="fa fa-file-pdf-o"></i></span></a>
                                     </div>
                                 </div>

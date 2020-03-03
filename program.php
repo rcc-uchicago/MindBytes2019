@@ -6,11 +6,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Mind Bytes 2019 - Research Computing Expo and Symposium" />
+    <meta name="description" content="Mind Bytes 2020 - Research Computing Expo and Symposium" />
     <meta name="keywords" content="mindbytes, mind bytes, research expo, rcc, uchi, uchicago, computation center, computation, hpc, hpcmatters, research, research computation center, research center, uchicago research, research uchicago" />
     <meta name="author" content="RCC" />
     <!-- Page Title -->
-    <title>Program | Mind Bytes 2019 - Research Computing Expo and Symposium</title>
+    <title>Program | Mind Bytes 2020 - Research Computing Expo and Symposium</title>
     <!-- Favicon and Touch Icons -->
     <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
 
@@ -149,7 +149,7 @@
 
                                                     <div class="cd-timeline-content">
                                                         <h2>Opening Remarks</h2>
-                                                        <div class="cd-speaker clearfix pb-15">
+                                                        <!-- <div class="cd-speaker clearfix pb-15">
                                                             <h6 class="pt-0 mb-0"><a href="keyspeakers.php">Ka Yee C. Lee</a></h6>                                                            
                                                             <h6 class="title text-gray">Professor in Chemistry, the James Franck Institute, Institute for Biophysical Dynamics and the College</h6>
                                                             <h6 class="title text-gray">Vice Provost for Research</h6>
@@ -164,7 +164,7 @@
                                                             <h6 class="pt-0 mb-0"><a href="keyspeakers.php#Birali">H. Birali Runesha</a></h6>                                                            
                                                             <h6 class="title text-gray">Assistant Vice President for Research Computing, Director of the Research Computing Center (RCC)</h6>
                                                         </div>
-                                                        <a href="keyspeakers.php" class="cd-read-more">Read more</a>
+                                                        <a href="keyspeakers.php" class="cd-read-more">Read more</a> -->
 
                                                         <span class="cd-date"><i class="fa fa-clock-o"></i> 1:00 PM – 1:15 PM</span>
                                                     </div>
@@ -181,7 +181,7 @@
                                                     <div class="cd-timeline-content is-hidden">
                                                         <h2>Faculty Lightning Talks</h2>
 
-                                                        <div class="cd-speaker clearfix">
+                                                        <!-- <div class="cd-speaker clearfix">
                                                             <h6 class="pt-0 mb-0"><a href="lightningtalks.php">Lars Hansen</a></h6>
                                                             <h6 class="title text-gray">David Rockefeller Distinguished Service Professor</h6>
                                                             <span class="font-13"><i>"Solving and Analyzing Economic Models with Climate Change"</i></span>
@@ -217,7 +217,7 @@
                                                             <span class="font-13"><i>"Rethinking Brain Dynamics"</i></span>
                                                         </div>
 
-                                                        <a href="lightningtalks.php" class="cd-read-more">Read more</a>
+                                                        <a href="lightningtalks.php" class="cd-read-more">Read more</a> -->
                                                         <span class="cd-date"><i class="fa fa-clock-o"></i> 1:15 PM – 2:35 PM</span>
                                                     </div>
                                                     <!-- cd-timeline-content -->
@@ -246,13 +246,13 @@
 
                                                     <div class="cd-timeline-content is-hidden">
                                                         <h2 class="timeline-title">Keynote Address</h2>
-                                                        <div class="cd-speaker clearfix pb-15">
+                                                        <!-- <div class="cd-speaker clearfix pb-15">
                                                         <div class="alert alert-success pr-0"><i class="fa fa-circle-o faa-burst animated"></i> <b>AI for Science</b></div>
                                                             <h6 class="pt-0 mb-0"><a href="keynote.php">Rick Stevens</a></h6>                                                            
                                                             <h6 class="title text-gray">Professor</h6>
                                                         </div>
 
-                                                        <a href="keynote.php" class="cd-read-more">Read more</a>
+                                                        <a href="keynote.php" class="cd-read-more">Read more</a> -->
                                                         <span class="cd-date"><i class="fa fa-clock-o"></i> 3:05 PM — 3:45 PM</span>
                                                     </div>
                                                     <!-- cd-timeline-content -->
@@ -267,7 +267,7 @@
                                                     <div class="cd-timeline-content is-hidden">
                                                         <h2 class="timeline-title">Panel Discussions</h2>
                                                         <!--<span class="toggle-content"> <i class="fa fa-plus-square-o"></i></span></h2> -->
-                                                        <div class="alert alert-success pr-0"><i class="fa fa-circle-o faa-burst animated"></i> <b>Influences of AI on people and society: ethics, law, and safety</b></div>
+                                                        <!-- <div class="alert alert-success pr-0"><i class="fa fa-circle-o faa-burst animated"></i> <b>Influences of AI on people and society: ethics, law, and safety</b></div>
 
                                                         <div class="cd-speaker clearfix">
                                                             <h6 class="pt-0 mb-0"><a href="panel.php#John">John Pletz</a> <span class="text-highlight">Moderator</span></h6>
@@ -287,7 +287,7 @@
                                                             <h6 class="pt-0 mb-0"><a href="panel.php#Katherine">Katherine J. Strandburg</a></h6>
                                                             <h6 class="title text-gray">Alfred Engelberg Professor of Law and Faculty Director, Information Law Institute, New York University</h6>
                                                         </div>
-                                                        <a href="panel.php" class="cd-read-more">Read more</a>
+                                                        <a href="panel.php" class="cd-read-more">Read more</a> -->
                                                         <span class="cd-date"><i class="fa fa-clock-o"></i> 3:45 PM - 4:45 PM</span>
                                                     </div>
                                                     <!-- cd-timeline-content -->
@@ -332,19 +332,19 @@
                         </div>
                     </div>
 
-                    <div class="overlay-deep">
+                    <!-- <div class="overlay-deep">
                         <div class="container pt-20 pb-20">
                             <div class="section-content">
                                 <div class="row">
-                                <div class="text-center">
-                                        <!-- <a href="uploads/MindBytes2019_Schedule.pdf" class="btn btn-border btn-theme-colored btn-lg text-uppercase hvr-float-shadow" target="_blank">DOWNLOAD SCHEDULE <i class="fa fa-download"></i></a> -->
-                                        <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/">Register Now</a>
+                                <div class="text-center"> -->
+                                        <!-- <a href="uploads/MindBytes2020_Schedule.pdf" class="btn btn-border btn-theme-colored btn-lg text-uppercase hvr-float-shadow" target="_blank">DOWNLOAD SCHEDULE <i class="fa fa-download"></i></a> -->
+                                        <!-- <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/">Register Now</a>
                                     </div>
 
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                 </section>
 
@@ -355,7 +355,7 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <h3 class="mt-0">Still have questions?</h3>
-                                    <h2>Call at <span class="text-theme-colored">773.795.2667</span><br>Email us at <a class="text-theme-colored" href="mailto:events@rcc.uchicago.edu?Subject=Question%20regarding%20Mind%20Bytes%202019" target="_top">events@rcc.uchicago.edu</a></h2>
+                                    <h2>Call at <span class="text-theme-colored">773.795.2667</span><br>Email us at <a class="text-theme-colored" href="mailto:events@rcc.uchicago.edu?Subject=Question%20regarding%20Mind%20Bytes%202020" target="_top">events@rcc.uchicago.edu</a></h2>
                                 </div>
                             </div>
                         </div>

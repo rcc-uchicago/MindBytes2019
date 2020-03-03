@@ -6,12 +6,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Mind Bytes 2019 - Research Computing Expo and Symposium" />
+    <meta name="description" content="Mind Bytes 2020 - Research Computing Expo and Symposium" />
     <meta name="keywords"
         content="mindbytes, mind bytes, research expo, rcc, uchi, uchicago, computation center, computation, hpc, hpcmatters, research, research computation center, research center, uchicago research, research uchicago" />
     <meta name="author" content="RCC" />
     <!-- Page Title -->
-    <title>Registration | Mind Bytes 2019 - Research Computing Expo and Symposium</title>
+    <title>Registration | Mind Bytes 2020 - Research Computing Expo and Symposium</title>
     <!-- Favicon and Touch Icons -->
     <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
 
@@ -96,7 +96,7 @@
                             <div class="section-title">
                                 <div class="row">
                                     <div class="col-md-6 col-md-offset-3 text-center">
-                                        <h2 class="title text-white mb-0">Registration is OPEN!</h2>
+                                        <h2 class="title text-white mb-0">Registration will OPEN soon!</h2>
                                     </div>
                                 </div>
                             </div>
@@ -105,7 +105,7 @@
                 </section>
 
 
-                <section class="divider parallax layer-overlay" data-stellar-background-ratio="0.5"
+                <!-- <section class="divider parallax layer-overlay" data-stellar-background-ratio="0.5"
                     data-bg-img="images/bg/DSC_3394.jpg">
                     <div class="display-table">
                         <div class="display-table-cell">
@@ -127,7 +127,7 @@
                             </div>
                         </div>
                     </div>
-                </section>
+                </section> -->
 
                 <!-- Section: Map -->
                 <section class="wow rollIn" data-wow-delay="1.0s">
@@ -165,7 +165,7 @@
                             <h3 class="mt-0">Still have questions?</h3>
                             <h2>Call at <span class="text-theme-colored">773.795.2667</span><br>Email us at <a
                                     class="text-theme-colored"
-                                    href="mailto:events@rcc.uchicago.edu?Subject=Question%20regarding%20Mind%20Bytes%202019"
+                                    href="mailto:events@rcc.uchicago.edu?Subject=Question%20regarding%20Mind%20Bytes%202020"
                                     target="_top">events@rcc.uchicago.edu</a></h2>
                         </div>
                     </div>
