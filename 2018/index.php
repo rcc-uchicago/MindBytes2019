@@ -498,7 +498,8 @@
                         <div class="col-md-4 mb-sm-20">
                             <div class="about-icon icon-box iconbox-border iconbox-theme-colored wow flipInX center">
                                 <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded" href="#speakers" target="_self">
-                                    <i class="pe-7s-micro font-48"></i></a>
+                                    <i class="pe-7s-micro font-48"></i>
+                                </a>
                                 <h4 class="title"><a href="#speakers" target="_self">Speakers</a></h4>
                                 <p>Distinguished experts, from a range of fields, speak about their experiences, work, and research.</p>
                             </div>
