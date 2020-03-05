@@ -5047,6 +5047,10 @@ textarea {
     top: 40%;
 }
 
+.schedule-tab .nav-tabs li.years {
+    width: 20%;
+}
+
 
 /*schedule Table Style */
 

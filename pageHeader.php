@@ -23,7 +23,7 @@
                         <li><a href="speakers.php">Speakers</a></li>
                         </ul>-->
                     </li>
-                    <li><a href="callforposters.php">Posters</a></li>
+                    <!-- <li><a href="callforposters.php">Posters</a></li> -->
                     <li><a href="travelinfo.php">Travel</a></li>
                     <li><a href="contact.php">Contact Us</a></li>
                 </ul>

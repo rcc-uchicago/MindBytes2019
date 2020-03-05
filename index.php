@@ -104,10 +104,10 @@
                                             <li data-index="rs-1" data-transition="fade" data-slotamount="default"
                                                 data-hideafterloop="0" data-hideslideonmobile="off"
                                                 data-easein="default" data-easeout="default" data-masterspeed="2000"
-                                                data-thumb="images/bg/Mind_Bytes_091-hi.jpg" data-rotate="0"
+                                                data-thumb="images/bg/cover_1.jpg" data-rotate="0"
                                                 data-saveperformance="off" data-title="One" data-description="">
 
-                                                <img src="images/bg/Mind_Bytes_091-hi.jpg" alt="" title="Mind Bytes 2020"
+                                                <img src="images/bg/cover_1.jpg" alt="" title="Mind Bytes 2020"
                                                     data-bgposition="center center" data-kenburns="on"
                                                     data-duration="20000" data-ease="Linear.easeNone"
                                                     data-scalestart="130" data-scaleend="100" data-rotatestart="0"
@@ -157,7 +157,7 @@
                                                                 data-y="['middle','middle','middle','middle']"
                                                                 data-voffset="['10','10','20','10']"
                                                                 data-fontsize="['70','70','80','55']"
-                                                                data-lineheight="['150','90','100','70']"
+                                                                data-lineheight="['180','90','100','70']"
                                                                 data-width="['none','100%','100%','100%']"
                                                                 data-height="none"
                                                                 data-whitespace="['nowrap','nowrap','normal','normal']"
@@ -195,7 +195,7 @@
                                                                 data-paddingbottom="[0,0,0,0]"
                                                                 data-paddingleft="[0,0,40,40]"
                                                                 style="z-index: 9; white-space: nowrap; font-size: 110px; line-height: 100px; font-weight: 600; color: rgba(255,255,255,1); display: inline-block;font-family:Poppins;letter-spacing:-5px;">
-                                                                Mind Bytes <span class="thin">'19</span></div>
+                                                                Mind Bytes <span class="thin">'20</span></div>
 
                                                             <div class="tp-caption tp-resizeme Newspaper-Subtitle"
                                                                 id="slide-1-layer-3"
@@ -219,7 +219,7 @@
                                                                 data-paddingbottom="[0,0,0,0]"
                                                                 data-paddingleft="[0,0,0,0]"
                                                                 style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">
-                                                                November 5<sup>th</sup>, 2020
+                                                                Oct, 2020
                                                             </div>
 
                                                             <!-- LAYER NR. 4 -->
@@ -241,8 +241,32 @@
                                                     Us</a> <a class="btn btn-colored btn-lg btn-theme-colored"
                                                               href="#about">View Details</a>
                                             </div>-->
+                                            <div class="tp-caption tp-resizeme Newspaper-Subtitle thin"
+                                                                id="slide-1-layer-5"
+                                                                data-x="['left','left','center','center']"
+                                                                data-hoffset="['0','50','0','0']"
+                                                                data-y="['top','top','top','top']"
+                                                                data-voffset="['100','430','460','290']"
+                                                                data-fontsize="['50','50','60','40']"
+                                                                data-lineheight="['200','60','30','45']"
+                                                                data-width="['none','100%','100%','100%']"
+                                                                data-height="none" data-whitespace="normal"
+                                                                data-type="text" data-basealign="slide"
+                                                                data-responsive_offset="on"
+                                                                data-frames='[{"delay":"+1590","split":"chars","splitdelay":0.03,"speed":300,"frame":"0","from":"sX:2;sY:2;opacity:0;fb:5px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},{"delay":"wait","speed":1000,"frame":"999","to":"opacity:0;fb:10px;","ease":"Power4.easeOut"}]'
+                                                                data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]"
+                                                                data-marginbottom="[0,0,0,0]"
+                                                                data-marginleft="[0,0,0,0]"
+                                                                data-textAlign="['inherit','inherit','center','center']"
+                                                                data-paddingtop="[0,0,0,0]"
+                                                                data-paddingright="[0,0,0,0]"
+                                                                data-paddingbottom="[0,0,0,0]"
+                                                                data-paddingleft="[0,0,0,0]"
+                                                                style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">
+                                                                We look forward to seeing you this year
+                                                            </div>
 
-                                                            <div class="tp-caption tp-resizeme" id="slide-1-layer-4"
+                                                            <!-- <div class="tp-caption tp-resizeme" id="slide-1-layer-4"
                                                                 data-x="['left','left','center','center']"
                                                                 data-hoffset="['0','0','0','0']"
                                                                 data-y="['top','top','top','top']"
@@ -263,7 +287,7 @@
                                                                 <div class="front-clock countdown-timer timer-box timer-deep-bg timer-responsive wow slideUp"
                                                                     data-endingdate="2020/11/05 12:00:00"
                                                                     data-wow-delay="2s"></div>
-                                                            </div>
+                                                            </div> -->
                                                         </div>
 
                                                         <!-- <div class="tp-caption Newspaper-Button rev-btn" id="slide-1-layer-16" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="none" data-height="none"
@@ -274,7 +298,7 @@
                                                     </div>
                                                 </div>
 
-                                                <!-- <a href="program.php" target="_self"
+                                                <a href="program.php" target="_self"
                                                     class="tp-caption rev-btn tp-resizeme" id="slide-1-layer-4"
                                                     data-x="['center','center','center','center']"
                                                     data-hoffset="['0','0','0','0']"
@@ -288,9 +312,9 @@
                                                     data-paddingtop="[0,0,0,0]" data-paddingright="[50,50,50,50]"
                                                     data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
                                                     style="z-index: 9; white-space: nowrap; font-size: 15px; font-weight: 700; color: rgba(255,255,255,1);font-family:Arial, Helvetica, sans-serif;border-color:rgba(255,255,255,0.25);border-style:solid;border-width:2px;border-radius:4px 4px 4px 4px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:5px;cursor:pointer;">VIEW
-                                                    PROGRAM AGENDA</a> -->
+                                                    PROGRAM AGENDA</a>
 
-                                                <a href="registration.php" target="_self"
+                                                <!-- <a href="registration.php" target="_self"
                                                     class="tp-caption rev-btn tp-resizeme" id="slide-1-layer-5"
                                                     data-x="['right','right','center','center']"
                                                     data-hoffset="['660','550','0','0']"
@@ -334,7 +358,7 @@
                                                     data-paddingtop="[0,0,0,0]" data-paddingright="[50,50,50,50]"
                                                     data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
                                                     style="z-index: 11; white-space: nowrap; font-size: 15px; line-height: 46px; font-weight: 700; color: rgba(255,255,255,1);font-family:Arial, Helvetica, sans-serif;border-color:rgba(255,255,255,0.25);border-style:solid;border-width:2px;border-radius:4px 4px 4px 4px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:5px;cursor:pointer;">Submitted Posters
-                                                </a>
+                                                </a> -->
 
                                                 <!-- <a href="submission.php" target="_self"
                                                     class="tp-caption rev-btn tp-resizeme" id="slide-1-layer-7"
@@ -392,10 +416,10 @@
                                             <li data-index="rs-2" data-transition="fade" data-slotamount="default"
                                                 data-hideafterloop="0" data-hideslideonmobile="off"
                                                 data-easein="default" data-easeout="default" data-masterspeed="2000"
-                                                data-thumb="images/bg/mindbytes_2018_v3.png" data-rotate="0"
+                                                data-thumb="images/bg/cover_2.png" data-rotate="0"
                                                 data-saveperformance="off" data-title="Two" data-description="">
 
-                                                <img src="images/bg/mindbytes_2018_v3.png" alt=""
+                                                <img src="images/bg/cover_2.png" alt=""
                                                     title="Mind Bytes 2020" data-bgposition="center center"
                                                     data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone"
                                                     data-scalestart="130" data-scaleend="100" data-rotatestart="0"
@@ -484,14 +508,14 @@
                                                                 data-paddingbottom="[0,0,0,0]"
                                                                 data-paddingleft="[0,0,40,40]"
                                                                 style="z-index: 8; white-space: nowrap; font-size: 110px; line-height: 100px; font-weight: 600; color: rgba(255,255,255,1); display: inline-block;font-family:Poppins;letter-spacing:0px;">
-                                                                Mind Bytes <span class="thin">'19</span></div>
+                                                                Mind Bytes <span class="thin">'20</span></div>
 
                                                             <!--<div class="tp-caption tp-resizeme Newspaper-Subtitle" id="slide-2-layer-3" data-x="['left','left','center','center']" data-hoffset="['0','50','0','0']" data-y="['top','top','top','top']" data-voffset="['0','430','460','290']" data-fontsize="['40','40','50','35']"
                                                 data-lineheight="['50','50','60','40']" data-width="['none','100%','100%','100%']" data-height="none" data-whitespace="normal" data-type="text" data-basealign="slide" data-responsive_offset="on" data-frames='[{"delay":"+500","split":"chars","splitdelay":0.03,"speed":300,"frame":"0","from":"sX:2;sY:2;opacity:0;fb:5px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},{"delay":"wait","speed":1000,"frame":"999","to":"opacity:0;fb:10px;","ease":"Power4.easeOut"}]'
                                                 data-margintop="[80,80,80,80]" data-marginright="[0,0,0,0]" data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]" data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                 data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">We look forward to seeing you</div>-->
 
-                                                            <div class="tp-caption tp-resizeme" id="slide-2-layer-4"
+                                                            <!-- <div class="tp-caption tp-resizeme" id="slide-2-layer-4"
                                                                 data-x="['left','left','center','center']"
                                                                 data-hoffset="['0','0','0','0']"
                                                                 data-y="['top','top','top','top']"
@@ -512,7 +536,7 @@
                                                                 <div class="front-clock countdown-timer timer-box timer-deep-bg timer-responsive wow flipInY"
                                                                     data-endingdate="2020/11/05 12:00:00"
                                                                     data-wow-delay="2s"></div>
-                                                            </div>
+                                                            </div> -->
 
                                                             <div class="tp-caption tp-resizeme Newspaper-Subtitle"
                                                                 id="slide-2-layer-5"
@@ -537,7 +561,7 @@
                                                                 data-paddingbottom="[0,0,0,0]"
                                                                 data-paddingleft="[0,0,0,0]"
                                                                 style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">
-                                                                November 5<sup>th</sup>, 2020
+                                                                Oct, 2020
                                                             </div>
 
                                                         </div>
@@ -560,7 +584,7 @@
                                                     style="z-index: 11; white-space: nowrap;text-transform:left;border-color:rgba(255,255,255,0.75);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">CALL
                                                     FOR POSTERS</a> -->
                                                 
-                                                <a href="gallery.php" target="_self"
+                                                <!-- <a href="gallery.php" target="_self"
                                                     class="tp-caption Newspaper-Button tp-resizeme"
                                                     id="slide-2-layer-16" data-x="['right','right','center','center']"
                                                     data-hoffset="['660','550','0','0']"
@@ -573,9 +597,9 @@
                                                     data-textAlign="['left','left','left','left']"
                                                     data-paddingtop="[10,10,10,10]" data-paddingright="[35,35,35,35]"
                                                     data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]"
-                                                    style="z-index: 11; white-space: nowrap;text-transform:left;border-color:rgba(255,255,255,0.75);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">SUBMITTED POSTERS</a>
+                                                    style="z-index: 11; white-space: nowrap;text-transform:left;border-color:rgba(255,255,255,0.75);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">SUBMITTED POSTERS</a> -->
 
-                                                <a href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/"
+                                                <!-- <a href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/"
                                                     target="_blank" class="tp-caption Newspaper-Button tp-resizeme"
                                                     id="slide-2-layer-17" data-x="['left','left','center','center']"
                                                     data-hoffset="['660','550','0','0']"
@@ -589,7 +613,7 @@
                                                     data-paddingtop="[10,10,10,10]" data-paddingright="[35,35,35,35]"
                                                     data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]"
                                                     style="z-index: 11; white-space: nowrap;text-transform:left;border-color:rgba(255,255,255,0.75);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">REGISTER
-                                                    NOW</a>
+                                                    NOW</a> -->
 
                                                 <div class="tp-caption tp-shape tp-shapewrapper" id="slide-2-layer-18"
                                                     data-x="['center','center','center','center']"
@@ -610,10 +634,10 @@
                                             <li data-index="rs-3" data-transition="fade" data-slotamount="default"
                                                 data-hideafterloop="0" data-hideslideonmobile="off"
                                                 data-easein="default" data-easeout="default" data-masterspeed="2000"
-                                                data-thumb="images/bg/DSC_6184.jpg" data-rotate="0"
+                                                data-thumb="images/bg/cover_3.jpg" data-rotate="0"
                                                 data-saveperformance="off" data-title="Three" data-description="">
 
-                                                <img src="images/bg/DSC_6184.jpg" alt="" title="Mind Bytes 2020"
+                                                <img src="images/bg/cover_3.jpg" alt="" title="Mind Bytes 2020"
                                                     data-bgposition="center center" data-kenburns="on"
                                                     data-duration="20000" data-ease="Linear.easeNone"
                                                     data-scalestart="130" data-scaleend="100" data-rotatestart="0"
@@ -701,7 +725,7 @@
                                                                 data-paddingbottom="[0,0,0,0]"
                                                                 data-paddingleft="[0,0,40,40]"
                                                                 style="z-index: 9; white-space: nowrap; font-size: 110px; line-height: 100px; font-weight: 600; color: rgba(255,255,255,1); display: inline-block;font-family:Poppins;letter-spacing:-5px;">
-                                                                Mind Bytes <span class="thin">'19</span></div>
+                                                                Mind Bytes <span class="thin">'20</span></div>
 
                                                             <!--<div class="tp-caption tp-resizeme Newspaper-Subtitle" id="slide-3-layer-3"
                                                  data-x="['left','left','center','center']"
@@ -763,7 +787,7 @@
                                                                 data-paddingbottom="[0,0,0,0]"
                                                                 data-paddingleft="[0,0,0,0]"
                                                                 style="z-index: 10; white-space: normal; font-size: 40px; line-height: 50px; font-weight: 450; color: rgba(255,255,255,1); display: block;font-family:Georgia, serif;">
-                                                                November 5<sup>th</sup>, 2020
+                                                                Oct, 2020
                                                             </div>
 
                                                             <div class="tp-caption tp-resizeme Newspaper-Subtitle thin"
@@ -804,7 +828,7 @@
                                                     </div>
                                                 </div>
 
-                                                <a href="program.php" target="_self"
+                                                <!-- <a href="program.php" target="_self"
                                                     class="tp-caption rev-btn tp-resizeme" id="slide-3-layer-5"
                                                     data-x="['right','right','center','center']"
                                                     data-hoffset="['660','550','0','0']"
@@ -835,7 +859,7 @@
                                                     data-paddingtop="[0,0,0,0]" data-paddingright="[50,50,50,50]"
                                                     data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
                                                     style="z-index: 11; white-space: nowrap; font-size: 15px; line-height: 46px; font-weight: 700; color: rgba(255,255,255,1);font-family:Arial, Helvetica, sans-serif;border-color:rgba(255,255,255,0.25);border-style:solid;border-width:2px;border-radius:4px 4px 4px 4px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:5px;cursor:pointer;">REGISTER
-                                                    NOW</a>
+                                                    NOW</a> -->
 
                                                 <div class="tp-caption tp-shape tp-shapewrapper" id="slide-3-layer-17"
                                                     data-x="['center','center','center','center']"
@@ -1036,7 +1060,7 @@
                             <!-- <h3 class="sub-title font-28 text-gray-darkgray m-0 mt-0 mt-md-0">Overview</h3> -->
                             <h3 class="title font-30 text-gray mt-0 mb-20 wow fadeInUp" data-wow-delay="1s">Join us for
                                 the
-                                5th Annual Mind Bytes!</h3>
+                                6<sup>th</sup> annual Mind Bytes!</h3>
                             <div class="sec-line wow fadeInUp"></div>
                             <div class="wow bounceInDown" data-wow-delay="0.5s">
                                 <!--<p class="mb-20 text-justify">The <a href="https://rcc.uchicago.edu" target="_blank">Research
@@ -1049,18 +1073,17 @@
                                     from
                                     every corner of the University who share an interest in high-end computing, data,
                                     scientific visualization, and the use of computation and data to advance what is
-                                    considered state of the art in their fields. The theme for discussion for this
-                                    year's
-                                    event is
-                                    <b>Data Science: The Complexity of Connections</b>.</p>
+                                    considered state of the art in their fields. 
+                                    <!-- The theme for discussion for this year's event is <b>Data Science: The Complexity of Connections</b>. -->
+                                </p>
 
                                 <div class="hero-buttonwrapper">
-                                    <a class="hero-btn" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/" target="_blank"><span>Register Now <i class="fa fa-arrow-circle-o-right"></i></span></a>
+                                    <!-- <a class="hero-btn" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/" target="_blank"><span>Register Now <i class="fa fa-arrow-circle-o-right"></i></span></a> -->
                                     <!-- <a class="hero-btn" href="submission.php"><span>Submit your Poster <i class="fa fa-file-pdf-o"></i></span></a> -->
                                     <a class="hero-btn" href="program.php"><span><i class="fa fa-eye" aria-hidden="true"></i> See Event Schedule</span></a>                                
                                     <!-- <a class="btn btn-colored btn-gray btn-xl text-uppercase mt-30" href="program.php" target="_blank"><i class="fa fa-eye" aria-hidden="true"></i> See Event
                                     Schedule</a> -->
-                                    <a class="btn btn-colored btn-gray btn-xl text-uppercase mt-30" href="gallery.php" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Mind Bytes 2020 poster submissions</a>
+                                    <!-- <a class="btn btn-colored btn-gray btn-xl text-uppercase mt-30" href="gallery.php" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Mind Bytes 2020 poster submissions</a> -->
                                 </div>
                                 <!-- <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase smooth-scroll font-13 mt-10"
                                     href="program.php"><i class="fa fa-eye" aria-hidden="true"></i> Event
@@ -1111,18 +1134,18 @@
                         <div class="col-md-4 mb-sm-20">
                             <div class="about-icon icon-box iconbox-theme-colored wow bounceInLeft">
                                 <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded"
-                                    href="lightningtalks.php" target="_self">
+                                    href="#" target="_self">
                                     <i class="pe-7s-gleam font-48"></i></a>
-                                <h4 class="title"><a href="lightningtalks.php" target="_self">Lightning Talks</a></h4>
+                                <h4 class="title"><a href="#" target="_self">Lightning Talks</a></h4>
                                 <p>University of Chicago faculty present fast-paced summaries of their research.</p>
                             </div>
                         </div>
                         <div class="col-md-4 mb-sm-20">
                             <div class="about-icon icon-box iconbox-border iconbox-theme-colored wow flipInX center">
                                 <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded"
-                                    href="#speakers" target="_self">
+                                    href="#" target="_self">
                                     <i class="pe-7s-micro font-48"></i></a>
-                                <h4 class="title"><a href="#speakers" target="_self">Speakers</a></h4>
+                                <h4 class="title"><a href="#" target="_self">Speakers</a></h4>
                                 <p>Distinguished experts, from a range of fields, speak about their experiences, work,
                                     and
                                     research.</p>
@@ -1131,9 +1154,9 @@
                         <div class="col-md-4 mb-sm-20">
                             <div class="about-icon icon-box iconbox-border iconbox-theme-colored wow bounceInRight">
                                 <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded"
-                                    href="callforposters.php" target="_self">
+                                    href="#" target="_self">
                                     <i class="pe-7s-display2 font-48"></i></a>
-                                <h4 class="title"><a href="callforposters.php" target="_self">Poster Competition</a>
+                                <h4 class="title"><a href="#" target="_self">Poster Competition</a>
                                 </h4>
                                 <p>Four awards will be given to the best research posters presented at Mind Bytes.</p>
                             </div>
@@ -1143,9 +1166,9 @@
                         <div class="col-md-4 mb-sm-20">
                             <div class="about-icon icon-box iconbox-theme-colored wow rollIn" data-wow-delay="0.5s">
                                 <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded"
-                                    href="fair.php" target="_self">
+                                    href="#" target="_self">
                                     <i class="pe-7s-target font-48"></i></a>
-                                <h4 class="title"><a href="fair.php" target="_self">Resource Fair</a></h4>
+                                <h4 class="title"><a href="#" target="_self">Resource Fair</a></h4>
                                 <p>Learn how RCC and other resources can transform your research.</p>
                             </div>
                         </div>
@@ -1153,9 +1176,9 @@
                             <div class="about-icon icon-box iconbox-theme-colored wow bounceInDown center"
                                 data-wow-delay="0.5s">
                                 <a class="icon icon-gray icon-bordered icon-rounded icon-border-effect effect-rounded"
-                                    href="demos.php" target="_self">
+                                    href="#" target="_self">
                                     <i class="pe-7s-config font-48"></i></a>
-                                <h4 class="title"><a href="demos.php" target="_self">Technical Demonstrations</a></h4>
+                                <h4 class="title"><a href="#" target="_self">Technical Demonstrations</a></h4>
                                 <p>Discover new technologies and concepts to benefit your scholarship.</p>
                             </div>
                         </div>
@@ -1175,7 +1198,7 @@
             </section>
 
             <!-- Speakers section comes here -->
-            <section id="speakers" class="divider bg-lighter">
+            <!-- <section id="speakers" class="divider bg-lighter">
                 <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
                     <div class="container pt-50 pb-50">
                         <div class="section-title">
@@ -1186,12 +1209,12 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!---->
-                <div class="bg-white-light">
+                <!-- <div class="bg-white-light">
                     <div class="col-md-12 pl-30 pt-20 pb-0">
                         <div class="section-content">
-                            <div class="row" id="divSpeakers">
+                            <div class="row" id="divSpeakers"> -->
                                 <!---->
                                 <!-- Keynote Speaker -->
                                 <!-- <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
@@ -1211,7 +1234,7 @@
                                 </div> -->
                                 <!---->
                                 <!-- Opening Remarks -->
-                                <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
+                                <!-- <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
                                         <div class="team-thumb"><img alt="Ka Yee C. Lee"
                                                 src="images/speakers/slider/Ka_Yee_Lee.png" class="img-fullwidth">
@@ -1257,10 +1280,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!---->
                                 <!-- Lightning Talks Speakers -->
-                                <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
+                                <!-- <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
                                         <div class="team-thumb"><img alt="Lars Hansen"
                                                 src="images/speakers/slider/Lars_Hansen.jpg" class="img-fullwidth">
@@ -1278,9 +1301,9 @@
                                                     </p>
                                                 </blockquote>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <!---->
-                                    </div>
+                                    <!-- </div>
                                 </div>
                                 <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
@@ -1378,10 +1401,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!---->
                                 <!-- Panel Moderator -->
-                                <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
+                                <!-- <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
                                         <div class="team-thumb"><img alt="John Pletz"
                                                 src="images/speakers/slider/John_Pletz.jpg"
@@ -1394,10 +1417,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!---->
                                 <!-- Panel Speakers-->
-                                <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
+                                <!-- <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
                                         <div class="team-thumb"><img alt="Katherine J. Strandburg"
                                                 src="images/speakers/slider/Katherine.jpg" class="img-fullwidth"></div>
@@ -1408,10 +1431,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!---->
                                 <!-- Panel Speakers-->
-                                <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
+                                <!-- <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
                                         <div class="team-thumb"><img alt="Rick Stevens"
                                                 src="images/speakers/slider/Rick_Stevens.jpg" class="img-fullwidth"></div>
@@ -1422,10 +1445,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!---->
                                 <!-- Panel Speakers-->
-                                <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
+                                <!-- <div class="item col-xs-12 col-sm-12 col-md-14 mb-0">
                                     <div class="team-member clearfix">
                                         <div class="team-thumb"><img alt="Eric Rice"
                                                 src="images/speakers/slider/Eric_Rice.jpg" class="img-fullwidth"></div>
@@ -1436,14 +1459,14 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!---->
-                            </div>
+                            <!-- </div>
                         </div>
                     </div>
                 </div>
 
-            </section>
+            </section> -->
 
             <!-- Section: Call to action -->
             <section class="divider parallax layer-overlay overlay-darkblue">
@@ -1458,8 +1481,7 @@
                         <div class="hero-buttonwrapper">
                             <!-- <a class="hero-btn" href="submission.php"><span>Submit your Poster <i
                                         class="fa fa-file-pdf-o"></i></span></a> -->
-                            <a class="hero-btn" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/"
-                                target="_blank"><span>Register Now <i class="fa fa-arrow-circle-o-right"></i></span></a>
+                            <!-- <a class="hero-btn" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/" target="_blank"><span>Register Now <i class="fa fa-arrow-circle-o-right"></i></span></a> -->
                             <!--<a class="btn btn-colored btn-gray btn-xl text-uppercase mt-30" href="https://universityevents.wufoo.com/forms/kfik9mb1xoq7rq/" target="_blank">Register Now</a>-->
                         </div>
                         <!--<div class="col-md-4">
@@ -1483,15 +1505,17 @@
                 </div>-->
                     <div class="schedule-tab center wow fadeInDown" data-wow-delay="0.5s">
                         <ul class="nav nav-tabs" style="margin-bottom: 20px;">
-                            <li class=""><a href="http://mindbytes.uchicago.edu/2018" target="_blank">2018<span>May 8,
+                            <li class="years"><a href="http://mindbytes.uchicago.edu/2019" target="_blank">2019<span>Nov 5,
+                                        2019</span></a></li>
+                            <li class="years"><a href="http://mindbytes.uchicago.edu/2018" target="_blank">2018<span>May 8,
                                         2018</span></a></li>
-                            <li class=""><a href="http://mindbytes.uchicago.edu/2017" target="_blank">2017<span>May 2,
+                            <li class="years"><a href="http://mindbytes.uchicago.edu/2017" target="_blank">2017<span>May 2,
                                         2017</span></a></li>
-                            <li class=""><a href="http://mindbytes.uchicago.edu/2015" target="_blank">2015<span>October
-                                        27, 2015</span></a>
+                            <li class="years"><a href="http://mindbytes.uchicago.edu/2015" target="_blank">2015<span>Oct 27,
+                                        2015</span></a>
                             </li>
-                            <li class=""><a href="http://mindbytes.uchicago.edu/2014" target="_blank">2014<span>October
-                                        28, 2014</span></a>
+                            <li class="years"><a href="http://mindbytes.uchicago.edu/2014" target="_blank">2014<span>Oct 28,
+                                        2014</span></a>
                             </li>
                         </ul>
                     </div>
@@ -1506,8 +1530,7 @@
                                         </div>
                                         <div class="overlay">
                                             <div class="content text-center">
-                                                <h6 class="title font-14 mt-30 mb-0">Guests discuss the posters
-                                                    submitted.</h6>
+                                                <h6 class="title font-14 mt-30 mb-0">Guests discuss the posters submitted.</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -1520,8 +1543,7 @@
                                         </div>
                                         <div class="overlay">
                                             <div class="content text-center">
-                                                <h6 class="title font-14 mt-30 mb-0">An attendee takes part in a
-                                                    visualization demonstration.</h6>
+                                                <h6 class="title font-14 mt-30 mb-0">An attendee visits a resource fair table.</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -1534,9 +1556,7 @@
                                         </div>
                                         <div class="overlay">
                                             <div class="content text-center">
-                                                <h6 class="title font-14 mt-30 mb-0">Technical demonstrations of the
-                                                    latest
-                                                    technologies.</h6>
+                                                <h6 class="title font-14 mt-30 mb-0">Technical demonstrations of the latest technologies.</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -1549,9 +1569,7 @@
                                         </div>
                                         <div class="overlay">
                                             <div class="content text-center">
-                                                <h6 class="title font-14 mt-30 mb-0">Birali Runesha, Assistant Vice
-                                                    President for Research Computing, Director of the Research Computing
-                                                    Center, welcomes the attendees.</h6>
+                                                <h6 class="title font-14 mt-30 mb-0">Assistant Vice President for Research Computing, Director of the Research Computing Center, welcomes the attendees.</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -1564,9 +1582,7 @@
                                         </div>
                                         <div class="overlay">
                                             <div class="content text-center">
-                                                <h6 class="title font-14 mt-30 mb-0">Former Executive Vice President for
-                                                    Research and National Labs, Eric Isaacs, gives the opening remarks.
-                                                </h6>
+                                                <h6 class="title font-14 mt-30 mb-0">Attendees listen to faculty lightning talks.</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -1579,9 +1595,7 @@
                                         </div>
                                         <div class="overlay">
                                             <div class="content text-center">
-                                                <h6 class="title font-14 mt-30 mb-0">Attendees listen to faculty
-                                                    lightning
-                                                    talks.</h6>
+                                                <h6 class="title font-14 mt-30 mb-0">Rick Stevens delivers the keynote address.</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -1594,37 +1608,7 @@
                                         </div>
                                         <div class="overlay">
                                             <div class="content text-center">
-                                                <h6 class="title font-14 mt-30 mb-0">Paul Blasé delivers the keynote
-                                                    address.</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="team-member clearfix">
-                                        <div class="team-thumb">
-                                            <img class="img-responsive" src="images/gallery/8.jpg" alt="Mind Bytes"
-                                                width="476">
-                                        </div>
-                                        <div class="overlay">
-                                            <div class="content text-center">
-                                                <h6 class="title font-14 mt-30 mb-0">Panel discussion on solving
-                                                    societal
-                                                    challenges with artificial intelligence.</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="team-member clearfix">
-                                        <div class="team-thumb">
-                                            <img class="img-responsive" src="images/gallery/9.jpg" alt="Mind Bytes"
-                                                width="476">
-                                        </div>
-                                        <div class="overlay">
-                                            <div class="content text-center">
-                                                <h6 class="title font-14 mt-30 mb-0">Guests enjoy a reception after the
-                                                    event.</h6>
+                                                <h6 class="title font-14 mt-30 mb-0">Panel discussion on influences of AI on people and society: ethics, law, and safety.</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -1658,11 +1642,12 @@
                     <div class="row wow bounceInUp center" data-wow-delay="0.5s">
                         <div class="col-md-12 text-center">
                             <h2 class="text-white mt-0">Our Sponsors</h2>
+                            <h3 class="mt-0 text-theme-colored">Are you interested in sponsoring Mind Bytes 2020?</h3>
                         </div>
                     </div>
                 </div>
 
-                <div class="parallax layer-overlay overlay-light bg-white-light" data-stellar-background-ratio="0.5"
+                <!-- <div class="parallax layer-overlay overlay-light bg-white-light" data-stellar-background-ratio="0.5"
                     data-bg-img="images/bg/bg_sponsor.png">
                     <div class="container pb-80 pt-80">
                         <div class="row section-content">
@@ -1692,7 +1677,7 @@
                                                 alt="Digital Transformation | Dell Technologies | Dell Technologies United States"></a>
 
                                         <a href="https://www.globus.org/" target="_blank"><img src="images/sponsors/Globus_logo.png" alt="Globus"></a>
-                                    </div>
+                                    </div> -->
                                     <!-- <div class="col-xs-6 col-sm-4 col-md-2 text-center">
                                         <a href="http://www3.lenovo.com/us/en/" target="_blank"><img src="images/sponsors/lenovo_logo.png" alt="LENOVO"></a>
                                     </div> -->                                    
@@ -1711,11 +1696,11 @@
                                     <div class="col-xs-6 col-sm-4 col-md-3 text-center">
                                         <a href="https://www.microsoft.com/en-us/" target="_blank"><img src="https://placehold.it/255x188" alt="MICROSOFT"></a>
                                     </div> -->
-                                </div>
+                                <!-- </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- divider: what makes us different -->
                 <section class="divider parallax layer-overlay overlay-light" data-stellar-background-ratio="0.5"
@@ -1724,7 +1709,7 @@
                         <div class="section-content text-center">
                             <div class="row">
                                 <div class="col-md-12">
-                                    <!--<h3 class="mt-0">Are you interested in sponsoring Mind Bytes?</h3>-->
+                                    <!-- <h3 class="mt-0">Are you interested in sponsoring Mind Bytes 2020?</h3> -->
                                     <h2>Call at <span class="text-theme-colored">773.795.2667</span><br>Email us at <a
                                             class="text-theme-colored"
                                             href="mailto:events@rcc.uchicago.edu?Subject=Question%20regarding%20Sponsoring%20Mind%20Bytes%202020"

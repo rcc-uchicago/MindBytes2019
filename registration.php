@@ -92,11 +92,11 @@
                 <!-- Section: home -->
                 <section class="divider parallax layer-overlay overlay-darkblue">
                     <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
-                        <div class="container pt-50 pb-50">
+                        <div class="container pt-80 pb-80">
                             <div class="section-title">
                                 <div class="row">
-                                    <div class="col-md-6 col-md-offset-3 text-center">
-                                        <h2 class="title text-white mb-0">Registration will OPEN soon!</h2>
+                                    <div class="col-md-8 col-md-offset-2 text-center">
+                                        <h2 class="title text-white mb-0">Registration will open soon</h2>
                                     </div>
                                 </div>
                             </div>
@@ -132,13 +132,13 @@
                 <!-- Section: Map -->
                 <section class="wow rollIn" data-wow-delay="1.0s">
                     <div class="container-fluid p-0">
-                        <!--<iframe
+                        <iframe
 									  width="600"
 									  height="400"
 									  frameborder="0" style="border:0"
 									  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAChgLMydtgwG9_Se3-Lt05BBzvekEn4u8
 										&q=Ida+Noyes+Hall+1212+E.+59th+Street, Chicag0+IL+60637+United+States" allowfullscreen>
-								</iframe>-->
+								</iframe>
 
                         <!-- Google Map HTML Codes -->
                         <!--<div data-address="Ida Noyes Hall 1212 E. 59th Street Chicago, IL 60637" data-popupstring-id="#popupstring1" class="gmap map-canvas autoload-map" data-mapstyle="default" data-height="300" data-latlng="41.788211,-87.595580" data-title="Ida Noyes Hall 1212 E. 59th Street Chicago, IL 60637 United States"

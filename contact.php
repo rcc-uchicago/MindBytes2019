@@ -261,7 +261,7 @@ $siteKey = "6Ldt2DAUAAAAADCkJNtWP2C72O2NGnR2sAO8CkwF";
 
         <!-- PAGE SCRIPT  -->
         <script type="text/javascript">
-            $("ul.menuzord-menu li:nth-child(6)").addClass("active");
+            $("ul.menuzord-menu li:nth-child(5)").addClass("active");
         </script>
 
     </body>
